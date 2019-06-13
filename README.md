@@ -1,2 +1,2 @@
 # CV
-Documents for updating and generating a current CV.
+Documents for updating and generating a CV.
