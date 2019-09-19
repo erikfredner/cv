@@ -1,123 +1,217 @@
 ---
-fontfamily: times
+fontfamily: ebgaramond
 ---
+\hyphenpenalty=10000
 
 # Erik Fredner
 Department of English, Stanford University \
-450 Serra Mall, Margaret Jacks Hall 2nd Floor Stanford, CA 94305 \
-fredner@stanford.edu · https://fredner.org
+450 Serra Mall · Margaret Jacks Hall, Second Floor · Stanford, CA 94305 \
+fredner@stanford.edu · fredner.org
 
 ## Education
-Stanford University (2014-Present)\
+**Stanford University** \hfill 2014-Present\
 Ph.D. in English expected June 2020\
 Graduate Certificate in Digital Humanities
 
-Harvard Graduate School of Education (2011-2012)\
+**Harvard Graduate School of Education** \hfill 2011-2012\
 Teacher Education Program 
 
-Oxford University (2010-2011)\
+**Oxford University** \hfill 2010-2011\
 Visiting Student in English
 
-Harvard University (2008-2012)\
+**Harvard University** \hfill 2008-2012\
 A.B. *magna cum laude* in English
 
+## Writing and Research
 ### Dissertation
-*Absent Centers: Fictions of Equality After the American Civil War* \
+*Average, American: Fictions of Equality After the American Civil War* \
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
-## Publications
+### Journal Articles
+Fredner, Erik. “Average Americans: Hamlin Garland’s ‘Problem of Individual Life.’”\
+Under review at *Nineteenth-Century Literature*.
+
+Fredner, Erik; Porter, J.D. "Counting on the *Norton Anthology of American Literature*."\
+Under review at *New Literary History*.
+
+### Edited Collections
+Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Fredner, Erik; Porter, J.D.; Shephard, Andrew; Walser, Hannah. "Methods." *Suspense: A Study in Digital Narratology.* Preparing manuscript for submission.
+
+Fredner, Erik. "Synchronic and Diachronic Suspense." *Suspense: A Study in Digital Narratology*. Preparing manuscript for submission.
+
 Algee-Hewitt, Mark; Fredner, Erik; Walser, Hannah. “The Novel as Data.” *The Cambridge Companion to the Novel.* Ed. Bulson, Eric. 2018.
 
-McClure, David; Algee-Hewitt, Mark; Douris, Steele; Fredner, Erik; Walser, Hannah. “Organizing corpora at the Stanford Literary Lab: Balancing simplicity and flexibility in metadata management.” *Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing.* pp. 25-29. 2017.
+McClure, David; Algee-Hewitt, Mark; Douris, Steele; Fredner, Erik; Walser, Hannah. “Organizing corpora at the Stanford Literary Lab: Balancing simplicity and flexibility in metadata management.” *Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing*. 2017.
 
-## Work in Progress
-Fredner, Erik. “‘The Problem of Individual Life:’ Hamlin Garland’s Average Americans.” Article under review.
+### Research Collaborations
+Cohen, Kenneth; McGrath, Laura; Algee-Hewitt, Mark; Asleson, Robyn; Porter, J.D.; Fredner, Erik; Lindemann, Charlotte; Mavrody, Nika; Sherman, Alex; Winner, Kathryn. "The Stuff of Fame: Material and Printed Constructions of Renown in American History." Stanford Literary Lab and Smithsonian Institution. Lead data scientist conducting analysis to support exhibitions to be installed at the Smithsonian National Museum of American History and National Portrait Gallery in 2024.
 
-Fredner, Erik; Porter, J.D. "Counting on the *Norton Anthology of American Literature*." Article under review.
+Algee-Hewitt, Mark; Fredner, Erik. "Typicality." Stanford Literary Lab. 2018.
 
-Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Fredner, Erik; Porter, J.D.; Shephard, Andrew; Walser, Hannah. *Suspense: A Study in Digital Narratology.* Preparing edited collection manuscript.
+Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Fredner, Erik; Heuser, Ryan; Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. "Microgenres." Stanford Literary Lab. 2017.
 
-Cohen, Kenneth; McGrath, Laura; Algee-Hewitt, Mark; Asleson, Robyn; Porter, J.D.; Fredner, Erik; Lindemann, Charlotte; Mavrody, Nika; Sherman, Alex; Winner, Kathryn. "The Stuff of Fame: Material and Printed Constructions of Renown in American History." I serve as lead programmer conducting digital research to support exhibitions at the Smithsonian National Museum of American History and National Portrait Gallery to be installed in 2024.
+Algee-Hewitt, Mark; Fredner, Erik; McIntosh, Whitney; Stedman, Stephen. "Security." Stanford Literary Lab. 2015.
+
+### Public Writing
+“Finding needles in 34 million haystacks.” *Techne*. [Forthcoming].
+
+“How many novels have been published in English? An Attempt.” *Techne*. 2017.
+
+"Renowned Stanford poet Eavan Boland interrogates identity and nationhood in new collection." *The Humanities at Stanford*. 2015.
+
+"Stanford literary scholar: White whales and the 'Melville Effect.'" *The Humanities at Stanford*. 2015.
+
+"Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." *The Humanities at Stanford*. 2014. 
 
 ## Fellowships, Honors, and Awards
-CUNY-Stanford Exchange Fellowship (2018-2019)\
-Pigott Scholars Program Fellowship (2017-2018)\
-Stanford English Excellence in Teaching Prize (2016-2017)
+City University of New York-Stanford Exchange Fellowship \hfill 2018-2019
+
+Pigott Scholars Program Fellowship \hfill 2017-2018
+
+Stanford English Excellence in Teaching Prize \hfill 2016-2017
+\newpage
 
 ## University Teaching
 ### Courses Designed and Taught
-Literary Text Mining, Stanford University (Fall 2019-2020)\
-World Humanities 101, The City College of New York (Fall 2018-2019)\
-Writing Intensive Seminar in English, Stanford University (Winter 2017-2018)
+*At Stanford University*
 
-### Teaching Assistant
-Literary Text Mining, Stanford University (Spring 2018-2019)\
-Graduate Student Pedagogy Workshop, Stanford University (Fall 2017-2018)\
-Narrative & Narrative Theory, Stanford University (Fall 2015-2016)\
-Literary History III (1850-1950), Stanford University (Spring 2014-2015)
+Literary Text Mining \hfill Fall 2019-2020
 
-## Research Collaborator
-Celebrity, Stanford Literary Lab and the Smithsonian Institution (2019)\
-Typicality, Stanford Literary Lab (2018)\
-Microgenres, Stanford Literary Lab (2017)\
-Anthologies, Stanford Literary Lab (2016)\
-Security, Stanford Literary Lab (2015)\
-Suspense, Stanford Literary Lab (2014)
+Writing Intensive Seminar in English: "Average Americans" \hfill Winter 2017-2018 \
 
-## Public Writing
-“Finding needles in 34 million haystacks.” *Techne*. Forthcoming.\
-“How many novels have been published in English?: An Attempt.” *Techne*. 2017.
+*At The City College of New York*
+
+World Humanities 101: "What it is like to be alive" \hfill Fall 2018-2019
+
+### Courses as Teaching Assistant at Stanford
+Literary Text Mining with Ryan Heuser \hfill Spring 2018-2019
+
+Graduate Student Pedagogy Workshop with Paula Moya \hfill Fall 2017-2018
+
+Narrative and Narrative Theory with Paula Moya and J.D. Porter \hfill Fall 2015-2016
+
+Literary History III (1850-1950) with Franco Moretti \hfill Spring 2014-2015
 
 ## Presentations
-"Modeling Hawthorne's Concept of the Nation." MLA2020. Seattle, WA. January, 2020.
 
-"Microgenres." DH2019. Utrecht, Netherlands. July, 2019.
+### At Conferences and Colloquia
+["Modeling Hawthorne's Concept of the Nation."] \
+MLA2020. Seattle, WA. \hfill January 2020
 
-"*n* Types of Typicality." Stanford Literary Lab. Stanford, CA. December, 2018.
+"Microgenres." \
+DH2019. Utrecht, Netherlands. \hfill July 2019
 
-"Norton Anthologies: Database, Canon, Career." Stanford Literary Lab. Stanford, CA. May, 2018.
+"The Statistical Imaginations of Hamlin Garland and Henry James."\
+Graduate Colloquium. Stanford, CA. \hfill January 2018
 
-"Typicality." Stanford Literary Lab. Stanford, CA. February, 2018. 
+"Average, American: Reformism and Statistics in *Jason Edwards*."\
+Consortium on the Novel. Stanford, CA. \hfill November 2017
 
-"The Statistical Imaginations of Hamlin Garland and Henry James." Colloquium. Stanford, CA. January, 2018. 
+"The Type of the Average."\
+Working Group on the Novel. Stanford, CA. \hfill September 2017
 
-"'Security' in *Foreign Affairs*." Stanford Literary Lab. Stanford, CA. December, 2017.
+"Reading the Norton Anthologies."\
+DH2017. Montréal, Canada. \hfill August 2017
 
-"Microgenres." Stanford Literary Lab. Stanford, CA. November, 2017
+"Reading Norton Anthologies."\
+SyncDH. Santa Barbara, CA. \hfill May 2016
 
-"Average, American: Reformism and Statistics in *Jason Edwards*." Consortium on the Novel. Stanford, CA. November, 2017.
+"Standing Underneath: Melville, Confidence, Testimony."\
+Berkeley-Stanford Conference. Berkeley, CA. \hfill April 2016
 
-Distant Reading with the *Oxford English Dictionary*. Stanford Literary Lab. Stanford, CA. November, 2017.
+"Fallible and Unreliable Narration in *The Sound and The Fury*."\
+Narrative and Narrative Theory. Stanford, CA. \hfill October 2015
 
-"Existential and Romantic Suspense." Stanford Literary Lab. Stanford, CA. October, 2017.
+"Another Castle: The Stolen Princess Narrative in Literature and Videogames."\
+Infinite Possibilities. Stanford, CA. \hfill October 2015
 
-"The Type of the Average." Working Group on the Novel. Stanford, CA. September, 2017.
+"Virality."\
+DH2015. Sydney, Australia. \hfill July 2015
 
-"Reading the Norton Anthologies." DH2017. Montréal, Canada. August, 2017. 
+"Suspense… Language, Narrative, Affect."\
+DH2015. Sydney, Australia. \hfill July 2015
 
-"How many novels have been published in English? An Attempt." Stanford Literary Lab. Stanford, CA. February 4, 2017.
+"Current Projects of the Literary Lab."\
+SyncDH. Santa Barbara, CA. \hfill May 2015
 
-"Reading the Norton Anthologies: Databases, Canons, and Careers." Stanford Literary Lab. Stanford, CA. November 30, 2016.
+"'Two Blocks Joined by a Corridor:' Time in *To The Lighthouse*."\
+Literary History III. Stanford, CA. \hfill May 2015
 
-"Reading Norton Anthologies." SyncDH. Santa Barbara, CA. May, 2016.
+"'Inveigling *Uncle Tom’s Cabin* to Become a Ballet:' cummings’s *Tom*."\
+Berkeley-Stanford Conference. Stanford, CA. \hfill October 2014
 
-"Standing Underneath: Melville, Confidence, Testimony." Berkeley-Stanford Conference. Berkeley, CA. April, 2016.
+"On the Stanford Literary Lab’s Pamphlet Series."\
+Future of Publication Workshop. Stanford, CA. \hfill October 2014
 
-"Fallible and Unreliable Narration in *The Sound and The Fury*." Guest Lecture in Narrative & Narrative Theory. Stanford, CA. October, 2015.
+### At the Stanford Literary Lab
+"*n* Types of Typicality." \hfill December 2018
 
-"Another Castle: The Stolen Princess Narrative in Literature and Videogames." Infinite Possibilities, A Working Group on Speculative Fiction. Stanford, CA. October, 2015.
+"Norton Anthologies: Database, Canon, Career." \hfill May 2018
 
-"Virality." DH2015. Sydney, Australia. July, 2015
+"Typicality." \hfill February 2018
 
-"Suspense… Language, Narrative, Affect." DH2015. Sydney, Australia. July, 2015.
+"Security in *Foreign Affairs*." \hfill December 2017
 
-"Current Projects of the Literary Lab." SyncDH. Santa Barbara, CA. May, 2015.
+"Microgenres." \hfill November 2017
 
-"'Two Blocks Joined by a Corridor:' Time in *To The Lighthouse*." Guest lecture in Literary History III. Stanford, CA. May, 2015.
+"Distant Reading with the *Oxford English Dictionary*." \hfill November 2017
 
-"'Inveigling *Uncle Tom’s Cabin* to Become a Ballet:' cummings’s *Tom*". Berkeley-Stanford Conference. Stanford, CA. October, 2014.
+"Existential and Romantic Suspense." \hfill October 2017
 
-"On the Stanford Literary Lab’s Pamphlet Series." Future of Publication Workshop. Stanford, CA. October, 2014.
+"How Many Novels Have Been Published in English?" \hfill February 2017
+
+"Reading the Norton Anthologies: Databases, Canons, and Careers." \hfill November 2016
+
+## Conferences Convened at Stanford
+"Findings: Is computation changing the study of literature?" \hfill April 2017
+
+"Literature: A history of the word." \hfill April 2016
+
+"Making & Breaking: The Berkeley-Stanford Conference." \hfill May 2015
+
+"Micromégas: The Objects of the Digital Humanities." \hfill February 2015
+
+## Academic Service
+### Public Humanities
+Writer for Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
+
+Contributor for *Techne* \hfill 2016-Present
+
+Presenter for Academic Data Privacy and Security Workshop Series \hfill 2017-Present
+
+### Institutional Organization
+Coordinator for Stanford Literary Lab \hfill 2014-2018
+
+American Literature Examiner for Qualifying Exam Rehearsals \hfill 2015-2018
+
+Liaison for Berkeley-Stanford English Graduate Student Councils  \hfill 2015-2019
+
+Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-Present
+
+## Academic Affiliations
+Modern Language Association
+
+Alliance of Digital Humanities Organizations
+
+American Comparative Literature Association
+
+C19: The Society of Nineteenth-Century Americanists
+
+## Data Analysis Skills
+* Python
+* R
+* Bash/Zsh
+* TeX
+* Excel
+* Tableau
+
+## Other Teaching Experience
+Songwriting, UVA Young Writers' Workshop \hfill 2011\
+English for At-Risk Students, Longfellow School \hfill 2011\
+English and Rhetoric, Josiah Quincy Upper School \hfill 2012\
+Fiction Writing, UVA Young Writers' Workshop \hfill 2012
+
+\newpage
 
 ## Graduate Coursework
 ### American Literature
@@ -128,11 +222,11 @@ Henry James: Early, Middle, Late, Mark McGurl
 
 ### Digital Humanities
 Literary Lab, Franco Moretti\
-Programming in R, Mark Algee-Hewitt \
+Programming in R, Mark Algee-Hewitt\
 Introduction to Digital Humanities, Brian Johnsrud and Michael Widner\
 Networks of Enlightenment, Mark Algee-Hewitt\
 Visualizing the Grand Tour, Giovanna Ceserani and Nichole Coleman\
-Digital Aesthetics, Mark Algee-Hewitt \
+Digital Aesthetics, Mark Algee-Hewitt\
 Scalar Reading, Mark Algee-Hewitt
 
 ### Literary and Critical Theory
@@ -149,47 +243,16 @@ Publication Workshop, Sianne Ngai\
 Dissertation Workshop, Sianne Ngai\
 Dissertation Workshop, Paula Moya
 
-## Conferences Convened
-"Findings: Is computation changing the study of literature?" Stanford Literary Lab. Stanford, CA. April, 2017.
-
-"Literature: A history of the word." Stanford Literary Lab. Stanford, CA. April, 2016.
-
-"Making & Breaking." Berkeley-Stanford Conference. Stanford, CA. May, 2015.
-
-"Micromégas: The very small, the very large, and the objects of the digital humanities." Stanford Literary Lab. Stanford, CA. February, 2015.
-
-## Academic Service
-Coordinator, Stanford Literary Lab (2014-2018)\
-Writer, Ph.D. Journalist Project at Stanford Humanities Center (2014-2016)\
-Berkeley-Stanford Graduate Student Liaison, Stanford University English Graduate Student Council (2015-2019)\
-Graduate Qualifying Exam Rehearsals in American Literature (2015-2017)\
-Reviewer, Alliance of Digital Humanities Organizations Conference (2016-Present) \
-Academic Data Privacy and Security Workshops (2017-Present)
-
-## Academic Affiliations
-Modern Language Association\
-Alliance of Digital Humanities Organizations\
-C19: The Society of Nineteenth-Century Americanists
-
-## Data Analysis
-Python\
-R\
-Zsh\
-Excel\
-Tableau
-
-## Other Teaching Experience
-Fiction Writing, UVa Young Writers' Workshop (2011)\
-English for At-Risk Students, Longfellow School (2011)\
-English and Rhetoric, Josiah Quincy Upper School (2012)\
-Songwriting, UVa Young Writers' Workshop (2012)\
-Fiction Writing, UVa Young Writers' Workshop (2013)
-
 ## References
-Gavin Jones, Stanford University\
-Mark McGurl, Stanford University\
-Paula Moya, Stanford University\
-Mark Algee-Hewitt, Stanford University\
+Gavin Jones, Stanford University
+
+Mark McGurl, Stanford University
+
+Paula Moya, Stanford University
+
+Mark Algee-Hewitt, Stanford University
+
 Judith Richardson, Stanford University
 
-*Last updated: August, 2019*
+\vfill
+*Updated September 2019*
