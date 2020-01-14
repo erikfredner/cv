@@ -1,5 +1,5 @@
 # CV
-Documents for updating and generating my academic cv, as seen on [my academic website](https://fredner.org).
+Documents for updating and generating my cv, as seen on [my academic website](https://fredner.org).
 
 cv.pdf is the full cv. cv_2 is a 2 page version of the same, which is updated less regularly.
 
