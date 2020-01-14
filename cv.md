@@ -252,4 +252,4 @@ Department of English, Stanford University. pmoya@stanford.edu
 
 
 \vfill
-*Updated January 2020*
+\hfill Updated \today
