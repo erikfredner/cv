@@ -37,7 +37,7 @@ Stanford English Excellence in Teaching Prize \hfill 2016-2017
 
 ## Writing and Research
 ### Dissertation
-*Average, American: Fictions of Equality After the Civil War* \
+*Average, American: Literature and Inequality After the Civil War* \
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
@@ -46,7 +46,7 @@ Under review at *Nineteenth-Century Literature*.
 
 "Counting on the *Norton Anthology of American Literature*."\
 Co-authored with Porter, J.D.\
-Under review at *American Literature*.
+Revise and resubmit at *American Literature*.
 
 ### Edited Collections
 
@@ -113,11 +113,17 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 ## Presentations
 
 ### Given at Conferences and Colloquia
+["Citizenship at Scale."]\
+C19 2020. Coral Gables, FL. \hfill April 2020
+
+[Presider, "Models of Enlightenment Knowledge."]\
+MLA 2020. Seattle, WA. \hfill January 2020
+
 ["Modeling Hawthorne's Concept of the Nation."] \
-MLA2020. Seattle, WA. \hfill January 2020
+MLA 2020. Seattle, WA. \hfill January 2020
 
 "Microgenres." \
-DH2019. Utrecht, Netherlands. \hfill July 2019
+DH 2019. Utrecht, Netherlands. \hfill July 2019
 
 "The Statistical Imaginations of Hamlin Garland and Henry James."\
 Graduate Colloquium. Stanford, CA. \hfill January 2018
@@ -129,7 +135,7 @@ Consortium on the Novel. Stanford, CA. \hfill November 2017
 Working Group on the Novel. Stanford, CA. \hfill September 2017
 
 "Reading the Norton Anthologies."\
-DH2017. Montréal, Canada. \hfill August 2017
+DH 2017. Montréal, Canada. \hfill August 2017
 
 "Reading Norton Anthologies."\
 SyncDH. Santa Barbara, CA. \hfill May 2016
@@ -144,10 +150,10 @@ Narrative and Narrative Theory. Stanford, CA. \hfill October 2015
 Infinite Possibilities. Stanford, CA. \hfill October 2015
 
 "Virality."\
-DH2015. Sydney, Australia. \hfill July 2015
+DH 2015. Sydney, Australia. \hfill July 2015
 
 "Suspense… Language, Narrative, Affect."\
-DH2015. Sydney, Australia. \hfill July 2015
+DH 2015. Sydney, Australia. \hfill July 2015
 
 "Current Projects of the Literary Lab."\
 SyncDH. Santa Barbara, CA. \hfill May 2015
@@ -190,11 +196,11 @@ Stanford Literary Lab. \hfill 2018-
 With Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Heuser, Ryan; Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. \
 Stanford Literary Lab. \hfill 2017-
 
+\newpage
+
 "Security."\
 With Algee-Hewitt, Mark; McIntosh, Whitney; Stedman, Stephen.\
 Stanford Literary Lab. \hfill 2015-
-
-\vfill
 
 ## Conferences Organized at Stanford
 "Findings: Is computation changing the study of literature?" \hfill April 2017
@@ -229,6 +235,8 @@ C19: The Society of Nineteenth-Century Americanists
 * TeX & pandoc
 * Tableau
 
+\newpage
+
 ## References
 Gavin Jones, Frederick P. Rehmus Family Professor of the Humanities\
 Department of English, Stanford University. grjones@stanford.edu
@@ -244,4 +252,4 @@ Department of English, Stanford University. pmoya@stanford.edu
 
 
 \vfill
-*Updated November 2019*
+*Updated January 2020*
