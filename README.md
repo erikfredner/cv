@@ -1,7 +1,7 @@
 # CV
-Documents for updating and generating my cv, as seen on [my academic website](https://fredner.org).
+Documents for updating and generating my cv, as seen on [my website](https://fredner.org).
 
-cv.pdf is the full cv. cv_2 is a 2 page version of the same, which is updated less regularly.
+`cv.pdf` shows what the full typeset cv looks like.
 
 I build this on my Mac using the following pandoc command:
 
