@@ -112,14 +112,17 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 
 ## Presentations
 
-### Given at Conferences and Colloquia
+### Conferences and Invited Talks 
 ["Citizenship at Scale."]\
 C19 2020. Coral Gables, FL. \hfill April 2020
 
-[Presider, "Models of Enlightenment Knowledge."]\
+"Introduction to Computational Textual Analysis" (invited talk)\
+CESTA. Stanford, CA. \hfill January 2020
+
+Presider, "Models of Enlightenment Knowledge."\
 MLA 2020. Seattle, WA. \hfill January 2020
 
-["Modeling Hawthorne's Concept of the Nation."] \
+"Modeling Hawthorne's Concept of the Nation."\
 MLA 2020. Seattle, WA. \hfill January 2020
 
 "Microgenres." \
