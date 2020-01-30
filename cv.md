@@ -33,7 +33,7 @@ City University of New York-Stanford Exchange Fellowship \hfill 2018-2019
 
 G.J. Pigott Scholars Program Fellowship \hfill 2017-2018
 
-Stanford English Excellence in Teaching Prize \hfill 2016-2017
+Stanford English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing and Research
 ### Dissertation
