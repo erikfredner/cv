@@ -41,24 +41,24 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
-“Average Americans: Hamlin Garland’s ‘Problem of Individual Life.’”\
+“Average Americans: Hamlin Garland’s ‘Problem of Individual Life’”\
 Under review at *Nineteenth-Century Literature*.
 
-"Counting on the *Norton Anthology of American Literature*."\
+"Counting on the *Norton Anthology of American Literature*"\
 Co-authored with Porter, J.D.\
 Revise and resubmit at *American Literature*.
 
 ### Edited Collections
 
-*Suspense: A Study in Digital Narratology.*\
+*Suspense: A Study in Digital Narratology*\
 Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah.\
 Preparing manuscript for submission.
 
-“The Novel as Data.”\
+“The Novel as Data”\
 Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
 *The Cambridge Companion to the Novel.* \hfill 2018
 
-“Organizing corpora at the Stanford Literary Lab: Balancing simplicity and flexibility in metadata management.”\
+“Organizing corpora at the Stanford Literary Lab."\
 Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Hannah.\
 *Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing*. \hfill 2017
 
@@ -86,7 +86,7 @@ Narrative and Narrative Theory with Paula Moya and J.D. Porter \hfill Fall 2015-
 Literary History III (1850-1950) with Franco Moretti \hfill Spring 2014-2015
 
 ## Public Humanities
-"The Stuff of Fame: Material and Printed Constructions of Renown in America."\
+"The Stuff of Fame: Material and Printed Constructions of Renown in America"\
 Lead data scientist, Stanford Literary Lab and Smithsonian Institution.\
 Research to support exhibitions planned for the Smithsonian National Museum of American History and National Portrait Gallery in 2024. \hfill 2019-
 
@@ -112,107 +112,107 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 
 ## Presentations
 
-### Conferences and Invited Talks 
-["Citizenship at Scale."]\
+### Conference Papers and Invited Talks 
+["Citizenship at Scale"]\
 C19 2020. Coral Gables, FL. \hfill April 2020
 
-"Introduction to Computational Textual Analysis" (invited talk)\
+"Introduction to Computational Textual Analysis"\
 CESTA. Stanford, CA. \hfill January 2020
 
-Presider, "Models of Enlightenment Knowledge."\
+Presider, "Models of Enlightenment Knowledge"\
 MLA 2020. Seattle, WA. \hfill January 2020
 
-"Modeling Hawthorne's Concept of the Nation."\
+"Modeling Hawthorne's Concept of the Nation"\
 MLA 2020. Seattle, WA. \hfill January 2020
 
-"Microgenres." \
+"Microgenres"\
 DH 2019. Utrecht, Netherlands. \hfill July 2019
 
-"The Statistical Imaginations of Hamlin Garland and Henry James."\
+"The Statistical Imaginations of Hamlin Garland and Henry James"\
 Graduate Colloquium. Stanford, CA. \hfill January 2018
 
-"Average, American: Reformism and Statistics in *Jason Edwards*."\
+"Average, American: Reformism and Statistics in *Jason Edwards*"\
 Consortium on the Novel. Stanford, CA. \hfill November 2017
 
-"The Type of the Average."\
+"The Type of the Average"\
 Working Group on the Novel. Stanford, CA. \hfill September 2017
 
-"Reading the Norton Anthologies."\
+"Reading the Norton Anthologies"\
 DH 2017. Montréal, Canada. \hfill August 2017
 
-"Reading Norton Anthologies."\
+"Reading Norton Anthologies"\
 SyncDH. Santa Barbara, CA. \hfill May 2016
 
-"Standing Underneath: Melville, Confidence, Testimony."\
+"Standing Underneath: Melville, Confidence, Testimony"\
 Berkeley-Stanford Conference. Berkeley, CA. \hfill April 2016
 
-"Fallible and Unreliable Narration in *The Sound and The Fury*."\
+"Fallible and Unreliable Narration in *The Sound and The Fury*"\
 Narrative and Narrative Theory. Stanford, CA. \hfill October 2015
 
-"Another Castle: The Stolen Princess Narrative in Literature and Videogames."\
+"Another Castle: The Stolen Princess Narrative in Literature and Videogames"\
 Infinite Possibilities. Stanford, CA. \hfill October 2015
 
-"Virality."\
+"Virality"\
 DH 2015. Sydney, Australia. \hfill July 2015
 
-"Suspense… Language, Narrative, Affect."\
+"Suspense… Language, Narrative, Affect"\
 DH 2015. Sydney, Australia. \hfill July 2015
 
-"Current Projects of the Literary Lab."\
+"Current Projects of the Literary Lab"\
 SyncDH. Santa Barbara, CA. \hfill May 2015
 
-"'Two Blocks Joined by a Corridor:' Time in *To The Lighthouse*."\
+"'Two Blocks Joined by a Corridor:' Time in *To The Lighthouse*"\
 Literary History. Stanford, CA. \hfill May 2015
 
-"'Inveigling *Uncle Tom’s Cabin* to Become a Ballet:' cummings’s *Tom*."\
+"'Inveigling *Uncle Tom’s Cabin* to Become a Ballet:' cummings’s *Tom*"\
 Berkeley-Stanford Conference. Stanford, CA. \hfill October 2014
 
-"On the Stanford Literary Lab’s Pamphlet Series."\
+"On the Stanford Literary Lab’s Pamphlet Series"\
 Future of Publication Workshop. Stanford, CA. \hfill October 2014
 
-### Given at the Stanford Literary Lab
+### Papers given at the Stanford Literary Lab
 "*n* Types of Typicality." \hfill December 2018
 
-"Norton Anthologies: Database, Canon, Career." \hfill May 2018
+"Norton Anthologies: Database, Canon, Career" \hfill May 2018
 
-"Typicality." \hfill February 2018
+"Typicality" \hfill February 2018
 
-"Security in *Foreign Affairs*." \hfill December 2017
+"Security in *Foreign Affairs*" \hfill December 2017
 
-"Microgenres." \hfill November 2017
+"Microgenres" \hfill November 2017
 
-"Distant Reading with the *Oxford English Dictionary*." \hfill November 2017
+"Distant Reading with the *Oxford English Dictionary*" \hfill November 2017
 
-"Synchronic and Diachronic Suspense." \hfill October 2017
+"Synchronic and Diachronic Suspense" \hfill October 2017
 
 "How Many Novels Have Been Published in English?" \hfill February 2017
 
-"Reading the Norton Anthologies: Databases, Canons, and Careers." \hfill November 2016
+"Reading the Norton Anthologies: Databases, Canons, and Careers" \hfill November 2016
 
 ## Research Collaborations
 
-"Typicality."\
+"Typicality"\
 With Algee-Hewitt, Mark.\
 Stanford Literary Lab. \hfill 2018-
 
-"Microgenres."\
+"Microgenres"\
 With Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Heuser, Ryan; Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. \
 Stanford Literary Lab. \hfill 2017-
 
 \newpage
 
-"Security."\
+"Security"\
 With Algee-Hewitt, Mark; McIntosh, Whitney; Stedman, Stephen.\
 Stanford Literary Lab. \hfill 2015-
 
 ## Conferences Organized at Stanford
 "Findings: Is computation changing the study of literature?" \hfill April 2017
 
-"Literature: A history of the word." \hfill April 2016
+"Literature: A history of the word" \hfill April 2016
 
-"Making & Breaking: The Berkeley-Stanford Conference." \hfill May 2015
+"Making & Breaking: The Berkeley-Stanford Conference" \hfill May 2015
 
-"Micromégas: The Objects of the Digital Humanities." \hfill February 2015
+"Micromégas: The Objects of the Digital Humanities" \hfill February 2015
 
 ## Academic Service
 Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-
@@ -232,7 +232,6 @@ C19: The Society of Nineteenth-Century Americanists
 
 ## Data Analysis and Visualization
 * Python
-* nltk, pandas, matplotlib
 * R
 * bash & zsh
 * TeX & pandoc
