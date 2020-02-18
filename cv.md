@@ -12,20 +12,20 @@ fredner@stanford.edu · fredner.org
 
 ## Education
 **Stanford University**\
-Ph.D. in English expected June 2020\
+Ph.D., English\
 Graduate Certificate in Digital Humanities\
-2014-
+2014-2020 [expected]
 
 **Harvard Graduate School of Education**\
 Teacher Education Program\
 2011-2012
 
 **Oxford University**\
-Visiting Student in English\
+Visiting Student, English\
 2010-2011
 
 **Harvard University**\
-A.B. *magna cum laude* in English\
+A.B. *magna cum laude*, English\
 2008-2012
 
 ## Fellowships, Honors, and Awards
@@ -41,6 +41,9 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
+"Modeling Hawthorne's Concept of the Nation"\
+Forthcoming in a special issue of *Nathaniel Hawthorne Review*.
+
 “Average Americans: Hamlin Garland’s ‘Problem of Individual Life’”\
 Under review at *Nineteenth-Century Literature*.
 
@@ -61,6 +64,10 @@ Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
 “Organizing corpora at the Stanford Literary Lab."\
 Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Hannah.\
 *Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing*. \hfill 2017
+
+### Reviews
+Andrew Piper, *Enumerations*\
+Review solicited for *Studies in the Novel*.
 
 ## University Teaching
 ### Courses Designed and Taught
@@ -113,6 +120,9 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 ## Presentations
 
 ### Conference Papers and Invited Talks 
+["Typicality in the US Novel"]\
+DH 2020. Ottawa, Canada. \hfill July 2020
+
 ["Citizenship at Scale"]\
 C19 2020. Coral Gables, FL. \hfill April 2020
 
@@ -195,11 +205,11 @@ Future of Publication Workshop. Stanford, CA. \hfill October 2014
 With Algee-Hewitt, Mark.\
 Stanford Literary Lab. \hfill 2018-
 
+\newpage
+
 "Microgenres"\
 With Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Heuser, Ryan; Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. \
 Stanford Literary Lab. \hfill 2017-
-
-\newpage
 
 "Security"\
 With Algee-Hewitt, Mark; McIntosh, Whitney; Stedman, Stephen.\
