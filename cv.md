@@ -11,17 +11,17 @@ Department of English, Stanford University \
 fredner@stanford.edu · fredner.org
 
 ## Education
-**Stanford University** \hfill 2014-[2020]\
+Stanford University \hfill 2014-[2020]\
 Ph.D., English\
 Graduate Certificate in Digital Humanities
 
-**Harvard Graduate School of Education** \hfill 2011-2012\
+Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
-**Oxford University** \hfill 2010-2011\
+Oxford University \hfill 2010-2011\
 Visiting Student, English
 
-**Harvard University** \hfill 2008-2012\
+Harvard University \hfill 2008-2012\
 A.B. *magna cum laude*, English
 
 ## Fellowships, Honors, and Awards
@@ -38,32 +38,34 @@ Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
 "Modeling Hawthorne's Concept of the Nation"\
-Forthcoming in a special issue of *Nathaniel Hawthorne Review*.
+Forthcoming in a special issue of *Nathaniel Hawthorne Review*
 
 “Average Americans: Hamlin Garland’s ‘Problem of Individual Life’”\
-Under review at *Nineteenth-Century Literature*.
+Under review at *Nineteenth-Century Literature*
 
 "Counting on the *Norton Anthology of American Literature*"\
 Co-authored with Porter, J.D.\
-Revise and resubmit at *American Literature*.
+Revise and resubmit at *American Literature*
+
+\newpage
 
 ### Edited Collections
 
 *Suspense: A Study in Digital Narratology*\
 Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah.\
-Preparing manuscript for submission.
+Preparing manuscript for submission
 
 “The Novel as Data”\
 Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
-*The Cambridge Companion to the Novel.* \hfill 2018
+*The Cambridge Companion to the Novel* \hfill 2018
 
 “Organizing corpora at the Stanford Literary Lab."\
 Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Hannah.\
-*Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing*. \hfill 2017
+*Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing* \hfill 2017
 
 ### Reviews
 Andrew Piper, *Enumerations*\
-Review solicited for *Studies in the Novel*.
+Review solicited for *Studies in the Novel*
 
 ## University Teaching
 ### Courses Designed and Taught
@@ -177,6 +179,8 @@ Berkeley-Stanford Conference. Stanford, CA. \hfill October 2014
 Future of Publication Workshop. Stanford, CA. \hfill October 2014
 
 ### Papers given at the Stanford Literary Lab
+"Antebellum & Postbellum." \hfill January 2020
+
 "*n* Types of Typicality." \hfill December 2018
 
 "Norton Anthologies: Database, Canon, Career" \hfill May 2018
@@ -200,8 +204,6 @@ Future of Publication Workshop. Stanford, CA. \hfill October 2014
 "Typicality"\
 With Algee-Hewitt, Mark.\
 Stanford Literary Lab. \hfill 2018-
-
-\newpage
 
 "Microgenres"\
 With Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Heuser, Ryan; Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. \
