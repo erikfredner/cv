@@ -11,22 +11,18 @@ Department of English, Stanford University \
 fredner@stanford.edu · fredner.org
 
 ## Education
-**Stanford University**\
+**Stanford University** \hfill 2014-[2020]\
 Ph.D., English\
-Graduate Certificate in Digital Humanities\
-2014-2020 [expected]
+Graduate Certificate in Digital Humanities
 
-**Harvard Graduate School of Education**\
-Teacher Education Program\
-2011-2012
+**Harvard Graduate School of Education** \hfill 2011-2012\
+Undergraduate Teacher Education Program
 
-**Oxford University**\
-Visiting Student, English\
-2010-2011
+**Oxford University** \hfill 2010-2011\
+Visiting Student, English
 
-**Harvard University**\
-A.B. *magna cum laude*, English\
-2008-2012
+**Harvard University** \hfill 2008-2012\
+A.B. *magna cum laude*, English
 
 ## Fellowships, Honors, and Awards
 City University of New York-Stanford Exchange Fellowship \hfill 2018-2019
