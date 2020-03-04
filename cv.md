@@ -33,7 +33,7 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing and Research
 ### Dissertation
-*Average, American: Literature and Inequality After the Civil War* \
+*Average, American: Literature, Statistics, and Inequality After the Civil War* \
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
@@ -68,7 +68,7 @@ Andrew Piper, *Enumerations*\
 Review solicited for *Studies in the Novel*
 
 ## University Teaching
-### Courses Designed and Taught
+### Courses as Instructor of Record 
 *At Stanford University*
 
 Literary Text Mining \hfill Fall 2019-2020
@@ -92,8 +92,7 @@ Literary History III (1850-1950) with Franco Moretti \hfill Spring 2014-2015
 
 ## Public Humanities
 "The Stuff of Fame: Material and Printed Constructions of Renown in America"\
-Lead data scientist, Stanford Literary Lab and Smithsonian Institution.\
-Research to support exhibitions planned for the Smithsonian National Museum of American History and National Portrait Gallery in 2024. \hfill 2019-
+Lead data scientist, Stanford Literary Lab and Smithsonian Institution \hfill 2019-
 
 Editor, The Stanford Center for the Study of the Novel Podcast \hfill 2019-
 
@@ -104,15 +103,20 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
-“Finding needles in 34 million haystacks.” *Techne*. \hfill 2019
+“Finding needles in 34 million haystacks.”\
+*Techne* \hfill 2019
 
-“How many novels have been published in English? An Attempt.” *Techne*. \hfill 2017
+“How many novels have been published in English? An Attempt.”\
+*Techne* \hfill 2017
 
-"Renowned Stanford poet Eavan Boland interrogates identity and nationhood in new collection." *The Humanities at Stanford*. \hfill 2015
+"Renowned Stanford poet Eavan Boland interrogates identity and nationhood in new collection."\
+*The Humanities at Stanford* \hfill 2015
 
-"Stanford literary scholar: White whales and the 'Melville Effect.'" *The Humanities at Stanford*. \hfill 2015
+"Stanford literary scholar: White whales and the 'Melville Effect.'"\
+*The Humanities at Stanford* \hfill 2015
 
-"Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." *The Humanities at Stanford*. \hfill 2014
+"Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." \ 
+*The Humanities at Stanford* \hfill 2014
 
 
 ## Presentations
@@ -144,6 +148,8 @@ Consortium on the Novel. Stanford, CA. \hfill November 2017
 
 "The Type of the Average"\
 Working Group on the Novel. Stanford, CA. \hfill September 2017
+
+\newpage
 
 "Reading the Norton Anthologies"\
 DH 2017. Montréal, Canada. \hfill August 2017
