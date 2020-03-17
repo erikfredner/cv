@@ -122,11 +122,11 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 ## Presentations
 
 ### Conference Papers and Invited Talks 
-["Typicality in the US Novel"]\
-DH 2020. Ottawa, Canada. \hfill July 2020
+"Citizenship at Scale"\
+C19 2020. Coral Gables, FL. \hfill [October 2020]
 
-["Citizenship at Scale"]\
-C19 2020. Coral Gables, FL. \hfill April 2020
+"Typicality in the US Novel"\
+DH 2020. Ottawa, Canada. \hfill [July 2020]
 
 "Introduction to Computational Textual Analysis"\
 CESTA. Stanford, CA. \hfill January 2020
