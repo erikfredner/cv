@@ -65,7 +65,7 @@ Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Han
 
 ### Reviews
 Andrew Piper, *Enumerations*\
-Review solicited for *Studies in the Novel*
+Forthcoming in *Studies in the Novel*, Summer 2020 (Vol. 52, No. 2)
 
 ## University Teaching
 ### Courses as Instructor of Record 
@@ -122,6 +122,9 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 ## Presentations
 
 ### Conference Papers and Invited Talks 
+"Burrows's Data"\
+MLA 2021. Toronto. \hfill [January 2021]
+
 "Citizenship at Scale"\
 C19 2020. Coral Gables, FL. \hfill [October 2020]
 
@@ -146,10 +149,10 @@ Graduate Colloquium. Stanford, CA. \hfill January 2018
 "Average, American: Reformism and Statistics in *Jason Edwards*"\
 Consortium on the Novel. Stanford, CA. \hfill November 2017
 
+\newpage
+
 "The Type of the Average"\
 Working Group on the Novel. Stanford, CA. \hfill September 2017
-
-\newpage
 
 "Reading the Norton Anthologies"\
 DH 2017. Montréal, Canada. \hfill August 2017
