@@ -6,54 +6,54 @@ header-includes: |
 \hyphenpenalty=10000
 
 # Erik Fredner
-Department of English, Stanford University \
+Stanford University, Department of English \
 450 Serra Mall · Margaret Jacks Hall, Second Floor · Stanford, CA 94305 \
 fredner@stanford.edu · fredner.org
 
 ## Education
-Stanford University \hfill 2014-[2020]\
+Stanford University \hfill 2014-[2021]\
 Ph.D., English\
 Graduate Certificate in Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
-Oxford University \hfill 2010-2011\
+University of Oxford \hfill 2010-2011\
 Visiting Student, English
 
 Harvard University \hfill 2008-2012\
 A.B. *magna cum laude*, English
 
-## Fellowships, Honors, and Awards
-City University of New York-Stanford Exchange Fellowship \hfill 2018-2019
+## Awards
+Mellon Foundation Dissertation Fellow \hfill 2020-2021
 
-G.J. Pigott Scholars Program Fellowship \hfill 2017-2018
+City University of New York-Stanford Exchange Fellow \hfill 2018-2019
+
+G.J. Pigott Scholars Program Fellow \hfill 2017-2018
 
 Stanford English Excellence in Teaching Award \hfill 2016-2017
 
-## Writing and Research
+## Writing
 ### Dissertation
 *Average, American: Literature, Statistics, and Inequality After the Civil War* \
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
-"Modeling Hawthorne's Concept of the Nation"\
-Forthcoming in a special issue of *Nathaniel Hawthorne Review*
+"Modeling Hawthorne's Concept of the Nation" \hfill [forthcoming]\
+*Nathaniel Hawthorne Review*
 
-“Average Americans: Hamlin Garland’s ‘Problem of Individual Life’”\
-Under review at *Nineteenth-Century Literature*
+“Average Americans: Hamlin Garland’s ‘Problem of Individual Life’” \hfill [under review]\
+*Nineteenth-Century Literature*
 
-"Counting on the *Norton Anthology of American Literature*"\
-Co-authored with Porter, J.D.\
-Revise and resubmit at *American Literature*
+"Counting on the *Norton Anthology of American Literature*" \hfill [revise and resubmit]\
+*American Literature*. Co-authored with Porter, J.D.
 
 \newpage
 
 ### Edited Collections
 
 *Suspense: A Study in Digital Narratology*\
-Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah.\
-Preparing manuscript for submission
+Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah. \hfill [preparing manuscript]
 
 “The Novel as Data”\
 Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
@@ -65,30 +65,27 @@ Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Han
 
 ### Reviews
 Andrew Piper, *Enumerations*\
-Forthcoming in *Studies in the Novel*, Summer 2020 (Vol. 52, No. 2)
+*Studies in the Novel*, Vol. 52, No. 2 \hfill [2020]
 
 ## University Teaching
 ### Courses as Instructor of Record 
-*At Stanford University*
+Literary Text Mining \
+Stanford University \hfill 2019-2020
 
-Literary Text Mining \hfill Fall 2019-2020
+World Humanities 101: "What it is like to be alive"\
+The City College of New York \hfill 2018-2019
 
-Writing Intensive Seminar in English: "Average Americans" \hfill Winter 2017-2018
-
-\smallskip
-
-*At The City College of New York*
-
-World Humanities 101: "What it is like to be alive" \hfill Fall 2018-2019
+Writing Intensive Seminar in English: "Average Americans"\
+Stanford University \hfill 2017-2018
 
 ### Courses as Teaching Assistant
-Literary Text Mining with Ryan Heuser \hfill Spring 2018-2019
+Literary Text Mining with Ryan Heuser \hfill 2018-2019
 
-Pedagogy with Paula Moya \hfill Fall 2017-2018
+Pedagogy with Paula Moya \hfill 2017-2018
 
-Narrative and Narrative Theory with Paula Moya and J.D. Porter \hfill Fall 2015-2016
+Narrative and Narrative Theory with Paula Moya and J.D. Porter \hfill 2015-2016
 
-Literary History III (1850-1950) with Franco Moretti \hfill Spring 2014-2015
+Literary History III (1850-1950) with Franco Moretti \hfill 2014-2015
 
 ## Public Humanities
 "The Stuff of Fame: Material and Printed Constructions of Renown in America"\
@@ -250,7 +247,7 @@ C19: The Society of Nineteenth-Century Americanists
 ## Data Analysis and Visualization
 * Python
 * R
-* bash & zsh
+* Unix shell 
 * TeX & pandoc
 * Tableau
 
