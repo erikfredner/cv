@@ -185,6 +185,8 @@ Berkeley-Stanford Conference. Stanford, CA. \hfill October 2014
 Future of Publication Workshop. Stanford, CA. \hfill October 2014
 
 ### Papers given at the Stanford Literary Lab
+"Celebrities." \hfill May 2020
+
 "Antebellum & Postbellum." \hfill January 2020
 
 "*n* Types of Typicality." \hfill December 2018
@@ -245,11 +247,7 @@ Alliance of Digital Humanities Organizations
 C19: The Society of Nineteenth-Century Americanists
 
 ## Data Analysis and Visualization
-* Python
-* R
-* Unix shell 
-* TeX & pandoc
-* Tableau
+Python, R, Unix shell, Tableau, TeX, pandoc
 
 \newpage
 
