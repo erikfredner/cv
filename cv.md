@@ -69,6 +69,9 @@ Andrew Piper, *Enumerations*\
 
 ## University Teaching
 ### Courses as Instructor of Record 
+Center for Spatial and Textual Analysis Undergraduate Research Program\
+Stanford University \hfill 2020
+
 Literary Text Mining \
 Stanford University \hfill 2019-2020
 
@@ -231,6 +234,8 @@ Stanford Literary Lab. \hfill 2015-
 "Micromégas: The Objects of the Digital Humanities" \hfill February 2015
 
 ## Academic Service
+Stanford English department online transition consultant \hfill 2020
+
 Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-
 
 Coordinator for Stanford Literary Lab \hfill 2014-2019
