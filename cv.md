@@ -65,7 +65,7 @@ Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Han
 
 ### Reviews
 Andrew Piper, *Enumerations*\
-*Studies in the Novel*, Vol. 52, No. 2 \hfill [2020]
+*Studies in the Novel*, Vol. 52, No. 2 \hfill 2020
 
 ## University Teaching
 ### Courses as Instructor of Record 
