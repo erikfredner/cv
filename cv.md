@@ -266,7 +266,7 @@ Department of English, Stanford University. malgeehe@stanford.edu
 Mark McGurl, Albert Guérard Professor of Literature\
 Department of English, Stanford University. mcgurl@stanford.edu
 
-Paula Moya Danily C. and Laura Louise Bell Professor of the Humanities\
+Paula Moya, Danily C. and Laura Louise Bell Professor of the Humanities\
 Department of English, Stanford University. pmoya@stanford.edu
 
 
