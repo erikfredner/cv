@@ -35,7 +35,7 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing
 ### Dissertation
-*Average, American: Literature, Statistics, and Inequality After the Civil War* \
+*Average, American: Literature, Statistics, and Inequality* \
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
