@@ -3,9 +3,9 @@ Documents for updating and generating my cv, as seen on [my website](https://fre
 
 `cv.pdf` shows what the full typeset cv looks like.
 
-I build this on my Mac using the following pandoc command:
+I build this using the following command:
 
-```
+```bash
 pandoc cv.md -o cv.pdf
 ```
 
