@@ -25,7 +25,7 @@ Harvard University \hfill 2008-2012\
 A.B. *magna cum laude*, English
 
 ## Awards
-Mellon Foundation Dissertation Fellow \hfill 2020-2021
+Andrew W. Mellon Foundation Dissertation Fellow \hfill 2020-2021
 
 City University of New York-Stanford Exchange Fellow \hfill 2018-2019
 
@@ -39,9 +39,6 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
-"Modeling Hawthorne's Concept of the Nation" \hfill [forthcoming]\
-*Nathaniel Hawthorne Review*
-
 “Average Americans: Hamlin Garland’s ‘Problem of Individual Life’” \hfill [under review]\
 *Nineteenth-Century Literature*
 
@@ -69,13 +66,13 @@ Andrew Piper, *Enumerations*\
 
 ## University Teaching
 ### Courses as Instructor of Record 
-Center for Spatial and Textual Analysis Undergraduate Research Program\
+Center for Spatial and Textual Analysis Summer Undergraduate Research Program\
 Stanford University \hfill 2020
 
 Literary Text Mining \
 Stanford University \hfill 2019-2020
 
-World Humanities 101: "What it is like to be alive"\
+World Humanities 10w1: "What it is like to be alive"\
 The City College of New York \hfill 2018-2019
 
 Writing Intensive Seminar in English: "Average Americans"\
@@ -103,6 +100,9 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
+"Typicality in US Literature."\
+*Techne* \hfill 2020
+
 “Finding needles in 34 million haystacks.”\
 *Techne* \hfill 2019
 
@@ -129,7 +129,7 @@ MLA 2021. Toronto. \hfill [January 2021]
 C19 2020. Coral Gables, FL. \hfill [October 2020]
 
 "Typicality in the US Novel"\
-DH 2020. Ottawa, Canada. \hfill [July 2020]
+DH 2020. Ottawa, Canada. \hfill July 2020
 
 "Introduction to Computational Textual Analysis"\
 CESTA. Stanford, CA. \hfill January 2020
@@ -148,8 +148,6 @@ Graduate Colloquium. Stanford, CA. \hfill January 2018
 
 "Average, American: Reformism and Statistics in *Jason Edwards*"\
 Consortium on the Novel. Stanford, CA. \hfill November 2017
-
-\newpage
 
 "The Type of the Average"\
 Working Group on the Novel. Stanford, CA. \hfill September 2017
@@ -211,7 +209,6 @@ Future of Publication Workshop. Stanford, CA. \hfill October 2014
 "Reading the Norton Anthologies: Databases, Canons, and Careers" \hfill November 2016
 
 ## Research Collaborations
-
 "Typicality"\
 With Algee-Hewitt, Mark.\
 Stanford Literary Lab. \hfill 2018-
@@ -234,7 +231,7 @@ Stanford Literary Lab. \hfill 2015-
 "Micromégas: The Objects of the Digital Humanities" \hfill February 2015
 
 ## Academic Service
-Stanford English department online transition consultant \hfill 2020
+Stanford English department online instruction transition consultant \hfill 2020
 
 Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-
 
@@ -253,8 +250,6 @@ C19: The Society of Nineteenth-Century Americanists
 
 ## Data Analysis and Visualization
 Python, R, Unix shell, Tableau, TeX, pandoc
-
-\newpage
 
 ## References
 Gavin Jones, Frederick P. Rehmus Family Professor of the Humanities\
