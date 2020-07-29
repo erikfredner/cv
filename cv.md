@@ -35,7 +35,7 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing
 ### Dissertation
-*Average, American: Literature, Statistics, and Inequality* \
+*Average American: Literature, Statistics, and Inequality* \
 Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Journal Articles
@@ -64,21 +64,21 @@ Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Han
 Andrew Piper, *Enumerations*\
 *Studies in the Novel*, Vol. 52, No. 2 \hfill 2020
 
-## University Teaching
-### Courses as Instructor of Record 
-Center for Spatial and Textual Analysis Summer Undergraduate Research Program\
+## Teaching
+### As Instructor of Record 
+Center for Spatial and Textual Analysis Undergraduate Research Program\
 Stanford University \hfill 2020
 
 Literary Text Mining \
 Stanford University \hfill 2019-2020
 
-World Humanities 10w1: "What it is like to be alive"\
+World Humanities 101: "What it is like to be alive"\
 The City College of New York \hfill 2018-2019
 
 Writing Intensive Seminar in English: "Average Americans"\
 Stanford University \hfill 2017-2018
 
-### Courses as Teaching Assistant
+### As Teaching Assistant
 Literary Text Mining with Ryan Heuser \hfill 2018-2019
 
 Pedagogy with Paula Moya \hfill 2017-2018
@@ -248,7 +248,7 @@ Alliance of Digital Humanities Organizations
 
 C19: The Society of Nineteenth-Century Americanists
 
-## Data Analysis and Visualization
+## Data Analysis
 Python, R, Unix shell, Tableau, TeX, pandoc
 
 ## References
