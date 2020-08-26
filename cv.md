@@ -6,9 +6,9 @@ header-includes: |
 \hyphenpenalty=10000
 
 # Erik Fredner
-Stanford University, Department of English \
+Stanford University Department of English \
 450 Serra Mall · Margaret Jacks Hall, Second Floor · Stanford, CA 94305 \
-fredner@stanford.edu · fredner.org
+fredner@stanford.edu · https://fredner.org
 
 ## Education
 Stanford University \hfill 2014-[2021]\
@@ -35,10 +35,10 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing
 ### Dissertation
-*Average American: Literature, Statistics, and Inequality* \
-Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
+*Average Americans: Literature, Statistics, and Inequality* \
+Committee: Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
-### Journal Articles
+### Articles
 “Average Americans: Hamlin Garland’s ‘Problem of Individual Life’” \hfill [under review]\
 *Nineteenth-Century Literature*
 
@@ -47,8 +47,7 @@ Supervised by Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 \newpage
 
-### Edited Collections
-
+### Collections
 *Suspense: A Study in Digital Narratology*\
 Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah. \hfill [preparing manuscript]
 
@@ -65,9 +64,9 @@ Andrew Piper, *Enumerations*\
 *Studies in the Novel*, Vol. 52, No. 2 \hfill 2020
 
 ## Teaching
-### As Instructor of Record 
+### Instructor of Record 
 Center for Spatial and Textual Analysis Undergraduate Research Program\
-Stanford University \hfill 2020
+Stanford University \hfill 2019-2020
 
 Literary Text Mining \
 Stanford University \hfill 2019-2020
@@ -78,7 +77,7 @@ The City College of New York \hfill 2018-2019
 Writing Intensive Seminar in English: "Average Americans"\
 Stanford University \hfill 2017-2018
 
-### As Teaching Assistant
+### Teaching Assistant
 Literary Text Mining with Ryan Heuser \hfill 2018-2019
 
 Pedagogy with Paula Moya \hfill 2017-2018
@@ -86,6 +85,8 @@ Pedagogy with Paula Moya \hfill 2017-2018
 Narrative and Narrative Theory with Paula Moya and J.D. Porter \hfill 2015-2016
 
 Literary History III (1850-1950) with Franco Moretti \hfill 2014-2015
+
+\newpage
 
 ## Public Humanities
 "The Stuff of Fame: Material and Printed Constructions of Renown in America"\
@@ -100,24 +101,31 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
-"Typicality in US Literature."\
-*Techne* \hfill 2020
+"Typicality in US Literature." *Techne*. \hfill 2020
 
-“Finding needles in 34 million haystacks.”\
-*Techne* \hfill 2019
+“Finding needles in 34 million haystacks.” *Techne*. \hfill 2019
 
-“How many novels have been published in English? An Attempt.”\
-*Techne* \hfill 2017
+“How many novels have been published in English? An Attempt.” *Techne*. \hfill 2017
 
-"Renowned Stanford poet Eavan Boland interrogates identity and nationhood in new collection."\
-*The Humanities at Stanford* \hfill 2015
+"Renowned Stanford poet Eavan Boland interrogates identity and nationhood in new collection." \ 
+*The Humanities at Stanford*. \hfill 2015
 
-"Stanford literary scholar: White whales and the 'Melville Effect.'"\
-*The Humanities at Stanford* \hfill 2015
+"Stanford literary scholar: White whales and the 'Melville Effect.'" \
+*The Humanities at Stanford*. \hfill 2015
 
 "Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." \ 
 *The Humanities at Stanford* \hfill 2014
 
+### Podcasts 
+Rita Felski on her 2019 Ian Watt Lecture \hfill 2019
+
+Stephen Best, Mario Telò, and Kris Cohen on *None Like Us* \hfill 2020
+
+Emily Apter, Rhonda Garelick, and Anne Higonnet on Fashion \hfill 2020
+
+Ato Quayson, John Kerrigan, and Richard Halpern on Postcolonial Tragedy \hfill 2020
+
+Wai Chee Dimock, John Plotz, and Colin Milburn on Planetary Futures \hfill 2020
 
 ## Presentations
 
@@ -130,6 +138,8 @@ C19 2020. Coral Gables, FL. \hfill [October 2020]
 
 "Typicality in the US Novel"\
 DH 2020. Ottawa, Canada. \hfill July 2020
+
+\newpage
 
 "Introduction to Computational Textual Analysis"\
 CESTA. Stanford, CA. \hfill January 2020
@@ -185,6 +195,8 @@ Berkeley-Stanford Conference. Stanford, CA. \hfill October 2014
 "On the Stanford Literary Lab’s Pamphlet Series"\
 Future of Publication Workshop. Stanford, CA. \hfill October 2014
 
+\newpage
+
 ### Papers given at the Stanford Literary Lab
 "Celebrities." \hfill May 2020
 
@@ -230,6 +242,8 @@ Stanford Literary Lab. \hfill 2015-
 
 "Micromégas: The Objects of the Digital Humanities" \hfill February 2015
 
+\newpage
+
 ## Academic Service
 Stanford English department online instruction transition consultant \hfill 2020
 
@@ -249,7 +263,11 @@ Alliance of Digital Humanities Organizations
 C19: The Society of Nineteenth-Century Americanists
 
 ## Data Analysis
-Python, R, Unix shell, Tableau, TeX, pandoc
+* Python
+* R
+* zsh & bash
+* Tableau 
+* TeX & pandoc
 
 ## References
 Gavin Jones, Frederick P. Rehmus Family Professor of the Humanities\
