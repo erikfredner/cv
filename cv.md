@@ -35,11 +35,11 @@ Stanford English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing
 ### Dissertation
-*Average Americans: Literature, Statistics, and Inequality* \
+*Averaging Americans: Literature, Statistics, and Inequality* \
 Committee: Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Articles
-“Average Americans: Hamlin Garland’s ‘Problem of Individual Life’” \hfill [under review]\
+“Hamlin Garland’s ‘Problem of Individual Life’” \hfill [under review]\
 *Nineteenth-Century Literature*
 
 "Counting on the *Norton Anthology of American Literature*" \hfill [revise and resubmit]\
@@ -49,7 +49,7 @@ Committee: Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 
 ### Collections
 *Suspense: A Study in Digital Narratology*\
-Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah. \hfill [preparing manuscript]
+Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah. \hfill [revising]
 
 “The Novel as Data”\
 Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
@@ -198,11 +198,11 @@ Future of Publication Workshop. Stanford, CA. \hfill October 2014
 \newpage
 
 ### Papers given at the Stanford Literary Lab
-"Celebrities." \hfill May 2020
+"Celebrities" \hfill May 2020
 
-"Antebellum & Postbellum." \hfill January 2020
+"Antebellum & Postbellum" \hfill January 2020
 
-"*n* Types of Typicality." \hfill December 2018
+"*n* Types of Typicality" \hfill December 2018
 
 "Norton Anthologies: Database, Canon, Career" \hfill May 2018
 
@@ -245,7 +245,7 @@ Stanford Literary Lab. \hfill 2015-
 \newpage
 
 ## Academic Service
-Stanford English department online instruction transition consultant \hfill 2020
+Virtual instruction transition consultant for Stanford English Department \hfill 2020
 
 Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-
 
@@ -253,7 +253,7 @@ Coordinator for Stanford Literary Lab \hfill 2014-2019
 
 Liaison for Berkeley-Stanford English Graduate Student Councils \hfill 2015-2019
 
-American Literature Examiner for Qualifying Exam Rehearsals \hfill 2015-2018
+American Literature Examiner for Practice Qualifying Exams \hfill 2015-2018
 
 ## Academic Affiliations
 Modern Language Association
