@@ -11,9 +11,9 @@ Stanford University Department of English \
 fredner@stanford.edu · https://fredner.org
 
 ## Education
-Stanford University \hfill 2014-[2021]\
-Ph.D., English\
-Graduate Certificate in Digital Humanities
+Stanford University \hfill 2014-[2021] \
+Ph.D., English & Graduate Certificate in Digital Humanities\
+MA, English \hfill 2015
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
@@ -88,44 +88,6 @@ Literary History III (1850-1950) with Franco Moretti \hfill 2014-2015
 
 \newpage
 
-## Public Humanities
-"The Stuff of Fame: Material and Printed Constructions of Renown in America"\
-Lead data scientist, Stanford Literary Lab and Smithsonian Institution \hfill 2019-
-
-Editor, The Stanford Center for the Study of the Novel Podcast \hfill 2019-
-
-Presenter, Academic Data Privacy and Security Workshops \hfill 2017-
-
-Contributor, *Techne* \hfill 2016-
-
-Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
-
-### Public Writing 
-"Typicality in US Literature." *Techne*. \hfill 2020
-
-“Finding needles in 34 million haystacks.” *Techne*. \hfill 2019
-
-“How many novels have been published in English? An Attempt.” *Techne*. \hfill 2017
-
-"Renowned Stanford poet Eavan Boland interrogates identity and nationhood in new collection." \ 
-*The Humanities at Stanford*. \hfill 2015
-
-"Stanford literary scholar: White whales and the 'Melville Effect.'" \
-*The Humanities at Stanford*. \hfill 2015
-
-"Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." \ 
-*The Humanities at Stanford* \hfill 2014
-
-### Podcasts 
-Rita Felski on her 2019 Ian Watt Lecture \hfill 2019
-
-Stephen Best, Mario Telò, and Kris Cohen on *None Like Us* \hfill 2020
-
-Emily Apter, Rhonda Garelick, and Anne Higonnet on Fashion \hfill 2020
-
-Ato Quayson, John Kerrigan, and Richard Halpern on Postcolonial Tragedy \hfill 2020
-
-Wai Chee Dimock, John Plotz, and Colin Milburn on Planetary Futures \hfill 2020
 
 ## Presentations
 
@@ -138,8 +100,6 @@ C19 2020. Coral Gables, FL. \hfill [October 2020]
 
 "Typicality in the US Novel"\
 DH 2020. Ottawa, Canada. \hfill July 2020
-
-\newpage
 
 "Introduction to Computational Textual Analysis"\
 CESTA. Stanford, CA. \hfill January 2020
@@ -195,8 +155,6 @@ Berkeley-Stanford Conference. Stanford, CA. \hfill October 2014
 "On the Stanford Literary Lab’s Pamphlet Series"\
 Future of Publication Workshop. Stanford, CA. \hfill October 2014
 
-\newpage
-
 ### Papers given at the Stanford Literary Lab
 "Celebrities" \hfill May 2020
 
@@ -219,6 +177,46 @@ Future of Publication Workshop. Stanford, CA. \hfill October 2014
 "How Many Novels Have Been Published in English?" \hfill February 2017
 
 "Reading the Norton Anthologies: Databases, Canons, and Careers" \hfill November 2016
+
+## Public Humanities
+"The Stuff of Fame: Material and Printed Constructions of Renown in America"\
+Lead data scientist, Stanford Literary Lab and Smithsonian Institution \hfill 2019-
+
+Editor, The Stanford Center for the Study of the Novel Podcast \hfill 2019-
+
+Presenter, Academic Data Privacy and Security Workshops \hfill 2017-
+
+Contributor, *Techne* \hfill 2016-
+
+Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
+
+### Public Writing 
+"Typicality in US Literature." *Techne*. \hfill 2020
+
+“Finding needles in 34 million haystacks.” *Techne*. \hfill 2019
+
+“How many novels have been published in English? An Attempt.” *Techne*. \hfill 2017
+
+"Renowned Stanford poet Eavan Boland interrogates identity and nationhood in new collection." \ 
+*The Humanities at Stanford*. \hfill 2015
+
+"Stanford literary scholar: White whales and the 'Melville Effect.'" \
+*The Humanities at Stanford*. \hfill 2015
+
+"Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." \ 
+*The Humanities at Stanford* \hfill 2014
+
+### Podcasts 
+Rita Felski on her 2019 Ian Watt Lecture \hfill 2019
+
+Stephen Best, Mario Telò, and Kris Cohen on *None Like Us* \hfill 2020
+
+Emily Apter, Rhonda Garelick, and Anne Higonnet on Fashion \hfill 2020
+
+Ato Quayson, John Kerrigan, and Richard Halpern on Postcolonial Tragedy \hfill 2020
+
+Wai Chee Dimock, John Plotz, and Colin Milburn on Planetary Futures \hfill 2020
+
 
 ## Research Collaborations
 "Typicality"\
@@ -249,11 +247,11 @@ Virtual instruction transition consultant for Stanford English Department \hfill
 
 Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-
 
-Coordinator for Stanford Literary Lab \hfill 2014-2019
-
 Liaison for Berkeley-Stanford English Graduate Student Councils \hfill 2015-2019
 
 American Literature Examiner for Practice Qualifying Exams \hfill 2015-2018
+
+Coordinator for Stanford Literary Lab \hfill 2014-2019
 
 ## Academic Affiliations
 Modern Language Association
