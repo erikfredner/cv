@@ -65,8 +65,8 @@ Andrew Piper, *Enumerations*\
 
 ## Teaching
 ### Instructor of Record 
-Center for Spatial and Textual Analysis Undergraduate Research Program\
-Stanford University \hfill 2019-2020
+Undergraduate Summer Research Program\
+Stanford University Center for Spatial and Textual Analysis \hfill 2019-2020
 
 Literary Text Mining \
 Stanford University \hfill 2019-2020
@@ -96,7 +96,7 @@ Literary History III (1850-1950) with Franco Moretti \hfill 2014-2015
 MLA 2021. Toronto. \hfill [January 2021]
 
 "Citizenship at Scale"\
-C19 2020. Coral Gables, FL. \hfill [October 2020]
+C19 2020. University Park, PA. \hfill [October 2020]
 
 "Typicality in the US Novel"\
 DH 2020. Ottawa, Canada. \hfill July 2020
@@ -155,7 +155,7 @@ Berkeley-Stanford Conference. Stanford, CA. \hfill October 2014
 "On the Stanford Literary Lab’s Pamphlet Series"\
 Future of Publication Workshop. Stanford, CA. \hfill October 2014
 
-### Papers given at the Stanford Literary Lab
+### At the Stanford Literary Lab
 "Celebrities" \hfill May 2020
 
 "Antebellum & Postbellum" \hfill January 2020
@@ -191,6 +191,9 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
+"Virtually impossible? Mentoring undergraduate researchers during a pandemic."\
+*The Chronicle of Higher Education*. \hfill [2020]
+
 "Typicality in US Literature." *Techne*. \hfill 2020
 
 “Finding needles in 34 million haystacks.” *Techne*. \hfill 2019
@@ -207,29 +210,29 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 *The Humanities at Stanford* \hfill 2014
 
 ### Podcasts 
-Rita Felski on her 2019 Ian Watt Lecture \hfill 2019
-
-Stephen Best, Mario Telò, and Kris Cohen on *None Like Us* \hfill 2020
-
-Emily Apter, Rhonda Garelick, and Anne Higonnet on Fashion \hfill 2020
+Wai Chee Dimock, John Plotz, and Colin Milburn on Planetary Futures \hfill 2020
 
 Ato Quayson, John Kerrigan, and Richard Halpern on Postcolonial Tragedy \hfill 2020
 
-Wai Chee Dimock, John Plotz, and Colin Milburn on Planetary Futures \hfill 2020
+Emily Apter, Rhonda Garelick, and Anne Higonnet on Fashion \hfill 2020
+
+Stephen Best, Mario Telò, and Kris Cohen on *None Like Us* \hfill 2020
+
+Rita Felski on her 2019 Ian Watt Lecture \hfill 2019
 
 
 ## Research Collaborations
 "Typicality"\
 With Algee-Hewitt, Mark.\
-Stanford Literary Lab. \hfill 2018-
+Stanford Literary Lab \hfill 2018-
 
 "Microgenres"\
 With Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Heuser, Ryan; Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. \
-Stanford Literary Lab. \hfill 2017-
+Stanford Literary Lab \hfill 2017-
 
 "Security"\
 With Algee-Hewitt, Mark; McIntosh, Whitney; Stedman, Stephen.\
-Stanford Literary Lab. \hfill 2015-
+Stanford Literary Lab \hfill 2015-
 
 ## Conferences Organized at Stanford
 "Findings: Is computation changing the study of literature?" \hfill April 2017
