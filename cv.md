@@ -45,8 +45,6 @@ Committee: Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 "Counting on the *Norton Anthology of American Literature*" \hfill [revise and resubmit]\
 *American Literature*. Co-authored with Porter, J.D.
 
-\newpage
-
 ### Collections
 *Suspense: A Study in Digital Narratology*\
 Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha; Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah. \hfill [revising]
@@ -85,9 +83,6 @@ Pedagogy with Paula Moya \hfill 2017-2018
 Narrative and Narrative Theory with Paula Moya and J.D. Porter \hfill 2015-2016
 
 Literary History III (1850-1950) with Franco Moretti \hfill 2014-2015
-
-\newpage
-
 
 ## Presentations
 
@@ -242,8 +237,6 @@ Stanford Literary Lab \hfill 2015-
 "Making & Breaking: The Berkeley-Stanford Conference" \hfill May 2015
 
 "Micromégas: The Objects of the Digital Humanities" \hfill February 2015
-
-\newpage
 
 ## Academic Service
 Virtual instruction transition consultant for Stanford English Department \hfill 2020

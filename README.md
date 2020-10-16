@@ -6,7 +6,7 @@ Documents for updating and generating my cv, as seen on [my website](https://fre
 I build this using the following command:
 
 ```bash
-pandoc cv.md -o cv.pdf
+pandoc cv.md -o cv.pdf -V geometry:margin=1in
 ```
 
 Requires both [pandoc](https://pandoc.org) and a full [MacTeX](https://www.tug.org/mactex/) installation.
