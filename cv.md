@@ -25,13 +25,13 @@ Harvard University \hfill 2008-2012\
 A.B. *magna cum laude*, English
 
 ## Awards
-Andrew W. Mellon Foundation Dissertation Fellow \hfill 2020-2021
+Mellon Foundation Dissertation Fellowship \hfill 2020-2021
 
 City University of New York-Stanford Exchange Fellow \hfill 2018-2019
 
 G.J. Pigott Scholars Program Fellow \hfill 2017-2018
 
-Stanford English Excellence in Teaching Award \hfill 2016-2017
+Stanford University Department of English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing
 ### Dissertation
@@ -91,7 +91,7 @@ Literary History III (1850-1950) with Franco Moretti \hfill 2014-2015
 MLA 2021. Toronto. \hfill [January 2021]
 
 "Citizenship at Scale"\
-C19 2020. University Park, PA. \hfill [October 2020]
+C19 2020. University Park, PA. \hfill October 2020
 
 "Typicality in the US Novel"\
 DH 2020. Ottawa, Canada. \hfill July 2020
@@ -278,4 +278,4 @@ Department of English, Stanford University. pmoya@stanford.edu
 
 
 \vfill
-\hfill Updated \today
+\hfill _Updated \today._
