@@ -6,7 +6,8 @@ header-includes: |
 \hyphenpenalty=10000
 
 # Erik Fredner
-Brooklyn, NY · fredner@stanford.edu · https://fredner.org/
+fredner@stanford.edu\
+Full CV: https://fredner.org/files/cv.pdf
 
 ## Education
 Stanford University \hfill 2014-[2021] \
