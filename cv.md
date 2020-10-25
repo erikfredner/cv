@@ -13,7 +13,7 @@ fredner@stanford.edu · https://fredner.org
 ## Education
 Stanford University \hfill 2014-[2021] \
 Ph.D., English & Graduate Certificate in Digital Humanities\
-MA, English \hfill 2015
+MA, English
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
@@ -206,11 +206,11 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 *The Humanities at Stanford* 
 
 ### Podcasts 
-Wai Chee Dimock, John Plotz, and Colin Milburn on Planetary Futures \hfill 2020
+Wai Chee Dimock, John Plotz, and Colin Milburn on planetary futures \hfill 2020
 
-Ato Quayson, John Kerrigan, and Richard Halpern on Postcolonial Tragedy \hfill 2020
+Ato Quayson, John Kerrigan, and Richard Halpern on postcolonial tragedy \hfill 2020
 
-Emily Apter, Rhonda Garelick, and Anne Higonnet on Fashion \hfill 2020
+Emily Apter, Rhonda Garelick, and Anne Higonnet on fashion \hfill 2020
 
 Stephen Best, Mario Telò, and Kris Cohen on *None Like Us* \hfill 2020
 
@@ -231,14 +231,14 @@ Stanford Literary Lab
 With Algee-Hewitt, Mark; McIntosh, Whitney; Stedman, Stephen.\
 Stanford Literary Lab 
 
-## Conferences Organized at Stanford
-"Findings: Is computation changing the study of literature?" \hfill April 2017
+## Conferences Organized
+"Findings: Is computation changing the study of literature?" at Stanford \hfill April 2017
 
-"Literature: A history of the word" \hfill April 2016
+"Literature: A history of the word" at Stanford \hfill April 2016
 
-"Making & Breaking: The Berkeley-Stanford Conference" \hfill May 2015
+"Making & Breaking: The Berkeley-Stanford Conference" at UC Berkeley \hfill May 2015
 
-"Micromégas: The Objects of the Digital Humanities" \hfill February 2015
+"Micromégas: The Objects of the Digital Humanities" at Stanford \hfill February 2015
 
 ## Academic Service
 Virtual instruction transition consultant for Stanford English Department \hfill 2020
