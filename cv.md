@@ -187,8 +187,7 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
-"Virtually impossible? Mentoring undergraduate researchers during a pandemic." \hfill [2020] \
-*The Chronicle of Higher Education*
+"Virtually impossible? Mentoring undergraduate researchers during a pandemic." \hfill [2020]
 
 "Typicality in US Literature." *Techne*. \hfill 2020
 
@@ -248,6 +247,8 @@ Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016
 Liaison for Berkeley-Stanford English Graduate Student Councils \hfill 2015-2019
 
 American Literature Examiner for Practice Qualifying Exams \hfill 2015-2018
+
+Webmaster for Stanford Literary Lab \hfill 2018-2020
 
 Coordinator for Stanford Literary Lab \hfill 2014-2019
 
