@@ -1,12 +1,12 @@
 # CV
-Documents for updating and generating my cv, as seen on [my website](https://fredner.org).
+Documents for updating and generating my CV.
 
-`cv.pdf` shows what the full typeset cv looks like.
+[`cv.pdf`](https://github.com/erikfredner/cv/blob/master/cv.pdf) shows what the full typeset cv looks like.
 
-I build this using the following command:
+## Typesetting
+
+Requires both [pandoc](https://pandoc.org) and a full [MacTeX](https://www.tug.org/mactex/) installation:
 
 ```bash
 pandoc cv.md -o cv.pdf -V geometry:margin=1in
 ```
-
-Requires both [pandoc](https://pandoc.org) and a full [MacTeX](https://www.tug.org/mactex/) installation.
