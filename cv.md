@@ -25,13 +25,13 @@ Harvard University \hfill 2008-2012\
 A.B. *magna cum laude*, English
 
 ## Awards
-Mellon Foundation Dissertation Fellowship ($32,868) \hfill 2020-2021
+Mellon Foundation Dissertation Fellowship \hfill 2020-2021
 
-City University of New York-Stanford Exchange Fellow ($37,536) \hfill 2018-2019
+City University of New York-Stanford Exchange Fellow \hfill 2018-2019
 
-G.J. Pigott Scholars Program Fellow ($40,231) \hfill 2017-2018
+G.J. Pigott Scholars Program Fellow \hfill 2017-2018
 
-Stanford University Department of English Excellence in Teaching Award ($500) \hfill 2016-2017
+Stanford University Department of English Excellence in Teaching Award \hfill 2016-2017
 
 ## Writing
 ### Dissertation
@@ -41,6 +41,9 @@ Committee: Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 ### Articles
 “Hamlin Garland’s ‘Problem of Individual Life’” \hfill [under review]\
 *Nineteenth-Century Literature*
+
+"A Meaning Apart from its Indistinguishable Words" \hfill [under review]\
+*The Nathaniel Hawthorne Review*
 
 "Counting on the *Norton Anthology of American Literature*" \hfill [revise and resubmit]\
 *American Literature*. Co-authored with Porter, J.D.
@@ -53,6 +56,8 @@ Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah.
 “The Novel as Data” \hfill 2018 \
 Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
 *The Cambridge Companion to the Novel* 
+
+\newpage
 
 “Organizing corpora at the Stanford Literary Lab." \hfill 2017 \
 Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Hannah.\
