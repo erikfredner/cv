@@ -210,6 +210,8 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 *The Humanities at Stanford* 
 
 ### Podcasts 
+Sharon Marcus on her 2020 Ian Watt Lecture \hfill 2020
+
 Wai Chee Dimock, John Plotz, and Colin Milburn on planetary futures \hfill 2020
 
 Ato Quayson, John Kerrigan, and Richard Halpern on postcolonial tragedy \hfill 2020
@@ -286,4 +288,4 @@ Department of English, Stanford University. pmoya@stanford.edu
 
 
 \vfill
-\hfill _Updated \today._
+\hfill _Updated \today_
