@@ -93,7 +93,7 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 ## Presentations
 
 ### Conference Papers and Invited Talks 
-"Burrows's Data" \hfill [January 2021] \
+"New Histories of Quantitative and Computational Methods" \hfill January 2021 \
 MLA 2021. Toronto. 
 
 "Citizenship at Scale" \hfill October 2020 \
@@ -192,7 +192,7 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
-"Virtually impossible? Mentoring undergraduate researchers during a pandemic." \hfill [2020]
+"Virtually impossible? Mentoring undergraduate researchers during a pandemic." \hfill [2021]
 
 "Typicality in US Literature." *Techne*. \hfill 2020
 
