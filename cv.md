@@ -1,5 +1,5 @@
 ---
-fontfamily: ebgaramond
+fontfamily: times
 header-includes: |
     \usepackage[document]{ragged2e}
 ---
