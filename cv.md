@@ -45,8 +45,8 @@ Committee: Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
 "A Meaning Apart from its Indistinguishable Words" \hfill [under review]\
 *The Nathaniel Hawthorne Review*
 
-"Counting on the *Norton Anthology of American Literature*" \hfill [revise and resubmit]\
-*American Literature*. Co-authored with Porter, J.D.
+"Counting on the *Norton Anthology of American Literature*" \hfill [under review]\
+*PMLA*. Co-authored with Porter, J.D.
 
 ### Collections
 *Suspense: A Study in Digital Narratology* \hfill [in process]\
@@ -93,6 +93,9 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 ## Presentations
 
 ### Conference Papers and Invited Talks 
+"Introduction to Computational Text Analysis in Python" \hfill February 2021 \
+CESTA. Stanford, CA.
+
 "New Histories of Quantitative and Computational Methods" \hfill January 2021 \
 MLA 2021. Toronto. 
 
@@ -102,7 +105,7 @@ C19 2020. University Park, PA.
 "Typicality in the US Novel" \hfill July 2020 \
 DH 2020. Ottawa, Canada. 
 
-"Introduction to Computational Textual Analysis" \hfill January 2020 \
+"Introduction to Computational Text Analysis in Python" \hfill January 2020 \
 CESTA. Stanford, CA. 
 
 Presider, "Models of Enlightenment Knowledge" \hfill January 2020 \
@@ -110,6 +113,8 @@ MLA 2020. Seattle, WA.
 
 "Modeling Hawthorne's Concept of the Nation" \hfill January 2020 \
 MLA 2020. Seattle, WA. 
+
+\newpage
 
 "Microgenres"\hfill July 2019 \
 DH 2019. Utrecht, Netherlands. 
