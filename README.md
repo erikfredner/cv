@@ -1,5 +1,5 @@
 # CV
-Documents for updating and generating my CV.
+These are the documents I use to generate and maintain my CV.
 
 [`cv.pdf`](https://github.com/erikfredner/cv/blob/master/cv.pdf) shows what the full typeset cv looks like.
 
