@@ -1,10 +1,9 @@
 # CV
-These are the documents I use to generate and maintain my CV.
+This shows how I generate and update my CV on macOS.
 
-[`cv.pdf`](https://github.com/erikfredner/cv/blob/master/cv.pdf) shows what the full typeset cv looks like.
+You can see the typeset CV on my [website](https://fredner.org/files/cv.pdf).
 
 ## Typesetting
-
 Requires both [pandoc](https://pandoc.org) and a full [MacTeX](https://www.tug.org/mactex/) installation:
 
 ```bash
