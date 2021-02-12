@@ -214,8 +214,10 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 "Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." \hfill 2014 \
 *The Humanities at Stanford* 
 
-### Podcasts 
-Sharon Marcus on her 2020 Ian Watt Lecture \hfill 2020
+### Podcasts
+Dorothy Hale, Nancy Ruttenburg, and Alex Woloch on *The Novel and the New Ethics* \hfill 2021
+
+Sharon Marcus on her 2020 Ian Watt Lecture, "Reading as if for Death" \hfill 2020
 
 Wai Chee Dimock, John Plotz, and Colin Milburn on planetary futures \hfill 2020
 
