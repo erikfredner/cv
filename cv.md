@@ -36,10 +36,10 @@ Stanford University Department of English Excellence in Teaching Award \hfill 20
 ## Writing
 ### Dissertation
 *Averaging Americans: Literature, Statistics, and Inequality* \
-Committee: Gavin Jones, Mark McGurl, Paula Moya, and Mark Algee-Hewitt
+Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
-“Hamlin Garland’s ‘Problem of Individual Life’” \hfill [under review]\
+“Hamlin Garland’s ‘Problem of Individual Life’” \hfill [revise and resubmit]\
 *Nineteenth-Century Literature*
 
 "A Meaning Apart from its Indistinguishable Words" \hfill [under review]\
@@ -93,6 +93,9 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 ## Presentations
 
 ### Conference Papers and Invited Talks 
+"Material Celebrity: Star Texts and Print Cultures of Renown" \hfill March 2021 \
+Universitatea Lucian Blaga. Sibiu, Romania.
+
 "Introduction to Computational Text Analysis in Python" \hfill February 2021 \
 CESTA. Stanford, CA.
 
@@ -111,10 +114,10 @@ CESTA. Stanford, CA.
 Presider, "Models of Enlightenment Knowledge" \hfill January 2020 \
 MLA 2020. Seattle, WA. 
 
+\newpage
+
 "Modeling Hawthorne's Concept of the Nation" \hfill January 2020 \
 MLA 2020. Seattle, WA. 
-
-\newpage
 
 "Microgenres"\hfill July 2019 \
 DH 2019. Utrecht, Netherlands. 
