@@ -6,23 +6,25 @@ header-includes: |
 \hyphenpenalty=10000
 
 # Erik Fredner
-Stanford University Department of English \
-450 Serra Mall · Margaret Jacks Hall, Second Floor · Stanford, CA 94305 \
-fredner@stanford.edu · https://fredner.org
+Charlottesville, Virginia · ecf2u@virginia.edu · https://fredner.org
+
+## Employment
+University of Virginia \hfill 2021- \
+Postdoctoral Research Associate and Lecturer in the College of Arts and Sciences
 
 ## Education
-Stanford University \hfill 2014-[2021] \
-Ph.D., English & Graduate Certificate in Digital Humanities\
-MA, English
+Stanford University \hfill 2014-2021 \
+Ph.D. in English & Graduate Certificate in Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
 University of Oxford \hfill 2010-2011\
-Visiting Student, English
+St Peter's College
+Visiting Student of English
 
-Harvard University \hfill 2008-2012\
-A.B. *magna cum laude*, English
+Harvard College \hfill 2008-2012\
+A.B. *magna cum laude* in English
 
 ## Awards
 Mellon Foundation Dissertation Fellowship \hfill 2020-2021
@@ -35,17 +37,17 @@ Stanford University Department of English Excellence in Teaching Award \hfill 20
 
 ## Writing
 ### Dissertation
-*Averaging Americans: Literature, Statistics, and Inequality* \
+*Averaging Americans: Literature, Statistics, and Inequality* \hfill 2021\
 Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
 “Hamlin Garland’s ‘Problem of Individual Life’” \hfill [revise and resubmit]\
 *Nineteenth-Century Literature*
 
-"A Meaning Apart from its Indistinguishable Words" \hfill [under review]\
+"A Meaning Apart from its Indistinguishable Words" \hfill [forthcoming]\
 *The Nathaniel Hawthorne Review*
 
-"Counting on the *Norton Anthology of American Literature*" \hfill [under review]\
+"Counting on the *Norton Anthology of American Literature*" \hfill [board review]\
 *PMLA*. Co-authored with Porter, J.D.
 
 ### Collections
@@ -55,9 +57,7 @@ Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah.
 
 “The Novel as Data” \hfill 2018 \
 Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
-*The Cambridge Companion to the Novel* 
-
-\newpage
+*The Cambridge Companion to the Novel*
 
 “Organizing corpora at the Stanford Literary Lab." \hfill 2017 \
 Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Hannah.\
@@ -68,7 +68,13 @@ Andrew Piper, *Enumerations* \hfill 2020 \
 *Studies in the Novel*, Vol. 52, No. 2 
 
 ## Teaching
-### Instructor of Record 
+### Instructor
+Engagements 1520: From Language to Data \hfill 2021-2022 \
+University of Virginia
+
+Engagements 1510: Punching Up: American Satire \hfill 2021-2022 \
+University of Virginia
+
 Undergraduate Summer Research Program \hfill 2019-2020 \
 Stanford University Center for Spatial and Textual Analysis 
 
@@ -81,7 +87,7 @@ The City College of New York
 English 162W: Writing Intensive Seminar in English, "Average Americans" \hfill 2017-2018 \
 Stanford University 
 
-### Teaching Assistant
+### Assistant
 Stanford English 184E: Literary Text Mining with Ryan Heuser \hfill 2018-2019
 
 Stanford English 396L: Pedagogy with Paula Moya \hfill 2017-2018
@@ -92,8 +98,11 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 
 ## Presentations
 
-### Conference Papers and Invited Talks 
-"Material Celebrity: Star Texts and Print Cultures of Renown" \hfill March 2021 \
+### Conference Papers and Invited Talks
+"Counting on Literature" \hfill September 2021 \
+University of Virginia. Charlottesville, VA.
+
+"Length & Weight" \hfill March 2021 \
 Universitatea Lucian Blaga. Sibiu, Romania.
 
 "Introduction to Computational Text Analysis in Python" \hfill February 2021 \
@@ -105,6 +114,8 @@ MLA 2021. Toronto.
 "Citizenship at Scale" \hfill October 2020 \
 C19 2020. University Park, PA. 
 
+\newpage
+
 "Typicality in the US Novel" \hfill July 2020 \
 DH 2020. Ottawa, Canada. 
 
@@ -113,8 +124,6 @@ CESTA. Stanford, CA.
 
 Presider, "Models of Enlightenment Knowledge" \hfill January 2020 \
 MLA 2020. Seattle, WA. 
-
-\newpage
 
 "Modeling Hawthorne's Concept of the Nation" \hfill January 2020 \
 MLA 2020. Seattle, WA. 
@@ -191,17 +200,15 @@ Future of Publication Workshop. Stanford, CA.
 "The Stuff of Fame: Material and Printed Constructions of Renown in America" \hfill 2019- \
 Lead data scientist, Stanford Literary Lab and Smithsonian Institution 
 
-Editor, The Stanford Center for the Study of the Novel Podcast \hfill 2019-
+Editor, Café: The Stanford Center for the Study of the Novel Podcast \hfill 2019-2021
 
-Presenter, Academic Data Privacy and Security Workshops \hfill 2017-
+Presenter, Academic Data Privacy and Security Workshops \hfill 2017-2021
 
 Contributor, *Techne* \hfill 2016-
 
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
-"Virtually impossible? Mentoring undergraduate researchers during a pandemic." \hfill [2021]
-
 "Typicality in US Literature." *Techne*. \hfill 2020
 
 “Finding needles in 34 million haystacks.” *Techne*. \hfill 2019
@@ -217,10 +224,15 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 "Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." \hfill 2014 \
 *The Humanities at Stanford* 
 
-### Podcasts
+### Podcast
+
+Andrea Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative \hfill 2021
+
+Nicholas Paige on *Technologies of the Novel* \hfill 2021
+
 Dorothy Hale, Nancy Ruttenburg, and Alex Woloch on *The Novel and the New Ethics* \hfill 2021
 
-Sharon Marcus on her 2020 Ian Watt Lecture, "Reading as if for Death" \hfill 2020
+Sharon Marcus on her 2020 Ian Watt Lecture \hfill 2020
 
 Wai Chee Dimock, John Plotz, and Colin Milburn on planetary futures \hfill 2020
 
@@ -241,7 +253,7 @@ Stanford Literary Lab
 "Microgenres" \hfill 2017- \
 With Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Heuser, Ryan; \
 Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. \
-Stanford Literary Lab 
+Stanford Literary Lab
 
 "Security" \hfill 2015- \
 With Algee-Hewitt, Mark; McIntosh, Whitney; Stedman, Stephen.\
@@ -279,9 +291,11 @@ C19: The Society of Nineteenth-Century Americanists
 ## Data Analysis
 * Python
 * R
-* zsh & bash
-* Tableau 
+* Tableau
 * TeX & pandoc
+* XML & TEI
+
+\newpage
 
 ## References
 Gavin Jones, Frederick P. Rehmus Family Professor of the Humanities\
@@ -295,7 +309,6 @@ Department of English, Stanford University. mcgurl@stanford.edu
 
 Paula Moya, Danily C. and Laura Louise Bell Professor of the Humanities\
 Department of English, Stanford University. pmoya@stanford.edu
-
 
 \vfill
 \hfill _Updated \today_

@@ -1,5 +1,5 @@
 # CV
-This shows how I generate and update my CV on macOS.
+I use this to generate and update my CV on macOS.
 
 You can see the typeset CV on my [website](https://fredner.org/files/cv.pdf).
 
