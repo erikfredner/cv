@@ -6,11 +6,11 @@ header-includes: |
 \hyphenpenalty=10000
 
 # Erik Fredner
-Charlottesville, Virginia · ecf2u@virginia.edu · https://fredner.org
+Charlottesville, Virginia · fredner@virginia.edu · https://fredner.org
 
 ## Employment
 University of Virginia \hfill 2021- \
-Postdoctoral Research Associate and Lecturer in the College of Arts and Sciences
+Postdoctoral Research Associate & Lecturer in the College of Arts and Sciences
 
 ## Education
 Stanford University \hfill 2014-2021 \
@@ -20,8 +20,7 @@ Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
 University of Oxford \hfill 2010-2011\
-St Peter's College
-Visiting Student of English
+St Peter's College Visiting Student of English
 
 Harvard College \hfill 2008-2012\
 A.B. *magna cum laude* in English
@@ -41,17 +40,17 @@ Stanford University Department of English Excellence in Teaching Award \hfill 20
 Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
-“Hamlin Garland’s ‘Problem of Individual Life’” \hfill [revise and resubmit]\
+“Hamlin Garland’s ‘Problem of Individual Life’” \hfill _forthcoming_ \
 *Nineteenth-Century Literature*
 
-"A Meaning Apart from its Indistinguishable Words" \hfill [forthcoming]\
+"A Meaning Apart from its Indistinguishable Words" \hfill _forthcoming_ \
 *The Nathaniel Hawthorne Review*
 
-"Counting on the *Norton Anthology of American Literature*" \hfill [board review]\
+"Counting on the *Norton Anthology of American Literature*" \hfill _board review_ \
 *PMLA*. Co-authored with Porter, J.D.
 
 ### Collections
-*Suspense: A Study in Digital Narratology* \hfill [in process]\
+*Suspense: A Study in Digital Narratology* \hfill _in process_ \
 Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha;\
 Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah. 
 
@@ -69,10 +68,10 @@ Andrew Piper, *Enumerations* \hfill 2020 \
 
 ## Teaching
 ### Instructor
-Engagements 1520: From Language to Data \hfill 2021-2022 \
+EGMT 1520 Empirical and Scientific Engagement: From Language to Data \hfill 2021-2022 \
 University of Virginia
 
-Engagements 1510: Punching Up: American Satire \hfill 2021-2022 \
+EGMT 1510 Engaging Aesthetics: Punching Up: American Satire \hfill 2021-2022 \
 University of Virginia
 
 Undergraduate Summer Research Program \hfill 2019-2020 \
@@ -99,66 +98,66 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 ## Presentations
 
 ### Conference Papers and Invited Talks
-"Counting on Literature" \hfill September 2021 \
+"Counting on Literature" \hfill Sep 2021 \
 University of Virginia. Charlottesville, VA.
 
-"Length & Weight" \hfill March 2021 \
+"Length & Weight" \hfill Mar 2021 \
 Universitatea Lucian Blaga. Sibiu, Romania.
 
-"Introduction to Computational Text Analysis in Python" \hfill February 2021 \
+"Introduction to Computational Text Analysis in Python" \hfill Feb 2021 \
 CESTA. Stanford, CA.
 
-"New Histories of Quantitative and Computational Methods" \hfill January 2021 \
+"New Histories of Quantitative and Computational Methods" \hfill Jan 2021 \
 MLA 2021. Toronto. 
 
-"Citizenship at Scale" \hfill October 2020 \
+"Citizenship at Scale" \hfill Oct 2020 \
 C19 2020. University Park, PA. 
 
 \newpage
 
-"Typicality in the US Novel" \hfill July 2020 \
+"Typicality in the US Novel" \hfill Jul 2020 \
 DH 2020. Ottawa, Canada. 
 
-"Introduction to Computational Text Analysis in Python" \hfill January 2020 \
+"Introduction to Computational Text Analysis in Python" \hfill Jan 2020 \
 CESTA. Stanford, CA. 
 
-Presider, "Models of Enlightenment Knowledge" \hfill January 2020 \
+Presider, "Models of Enlightenment Knowledge" \hfill Jan 2020 \
 MLA 2020. Seattle, WA. 
 
-"Modeling Hawthorne's Concept of the Nation" \hfill January 2020 \
+"Modeling Hawthorne's Concept of the Nation" \hfill Jan 2020 \
 MLA 2020. Seattle, WA. 
 
-"Microgenres"\hfill July 2019 \
+"Microgenres"\hfill Jul 2019 \
 DH 2019. Utrecht, Netherlands. 
 
-"The Statistical Imaginations of Hamlin Garland and Henry James"\hfill January 2018 \
+"The Statistical Imaginations of Hamlin Garland and Henry James"\hfill Jan 2018 \
 Graduate Colloquium. Stanford, CA. 
 
-"Average, American: Reformism and Statistics in *Jason Edwards*" \hfill November 2017 \
+"Average, American: Reformism and Statistics in *Jason Edwards*" \hfill Nov 2017 \
 Consortium on the Novel. Stanford, CA. 
 
-"The Type of the Average" \hfill September 2017 \
+"The Type of the Average" \hfill Sep 2017 \
 Working Group on the Novel. Stanford, CA. 
 
-"Reading the Norton Anthologies" \hfill August 2017 \
+"Reading the Norton Anthologies" \hfill Aug 2017 \
 DH 2017. Montréal, Canada. 
 
 "Reading Norton Anthologies" \hfill May 2016 \
 SyncDH. Santa Barbara, CA. 
 
-"Standing Underneath: Melville, Confidence, Testimony" \hfill April 2016 \
+"Standing Underneath: Melville, Confidence, Testimony" \hfill Apr 2016 \
 Berkeley-Stanford Conference. Berkeley, CA. 
 
-"Fallible and Unreliable Narration in *The Sound and The Fury*" \hfill October 2015 \
+"Fallible and Unreliable Narration in *The Sound and The Fury*" \hfill Oct 2015 \
 Narrative and Narrative Theory. Stanford, CA. 
 
-"Another Castle: The Stolen Princess Narrative in Literature and Videogames" \hfill October 2015 \
+"Another Castle: The Stolen Princess Narrative in Literature and Videogames" \hfill Oct 2015 \
 Infinite Possibilities. Stanford, CA. 
 
-"Virality" \hfill July 2015 \
+"Virality" \hfill Jul 2015 \
 DH 2015. Sydney, Australia. 
 
-"Suspense… Language, Narrative, Affect" \hfill July 2015 \
+"Suspense… Language, Narrative, Affect" \hfill Jul 2015 \
 DH 2015. Sydney, Australia. 
 
 "Current Projects of the Literary Lab" \hfill May 2015 \
@@ -167,34 +166,34 @@ SyncDH. Santa Barbara, CA.
 "'Two Blocks Joined by a Corridor:' Time in *To The Lighthouse*" \hfill May 2015 \
 Literary History. Stanford, CA. 
 
-"'Inveigling *Uncle Tom’s Cabin* to Become a Ballet:' cummings’s *Tom*" \hfill October 2014 \
+"'Inveigling *Uncle Tom’s Cabin* to Become a Ballet:' cummings’s *Tom*" \hfill Oct 2014 \
 Berkeley-Stanford Conference. Stanford, CA. 
 
-"On the Stanford Literary Lab’s Pamphlet Series" \hfill October 2014 \
+"On the Stanford Literary Lab’s Pamphlet Series" \hfill Oct 2014 \
 Future of Publication Workshop. Stanford, CA. 
 
 ### At the Stanford Literary Lab
 "Celebrities" \hfill May 2020
 
-"Antebellum & Postbellum" \hfill January 2020
+"Antebellum & Postbellum" \hfill Jan 2020
 
-"*n* Types of Typicality" \hfill December 2018
+"*n* Types of Typicality" \hfill Dec 2018
 
 "Norton Anthologies: Database, Canon, Career" \hfill May 2018
 
-"Typicality" \hfill February 2018
+"Typicality" \hfill Feb 2018
 
-"Security in *Foreign Affairs*" \hfill December 2017
+"Security in *Foreign Affairs*" \hfill Dec 2017
 
-"Microgenres" \hfill November 2017
+"Microgenres" \hfill Nov 2017
 
-"Distant Reading with the *Oxford English Dictionary*" \hfill November 2017
+"Distant Reading with the *Oxford English Dictionary*" \hfill Nov 2017
 
-"Synchronic and Diachronic Suspense" \hfill October 2017
+"Synchronic and Diachronic Suspense" \hfill Oct 2017
 
-"How Many Novels Have Been Published in English?" \hfill February 2017
+"How Many Novels Have Been Published in English?" \hfill Feb 2017
 
-"Reading the Norton Anthologies: Databases, Canons, and Careers" \hfill November 2016
+"Reading the Norton Anthologies: Databases, Canons, and Careers" \hfill Nov 2016
 
 ## Public Humanities
 "The Stuff of Fame: Material and Printed Constructions of Renown in America" \hfill 2019- \
@@ -209,11 +208,14 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
-"Typicality in US Literature." *Techne*. \hfill 2020
+"Typicality in US Literature." \hfill 2020 \
+*Techne*
 
-“Finding needles in 34 million haystacks.” *Techne*. \hfill 2019
+“Finding needles in 34 million haystacks.” \hfill 2019 \
+*Techne*
 
-“How many novels have been published in English? An Attempt.” *Techne*. \hfill 2017
+“How many novels have been published in English? An Attempt.” \hfill 2017 \
+*Techne*
 
 "Eavan Boland interrogates identity and nationhood in new collection." \hfill 2015 \
 *The Humanities at Stanford*
@@ -298,6 +300,9 @@ C19: The Society of Nineteenth-Century Americanists
 \newpage
 
 ## References
+Janet Spittler & Jim Coan, Co-Directors of the Engagements\
+University of Virginia. jes9cu@virginia.edu & jac3zt@virginia.edu
+
 Gavin Jones, Frederick P. Rehmus Family Professor of the Humanities\
 Department of English, Stanford University. grjones@stanford.edu
 
