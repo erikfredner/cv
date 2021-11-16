@@ -47,19 +47,19 @@ Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 *The Nathaniel Hawthorne Review*
 
 "Counting on the *Norton Anthology of American Literature*" \hfill _board review_ \
-*PMLA*. Co-authored with Porter, J.D.
+*PMLA*. Co-authored with J.D. Porter
 
 ### Collections
 *Suspense: A Study in Digital Narratology* \hfill _in process_ \
-Co-authored with Algee-Hewitt, Mark; Droge, Abigail; Eccles, Tasha;\
-Frank, Morgan; Porter, J.D.; Shephard, Andrew; Walser, Hannah. 
+Co-authored with Mark Algee-Hewitt, Abigail Droge, Tasha Eccles,\
+Edward Morgan Day Frank, J.D. Porter, Andrew Shephard, Hannah Walser
 
 “The Novel as Data” \hfill 2018 \
-Co-authored with Algee-Hewitt, Mark; Walser, Hannah.\
+Co-authored with Mark Algee-Hewitt, Hannah Walser\
 *The Cambridge Companion to the Novel*
 
 “Organizing corpora at the Stanford Literary Lab." \hfill 2017 \
-Co-authored with McClure, David; Algee-Hewitt, Mark; Douris, Steele; Walser, Hannah.\
+Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, Hannah Walser\
 *Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing* 
 
 ### Reviews
@@ -208,22 +208,22 @@ Contributor, *Techne* \hfill 2016-
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
 ### Public Writing 
-"Typicality in US Literature." \hfill 2020 \
+"Typicality in US Literature" \hfill 2020 \
 *Techne*
 
-“Finding needles in 34 million haystacks.” \hfill 2019 \
+“Finding needles in 34 million haystacks” \hfill 2019 \
 *Techne*
 
-“How many novels have been published in English? An Attempt.” \hfill 2017 \
+“How many novels have been published in English? An Attempt” \hfill 2017 \
 *Techne*
 
-"Eavan Boland interrogates identity and nationhood in new collection." \hfill 2015 \
+"Eavan Boland interrogates identity and nationhood in new collection" \hfill 2015 \
 *The Humanities at Stanford*
 
-"White whales and the 'Melville Effect.'" \hfill 2015 \
+"White whales and the 'Melville Effect'" \hfill 2015 \
 *The Humanities at Stanford*
 
-"Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela." \hfill 2014 \
+"Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela" \hfill 2014 \
 *The Humanities at Stanford* 
 
 ### Podcast
@@ -249,16 +249,16 @@ Rita Felski on her 2019 Ian Watt Lecture \hfill 2019
 
 ## Research Collaborations
 "Typicality" \hfill 2018- \
-With Algee-Hewitt, Mark.\
+With Mark Algee-Hewitt\
 Stanford Literary Lab 
 
 "Microgenres" \hfill 2017- \
-With Algee-Hewitt, Mark; Bronstein, Michaela; Droge, Abigail; Heuser, Ryan; \
-Manshel, Xander; Nomura, Nichole; Porter, J.D.; Walser, Hannah. \
+With Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
+Alexander Manshel, Nichole Nomura, J.D. Porter, Hannah Walser \
 Stanford Literary Lab
 
 "Security" \hfill 2015- \
-With Algee-Hewitt, Mark; McIntosh, Whitney; Stedman, Stephen.\
+With Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
 Stanford Literary Lab 
 
 ## Conferences Organized
@@ -295,7 +295,7 @@ C19: The Society of Nineteenth-Century Americanists
 * R
 * Tableau
 * TeX & pandoc
-* XML & TEI
+* XML
 
 \newpage
 
