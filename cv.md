@@ -6,7 +6,7 @@ header-includes: |
 \hyphenpenalty=10000
 
 # Erik Fredner
-Charlottesville, Virginia · fredner@virginia.edu · https://fredner.org
+fredner@virginia.edu | fredner.org
 
 ## Employment
 University of Virginia \hfill 2021- \
