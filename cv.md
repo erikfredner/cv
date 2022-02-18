@@ -46,17 +46,15 @@ Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 "A Meaning Apart from its Indistinguishable Words" \hfill _forthcoming_ \
 *The Nathaniel Hawthorne Review*
 
-"Counting on the *Norton Anthology of American Literature*" \hfill _board review_ \
+"Counting on the *Norton Anthology of American Literature*" \hfill _forthcoming_ \
 *PMLA*. Co-authored with J.D. Porter
 
 ### Collections
-*Suspense: A Study in Digital Narratology* \hfill _in process_ \
-Co-authored with Mark Algee-Hewitt, Abigail Droge, Tasha Eccles,\
-Edward Morgan Day Frank, J.D. Porter, Andrew Shephard, Hannah Walser
-
 “The Novel as Data” \hfill 2018 \
 Co-authored with Mark Algee-Hewitt, Hannah Walser\
 *The Cambridge Companion to the Novel*
+
+\newpage
 
 “Organizing corpora at the Stanford Literary Lab." \hfill 2017 \
 Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, Hannah Walser\
@@ -260,6 +258,11 @@ Stanford Literary Lab
 "Security" \hfill 2015- \
 With Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
 Stanford Literary Lab 
+
+"Suspense" 2014- \
+Mark Algee-Hewitt, Abigail Droge, Tasha Eccles,\
+Edward Morgan Day Frank, J.D. Porter, Andrew Shephard, Hannah Walser\
+Stanford Literary Lab
 
 ## Conferences Organized
 "Findings: Is computation changing the study of literature?" at Stanford \hfill April 2017
