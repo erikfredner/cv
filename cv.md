@@ -40,8 +40,8 @@ Stanford University Department of English Excellence in Teaching Award \hfill 20
 Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
-“Hamlin Garland’s ‘Problem of Individual Life’” \hfill _forthcoming_ \
-*Nineteenth-Century Literature*
+“Hamlin Garland’s ‘Problem of Individual Life’” \hfill 2021 \
+*Nineteenth-Century Literature*, Volume 76, Issue 3
 
 "A Meaning Apart from its Indistinguishable Words" \hfill _forthcoming_ \
 *The Nathaniel Hawthorne Review*
@@ -62,7 +62,7 @@ Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, Hannah Walser\
 
 ### Reviews
 Andrew Piper, *Enumerations* \hfill 2020 \
-*Studies in the Novel*, Vol. 52, No. 2 
+*Studies in the Novel*, Volume 52, Number 2
 
 ## Teaching
 ### Instructor
