@@ -5,6 +5,8 @@ header-includes: |
 ---
 \hyphenpenalty=10000
 
+\hfill _\today_
+
 # Erik Fredner
 fredner@virginia.edu | fredner.org
 
@@ -51,7 +53,7 @@ Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Collections
 “The Novel as Data” \hfill 2018 \
-Co-authored with Mark Algee-Hewitt, Hannah Walser\
+Co-authored with Mark Algee-Hewitt and Hannah Walser\
 *The Cambridge Companion to the Novel*
 
 \newpage
@@ -96,6 +98,9 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 ## Presentations
 
 ### Conference Papers and Invited Talks
+"Counting on *The Norton Anthology of American Literature*" \hfill May 2022 \
+DH Unbound. ACH & CSDH|SCHN. 
+
 "Counting on Literature" \hfill Sep 2021 \
 University of Virginia. Charlottesville, VA.
 
@@ -106,12 +111,12 @@ Universitatea Lucian Blaga. Sibiu, Romania.
 CESTA. Stanford, CA.
 
 "New Histories of Quantitative and Computational Methods" \hfill Jan 2021 \
-MLA 2021. Toronto. 
+MLA 2021. Toronto.
+
+\newpage
 
 "Citizenship at Scale" \hfill Oct 2020 \
 C19 2020. University Park, PA. 
-
-\newpage
 
 "Typicality in the US Novel" \hfill Jul 2020 \
 DH 2020. Ottawa, Canada. 
@@ -300,8 +305,6 @@ C19: The Society of Nineteenth-Century Americanists
 * TeX & pandoc
 * XML
 
-\newpage
-
 ## References
 Janet Spittler & Jim Coan, Co-Directors of the Engagements\
 University of Virginia. jes9cu@virginia.edu & jac3zt@virginia.edu
@@ -317,6 +320,3 @@ Department of English, Stanford University. mcgurl@stanford.edu
 
 Paula Moya, Danily C. and Laura Louise Bell Professor of the Humanities\
 Department of English, Stanford University. pmoya@stanford.edu
-
-\vfill
-\hfill _Updated \today_
