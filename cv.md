@@ -42,14 +42,14 @@ Stanford University Department of English Excellence in Teaching Award \hfill 20
 Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
-“Hamlin Garland’s ‘Problem of Individual Life’” \hfill 2021 \
-*Nineteenth-Century Literature*, Volume 76, Issue 3
+"Counting on *The Norton Anthology of American Literature*" \hfill _forthcoming_ \
+*PMLA*. Co-authored with J.D. Porter
 
 "A Meaning Apart from its Indistinguishable Words" \hfill _forthcoming_ \
 *The Nathaniel Hawthorne Review*
 
-"Counting on the *Norton Anthology of American Literature*" \hfill _forthcoming_ \
-*PMLA*. Co-authored with J.D. Porter
+“Hamlin Garland’s ‘Problem of Individual Life’” \hfill 2021 \
+*Nineteenth-Century Literature*, Volume 76, Issue 3
 
 ### Collections
 “The Novel as Data” \hfill 2018 \
@@ -175,6 +175,8 @@ Berkeley-Stanford Conference. Stanford, CA.
 "On the Stanford Literary Lab’s Pamphlet Series" \hfill Oct 2014 \
 Future of Publication Workshop. Stanford, CA. 
 
+\newpage
+
 ### At the Stanford Literary Lab
 "Celebrities" \hfill May 2020
 
@@ -264,19 +266,19 @@ Stanford Literary Lab
 With Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
 Stanford Literary Lab 
 
-"Suspense" 2014- \
+"Suspense" \hfill 2014- \
 Mark Algee-Hewitt, Abigail Droge, Tasha Eccles,\
 Edward Morgan Day Frank, J.D. Porter, Andrew Shephard, Hannah Walser\
 Stanford Literary Lab
 
 ## Conferences Organized
-"Findings: Is computation changing the study of literature?" at Stanford \hfill April 2017
+"Findings: Is computation changing the study of literature?" at Stanford \hfill Apr 2017
 
-"Literature: A history of the word" at Stanford \hfill April 2016
+"Literature: A history of the word" at Stanford \hfill Apr 2016
 
 "Making & Breaking: The Berkeley-Stanford Conference" at UC Berkeley \hfill May 2015
 
-"Micromégas: The Objects of the Digital Humanities" at Stanford \hfill February 2015
+"Micromégas: The Objects of the Digital Humanities" at Stanford \hfill Feb 2015
 
 ## Academic Service
 Virtual instruction transition consultant for Stanford English Department \hfill 2020
@@ -292,18 +294,17 @@ Webmaster for Stanford Literary Lab \hfill 2018-2020
 Coordinator for Stanford Literary Lab \hfill 2014-2019
 
 ## Academic Affiliations
-Modern Language Association
-
-Alliance of Digital Humanities Organizations
-
-C19: The Society of Nineteenth-Century Americanists
+* Modern Language Association
+* Alliance of Digital Humanities Organizations
+* The Association for Computers and the Humanities
+* C19: The Society of Nineteenth-Century Americanists
 
 ## Data Analysis
 * Python
 * R
 * Tableau
 * TeX & pandoc
-* XML
+* XML & TEI
 
 ## References
 Janet Spittler & Jim Coan, Co-Directors of the Engagements\
