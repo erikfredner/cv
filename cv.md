@@ -42,7 +42,7 @@ Stanford University Department of English Excellence in Teaching Award \hfill 20
 Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
-"Counting on *The Norton Anthology of American Literature*" \hfill _forthcoming_ \
+"Counting on *The Norton Anthology of American Literature*" \hfill _conditionally accepted_ \
 *PMLA*. Co-authored with J.D. Porter
 
 "A Meaning Apart from its Indistinguishable Words" \hfill _forthcoming_ \
@@ -231,7 +231,7 @@ Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2
 "Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela" \hfill 2014 \
 *The Humanities at Stanford* 
 
-### Podcast
+### Podcasts
 
 Andrea Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative \hfill 2021
 
