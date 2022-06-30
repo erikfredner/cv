@@ -3,18 +3,21 @@ fontfamily: times
 header-includes: |
     \usepackage[document]{ragged2e}
 ---
-\hyphenpenalty=10000
 
-\hfill _\today_
+\hfill \today
 
-# Erik Fredner
-fredner@virginia.edu | fredner.org
+# Erik Fredner\
+
+fredner@virginia.edu\
+<https://fredner.org>
 
 ## Employment
+
 University of Virginia \hfill 2021- \
 Postdoctoral Research Associate & Lecturer in the College of Arts and Sciences
 
 ## Education
+
 Stanford University \hfill 2014-2021 \
 Ph.D. in English & Graduate Certificate in Digital Humanities
 
@@ -25,49 +28,62 @@ University of Oxford \hfill 2010-2011\
 St Peter's College Visiting Student of English
 
 Harvard College \hfill 2008-2012\
-A.B. *magna cum laude* in English
+A.B. _magna cum laude_ in English
 
 ## Awards
+
+Nominated for Alden Dissertation Prize \hfill 2022
+
+University of Virginia College Fellows Development Grant \hfill 2022
+
 Mellon Foundation Dissertation Fellowship \hfill 2020-2021
 
 City University of New York-Stanford Exchange Fellow \hfill 2018-2019
 
 G.J. Pigott Scholars Program Fellow \hfill 2017-2018
 
-Stanford University Department of English Excellence in Teaching Award \hfill 2016-2017
+Stanford University Department of English Excellence in Teaching Award \hfill 2017
 
 ## Writing
+
 ### Dissertation
-*Averaging Americans: Literature, Statistics, and Inequality* \hfill 2021\
+
+_Averaging Americans: Literature, Statistics, and Inequality_ \hfill 2021\
 Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
-"Counting on *The Norton Anthology of American Literature*" \hfill _conditionally accepted_ \
-*PMLA*. Co-authored with J.D. Porter
 
-"A Meaning Apart from its Indistinguishable Words" \hfill _forthcoming_ \
-*The Nathaniel Hawthorne Review*
+"Counting on _The Norton Anthology of American Literature_" \hfill _conditionally accepted_ \
+_PMLA_. Co-authored with J.D. Porter
+
+"A Meaning Apart from its Indistinguishable Words" \hfill 2022 \
+_The Nathaniel Hawthorne Review_, Volume 48, Number 1
 
 “Hamlin Garland’s ‘Problem of Individual Life’” \hfill 2021 \
-*Nineteenth-Century Literature*, Volume 76, Issue 3
-
-### Collections
-“The Novel as Data” \hfill 2018 \
-Co-authored with Mark Algee-Hewitt and Hannah Walser\
-*The Cambridge Companion to the Novel*
+_Nineteenth-Century Literature_, Volume 76, Issue 3
 
 \newpage
 
+“The Novel as Data” \hfill 2018 \
+Co-authored with Mark Algee-Hewitt and Hannah Walser\
+_The Cambridge Companion to the Novel_
+
 “Organizing corpora at the Stanford Literary Lab." \hfill 2017 \
 Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, Hannah Walser\
-*Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing* 
+_Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing_
 
 ### Reviews
-Andrew Piper, *Enumerations* \hfill 2020 \
-*Studies in the Novel*, Volume 52, Number 2
+
+Andrew Piper, _Enumerations_ \hfill 2020 \
+_Studies in the Novel_, Volume 52, Number 2
 
 ## Teaching
+
 ### Instructor
+
+EGMT 1510 Engaging Aesthetics: Punching Up: American Satire \hfill 2022-2023 \
+University of Virginia
+
 EGMT 1520 Empirical and Scientific Engagement: From Language to Data \hfill 2021-2022 \
 University of Virginia
 
@@ -75,18 +91,19 @@ EGMT 1510 Engaging Aesthetics: Punching Up: American Satire \hfill 2021-2022 \
 University of Virginia
 
 Undergraduate Summer Research Program \hfill 2019-2020 \
-Stanford University Center for Spatial and Textual Analysis 
+Stanford University Center for Spatial and Textual Analysis
 
 English 184E: Literary Text Mining \hfill 2019-2020 \
-Stanford University 
+Stanford University
 
 World Humanities 101: "What it is like to be alive" \hfill 2018-2019 \
-The City College of New York 
+The City College of New York
 
 English 162W: Writing Intensive Seminar in English, "Average Americans" \hfill 2017-2018 \
-Stanford University 
+Stanford University
 
 ### Assistant
+
 Stanford English 184E: Literary Text Mining with Ryan Heuser \hfill 2018-2019
 
 Stanford English 396L: Pedagogy with Paula Moya \hfill 2017-2018
@@ -98,8 +115,9 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 ## Presentations
 
 ### Conference Papers and Invited Talks
-"Counting on *The Norton Anthology of American Literature*" \hfill May 2022 \
-DH Unbound. ACH & CSDH|SCHN. 
+
+"Counting on _The Norton Anthology of American Literature_" \hfill May 2022 \
+DH Unbound. ACH & CSDH|SCHN.
 
 "Counting on Literature" \hfill Sep 2021 \
 University of Virginia. Charlottesville, VA.
@@ -113,86 +131,83 @@ CESTA. Stanford, CA.
 "New Histories of Quantitative and Computational Methods" \hfill Jan 2021 \
 MLA 2021. Toronto.
 
-\newpage
-
 "Citizenship at Scale" \hfill Oct 2020 \
-C19 2020. University Park, PA. 
+C19 2020. University Park, PA.
 
 "Typicality in the US Novel" \hfill Jul 2020 \
-DH 2020. Ottawa, Canada. 
+DH 2020. Ottawa, Canada.
 
 "Introduction to Computational Text Analysis in Python" \hfill Jan 2020 \
-CESTA. Stanford, CA. 
+CESTA. Stanford, CA.
 
 Presider, "Models of Enlightenment Knowledge" \hfill Jan 2020 \
-MLA 2020. Seattle, WA. 
+MLA 2020. Seattle, WA.
 
 "Modeling Hawthorne's Concept of the Nation" \hfill Jan 2020 \
-MLA 2020. Seattle, WA. 
+MLA 2020. Seattle, WA.
 
 "Microgenres"\hfill Jul 2019 \
-DH 2019. Utrecht, Netherlands. 
+DH 2019. Utrecht, Netherlands.
 
 "The Statistical Imaginations of Hamlin Garland and Henry James"\hfill Jan 2018 \
-Graduate Colloquium. Stanford, CA. 
+Graduate Colloquium. Stanford, CA.
 
-"Average, American: Reformism and Statistics in *Jason Edwards*" \hfill Nov 2017 \
-Consortium on the Novel. Stanford, CA. 
+"Average, American: Reformism and Statistics in _Jason Edwards_" \hfill Nov 2017 \
+Consortium on the Novel. Stanford, CA.
 
 "The Type of the Average" \hfill Sep 2017 \
-Working Group on the Novel. Stanford, CA. 
+Working Group on the Novel. Stanford, CA.
 
 "Reading the Norton Anthologies" \hfill Aug 2017 \
-DH 2017. Montréal, Canada. 
+DH 2017. Montréal, Canada.
 
 "Reading Norton Anthologies" \hfill May 2016 \
-SyncDH. Santa Barbara, CA. 
+SyncDH. Santa Barbara, CA.
 
 "Standing Underneath: Melville, Confidence, Testimony" \hfill Apr 2016 \
-Berkeley-Stanford Conference. Berkeley, CA. 
+Berkeley-Stanford Conference. Berkeley, CA.
 
-"Fallible and Unreliable Narration in *The Sound and The Fury*" \hfill Oct 2015 \
-Narrative and Narrative Theory. Stanford, CA. 
+"Fallible and Unreliable Narration in _The Sound and The Fury_" \hfill Oct 2015 \
+Narrative and Narrative Theory. Stanford, CA.
 
 "Another Castle: The Stolen Princess Narrative in Literature and Videogames" \hfill Oct 2015 \
-Infinite Possibilities. Stanford, CA. 
+Infinite Possibilities. Stanford, CA.
 
 "Virality" \hfill Jul 2015 \
-DH 2015. Sydney, Australia. 
+DH 2015. Sydney, Australia.
 
 "Suspense… Language, Narrative, Affect" \hfill Jul 2015 \
-DH 2015. Sydney, Australia. 
+DH 2015. Sydney, Australia.
 
 "Current Projects of the Literary Lab" \hfill May 2015 \
-SyncDH. Santa Barbara, CA. 
+SyncDH. Santa Barbara, CA.
 
-"'Two Blocks Joined by a Corridor:' Time in *To The Lighthouse*" \hfill May 2015 \
-Literary History. Stanford, CA. 
+"'Two Blocks Joined by a Corridor:' Time in _To The Lighthouse_" \hfill May 2015 \
+Literary History. Stanford, CA.
 
-"'Inveigling *Uncle Tom’s Cabin* to Become a Ballet:' cummings’s *Tom*" \hfill Oct 2014 \
-Berkeley-Stanford Conference. Stanford, CA. 
+"'Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:' cummings’s _Tom_" \hfill Oct 2014 \
+Berkeley-Stanford Conference. Stanford, CA.
 
 "On the Stanford Literary Lab’s Pamphlet Series" \hfill Oct 2014 \
-Future of Publication Workshop. Stanford, CA. 
-
-\newpage
+Future of Publication Workshop. Stanford, CA.
 
 ### At the Stanford Literary Lab
+
 "Celebrities" \hfill May 2020
 
 "Antebellum & Postbellum" \hfill Jan 2020
 
-"*n* Types of Typicality" \hfill Dec 2018
+"_n_ Types of Typicality" \hfill Dec 2018
 
 "Norton Anthologies: Database, Canon, Career" \hfill May 2018
 
 "Typicality" \hfill Feb 2018
 
-"Security in *Foreign Affairs*" \hfill Dec 2017
+"Security in _Foreign Affairs_" \hfill Dec 2017
 
 "Microgenres" \hfill Nov 2017
 
-"Distant Reading with the *Oxford English Dictionary*" \hfill Nov 2017
+"Distant Reading with the _Oxford English Dictionary_" \hfill Nov 2017
 
 "Synchronic and Diachronic Suspense" \hfill Oct 2017
 
@@ -201,43 +216,45 @@ Future of Publication Workshop. Stanford, CA.
 "Reading the Norton Anthologies: Databases, Canons, and Careers" \hfill Nov 2016
 
 ## Public Humanities
+
 "The Stuff of Fame: Material and Printed Constructions of Renown in America" \hfill 2019- \
-Lead data scientist, Stanford Literary Lab and Smithsonian Institution 
+Lead data scientist, Stanford Literary Lab and Smithsonian Institution
 
 Editor, Café: The Stanford Center for the Study of the Novel Podcast \hfill 2019-2021
 
 Presenter, Academic Data Privacy and Security Workshops \hfill 2017-2021
 
-Contributor, *Techne* \hfill 2016-
+Contributor, _Techne_ \hfill 2016-
 
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
-### Public Writing 
+### Public Writing
+
 "Typicality in US Literature" \hfill 2020 \
-*Techne*
+_Techne_
 
 “Finding needles in 34 million haystacks” \hfill 2019 \
-*Techne*
+_Techne_
 
 “How many novels have been published in English? An Attempt” \hfill 2017 \
-*Techne*
+_Techne_
 
 "Eavan Boland interrogates identity and nationhood in new collection" \hfill 2015 \
-*The Humanities at Stanford*
+_The Humanities at Stanford_
 
 "White whales and the 'Melville Effect'" \hfill 2015 \
-*The Humanities at Stanford*
+_The Humanities at Stanford_
 
 "Stanford scholar questions whether traditional statues are an appropriate way to commemorate Mandela" \hfill 2014 \
-*The Humanities at Stanford* 
+_The Humanities at Stanford_
 
 ### Podcasts
 
 Andrea Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative \hfill 2021
 
-Nicholas Paige on *Technologies of the Novel* \hfill 2021
+Nicholas Paige on _Technologies of the Novel_ \hfill 2021
 
-Dorothy Hale, Nancy Ruttenburg, and Alex Woloch on *The Novel and the New Ethics* \hfill 2021
+Dorothy Hale, Nancy Ruttenburg, and Alex Woloch on _The Novel and the New Ethics_ \hfill 2021
 
 Sharon Marcus on her 2020 Ian Watt Lecture \hfill 2020
 
@@ -247,15 +264,15 @@ Ato Quayson, John Kerrigan, and Richard Halpern on postcolonial tragedy \hfill 2
 
 Emily Apter, Rhonda Garelick, and Anne Higonnet on fashion \hfill 2020
 
-Stephen Best, Mario Telò, and Kris Cohen on *None Like Us* \hfill 2020
+Stephen Best, Mario Telò, and Kris Cohen on _None Like Us_ \hfill 2020
 
 Rita Felski on her 2019 Ian Watt Lecture \hfill 2019
 
-
 ## Research Collaborations
+
 "Typicality" \hfill 2018- \
 With Mark Algee-Hewitt\
-Stanford Literary Lab 
+Stanford Literary Lab
 
 "Microgenres" \hfill 2017- \
 With Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
@@ -264,7 +281,7 @@ Stanford Literary Lab
 
 "Security" \hfill 2015- \
 With Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
-Stanford Literary Lab 
+Stanford Literary Lab
 
 "Suspense" \hfill 2014- \
 Mark Algee-Hewitt, Abigail Droge, Tasha Eccles,\
@@ -272,6 +289,7 @@ Edward Morgan Day Frank, J.D. Porter, Andrew Shephard, Hannah Walser\
 Stanford Literary Lab
 
 ## Conferences Organized
+
 "Findings: Is computation changing the study of literature?" at Stanford \hfill Apr 2017
 
 "Literature: A history of the word" at Stanford \hfill Apr 2016
@@ -281,6 +299,7 @@ Stanford Literary Lab
 "Micromégas: The Objects of the Digital Humanities" at Stanford \hfill Feb 2015
 
 ## Academic Service
+
 Virtual instruction transition consultant for Stanford English Department \hfill 2020
 
 Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-
@@ -294,12 +313,14 @@ Webmaster for Stanford Literary Lab \hfill 2018-2020
 Coordinator for Stanford Literary Lab \hfill 2014-2019
 
 ## Academic Affiliations
+
 * Modern Language Association
 * Alliance of Digital Humanities Organizations
 * The Association for Computers and the Humanities
 * C19: The Society of Nineteenth-Century Americanists
 
 ## Data Analysis
+
 * Python
 * R
 * Tableau
@@ -307,6 +328,7 @@ Coordinator for Stanford Literary Lab \hfill 2014-2019
 * XML & TEI
 
 ## References
+
 Janet Spittler & Jim Coan, Co-Directors of the Engagements\
 University of Virginia. jes9cu@virginia.edu & jac3zt@virginia.edu
 
