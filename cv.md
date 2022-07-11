@@ -8,7 +8,7 @@ header-includes: |
 
 # Erik Fredner\
 
-fredner@virginia.edu\
+[fredner@virginia.edu](mailto:fredner@virginia.edu)\
 <https://fredner.org>
 
 ## Employment
@@ -81,13 +81,13 @@ _Studies in the Novel_, Volume 52, Number 2
 
 ### Instructor
 
-EGMT 1510 Engaging Aesthetics: Punching Up: American Satire \hfill 2022-2023 \
+EGMT 1510 Engaging Aesthetics: Punching Up: US Satire \hfill 2022-2023 \
 University of Virginia
 
 EGMT 1520 Empirical and Scientific Engagement: From Language to Data \hfill 2021-2022 \
 University of Virginia
 
-EGMT 1510 Engaging Aesthetics: Punching Up: American Satire \hfill 2021-2022 \
+EGMT 1510 Engaging Aesthetics: Punching Up: US Satire \hfill 2021-2022 \
 University of Virginia
 
 Undergraduate Summer Research Program \hfill 2019-2020 \
@@ -116,7 +116,7 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 
 ### Conference Papers and Invited Talks
 
-"Introduction to Scholarly Podcasting" \hfill Sep 2022 \
+"Introduction to Scholarly Podcasting" \hfill Aug 2022 \
 CESTA. Stanford, CA.
 
 "Counting on _The Norton Anthology of American Literature_" \hfill May 2022 \
