@@ -9,17 +9,19 @@ header-includes: |
 # Erik Fredner\
 
 [fredner@virginia.edu](mailto:fredner@virginia.edu)\
-<https://fredner.org>
+[fredner.org](https://fredner.org)
 
 ## Employment
 
 University of Virginia \hfill 2021- \
-Postdoctoral Research Associate & Lecturer in the College of Arts and Sciences
+Postdoctoral Research Associate \
+Lecturer in the College of Arts and Sciences
 
 ## Education
 
 Stanford University \hfill 2014-2021 \
-Ph.D. in English & Graduate Certificate in Digital Humanities
+Ph.D. in English \
+Graduate Certificate in Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
@@ -188,6 +190,8 @@ SyncDH. Santa Barbara, CA.
 "'Two Blocks Joined by a Corridor:' Time in _To The Lighthouse_" \hfill May 2015 \
 Literary History. Stanford, CA.
 
+\newpage
+
 "'Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:' cummings’s _Tom_" \hfill Oct 2014 \
 Berkeley-Stanford Conference. Stanford, CA.
 
@@ -301,7 +305,7 @@ Stanford Literary Lab
 
 "Micromégas: The Objects of the Digital Humanities" at Stanford \hfill Feb 2015
 
-## Academic Service
+## Service
 
 Virtual instruction transition consultant for Stanford English Department \hfill 2020
 
@@ -315,20 +319,23 @@ Webmaster for Stanford Literary Lab \hfill 2018-2020
 
 Coordinator for Stanford Literary Lab \hfill 2014-2019
 
-## Academic Affiliations
+## Affiliations
 
-* Modern Language Association
-* Alliance of Digital Humanities Organizations
-* The Association for Computers and the Humanities
-* C19: The Society of Nineteenth-Century Americanists
+Modern Language Association \hfill 2014-
+
+Alliance of Digital Humanities Organizations \hfill 2014-
+
+C19: The Society of Nineteenth-Century Americanists \hfill 2019-
+
+The Association for Computers and the Humanities \hfill 2020-
 
 ## Data Analysis
 
-* Python
-* R
-* Tableau
-* TeX & pandoc
-* XML & TEI
+- Python
+- R
+- Tableau
+- TeX & pandoc
+- XML & TEI
 
 ## References
 
