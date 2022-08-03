@@ -1,15 +1,13 @@
 ---
-fontfamily: times
-header-includes: |
-    \usepackage[document]{ragged2e}
+fontfamily: ebgaramond
 ---
 
-\hfill \today
+\hfill _\today_
 
-# Erik Fredner\
+# Erik Fredner
 
-[fredner@virginia.edu](mailto:fredner@virginia.edu)\
-[fredner.org](https://fredner.org)
+[`fredner@virginia.edu`](mailto:fredner@virginia.edu)\
+[`fredner.org`](https://fredner.org)
 
 ## Employment
 
@@ -55,7 +53,7 @@ Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
 ### Articles
 
-"Counting on _The Norton Anthology of American Literature_" \hfill _conditionally accepted_ \
+"Counting on _The Norton Anthology of American Literature_" \hfill _forthcoming_ \
 _PMLA_. Co-authored with J.D. Porter
 
 "A Meaning Apart from its Indistinguishable Words" \hfill 2022 \
@@ -118,7 +116,7 @@ Stanford English 100C: Literary History III (1850-1950) with Franco Moretti \hfi
 
 ### Conference Papers and Invited Talks
 
-"Introduction to Scholarly Podcasting" \hfill Aug 2022 \
+"On Scholarly Podcasting" \hfill Aug 2022 \
 CESTA. Stanford, CA.
 
 "Counting on _The Norton Anthology of American Literature_" \hfill May 2022 \
@@ -339,17 +337,26 @@ The Association for Computers and the Humanities \hfill 2020-
 
 ## References
 
-Janet Spittler & Jim Coan, Co-Directors of the Engagements\
-University of Virginia. jes9cu@virginia.edu & jac3zt@virginia.edu
+Gavin Jones\
+Stanford University\
+`grjones@stanford.edu`
 
-Gavin Jones, Frederick P. Rehmus Family Professor of the Humanities\
-Department of English, Stanford University. grjones@stanford.edu
+Mark Algee-Hewitt\
+Stanford University\
+`malgeehe@stanford.edu`
 
-Mark Algee-Hewitt, Assistant Professor and Director of the Stanford Literary Lab\
-Department of English, Stanford University. malgeehe@stanford.edu
+Mark McGurl\
+Stanford University\
+`mcgurl@stanford.edu`
 
-Mark McGurl, Albert Guérard Professor of Literature\
-Department of English, Stanford University. mcgurl@stanford.edu
+Paula Moya\
+Stanford University\
+`pmoya@stanford.edu`
 
-Paula Moya, Danily C. and Laura Louise Bell Professor of the Humanities\
-Department of English, Stanford University. pmoya@stanford.edu
+Janet Spittler \
+University of Virginia\
+`jes9cu@virginia.edu`
+
+Jim Coan\
+University of Virginia\
+`jac3zt@virginia.edu`
