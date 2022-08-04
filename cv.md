@@ -1,8 +1,8 @@
 ---
-fontfamily: ebgaramond
+fontfamily: librecaslon
 ---
 
-\hfill _\today_
+\hfill \today
 
 # Erik Fredner
 
@@ -61,8 +61,6 @@ _The Nathaniel Hawthorne Review_, Volume 48, Number 1
 
 “Hamlin Garland’s ‘Problem of Individual Life’” \hfill 2021 \
 _Nineteenth-Century Literature_, Volume 76, Issue 3
-
-\newpage
 
 “The Novel as Data” \hfill 2018 \
 Co-authored with Mark Algee-Hewitt and Hannah Walser\
@@ -188,8 +186,6 @@ SyncDH. Santa Barbara, CA.
 "'Two Blocks Joined by a Corridor:' Time in _To The Lighthouse_" \hfill May 2015 \
 Literary History. Stanford, CA.
 
-\newpage
-
 "'Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:' cummings’s _Tom_" \hfill Oct 2014 \
 Berkeley-Stanford Conference. Stanford, CA.
 
@@ -222,10 +218,12 @@ Future of Publication Workshop. Stanford, CA.
 
 ## Public Humanities
 
+### Roles
+
 "The Stuff of Fame: Material and Printed Constructions of Renown in America" \hfill 2019- \
 Lead data scientist, Stanford Literary Lab and Smithsonian Institution
 
-Editor, Café: The Stanford Center for the Study of the Novel Podcast \hfill 2019-2021
+Editor, _Café_, The Stanford Center for the Study of the Novel's podcast \hfill 2019-2021
 
 Presenter, Academic Data Privacy and Security Workshops \hfill 2017-2021
 
@@ -233,7 +231,7 @@ Contributor, _Techne_ \hfill 2016-
 
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
-### Public Writing
+### Writing
 
 "Typicality in US Literature" \hfill 2020 \
 _Techne_
