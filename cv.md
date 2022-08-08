@@ -1,5 +1,6 @@
 ---
 fontfamily: librecaslon
+geometry: margin=1in
 ---
 
 \hfill \today
@@ -66,7 +67,7 @@ _Nineteenth-Century Literature_, Volume 76, Issue 3
 Co-authored with Mark Algee-Hewitt and Hannah Walser\
 _The Cambridge Companion to the Novel_
 
-“Organizing corpora at the Stanford Literary Lab." \hfill 2017 \
+“Organizing Corpora at the Stanford Literary Lab." \hfill 2017 \
 Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, Hannah Walser\
 _Proceedings of the Workshop on Challenges in the Management of Large Corpora and Big Data and Natural Language Processing_
 
@@ -79,13 +80,13 @@ _Studies in the Novel_, Volume 52, Number 2
 
 ### Instructor
 
-EGMT 1510 Engaging Aesthetics: Punching Up: US Satire \hfill 2022-2023 \
+Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2022-2023 \
 University of Virginia
 
-EGMT 1520 Empirical and Scientific Engagement: From Language to Data \hfill 2021-2022 \
+Empirical and Scientific Engagement 1520: From Language to Data \hfill 2021-2022 \
 University of Virginia
 
-EGMT 1510 Engaging Aesthetics: Punching Up: US Satire \hfill 2021-2022 \
+Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2021-2022 \
 University of Virginia
 
 Undergraduate Summer Research Program \hfill 2019-2020 \
@@ -231,7 +232,7 @@ Contributor, _Techne_ \hfill 2016-
 
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
-### Writing
+### Public Writing
 
 "Typicality in US Literature" \hfill 2020 \
 _Techne_
@@ -351,7 +352,7 @@ Paula Moya\
 Stanford University\
 `pmoya@stanford.edu`
 
-Janet Spittler \
+Janet Spittler\
 University of Virginia\
 `jes9cu@virginia.edu`
 

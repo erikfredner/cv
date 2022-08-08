@@ -10,5 +10,5 @@ I use this markdown file to generate my [CV](https://fredner.org/files/cv.pdf).
 ## Typesetting
 
 ```zsh
-pandoc cv.md -o cv.pdf -V geometry:margin=1in
+pandoc cv.md -o cv.pdf
 ```
