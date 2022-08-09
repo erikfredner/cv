@@ -1,5 +1,5 @@
 ---
-fontfamily: librecaslon
+fontfamily: ebgaramond
 geometry: margin=1in
 ---
 
