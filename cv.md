@@ -1,5 +1,5 @@
 ---
-fontfamily: librecaslon
+fontfamily: ebgaramond #garamond-libre CormorantGaramond ebgaramond-maths librecaslon times
 geometry: margin=1in
 urlcolor: NavyBlue
 ---
@@ -8,8 +8,7 @@ urlcolor: NavyBlue
 
 # Erik Fredner
 
-[fredner@virginia.edu](mailto:fredner@virginia.edu)\
-[fredner.org](https://fredner.org)
+[fredner@virginia.edu](mailto:fredner@virginia.edu)\ \ ·\ \ [fredner.org](https://fredner.org)
 
 ## Employment
 
@@ -27,7 +26,8 @@ Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
 University of Oxford \hfill 2010-2011\
-St Peter's College Visiting Student of English
+St Peter's College \
+Visiting Student of English
 
 Harvard College \hfill 2008-2012\
 A.B. _magna cum laude_ in English
@@ -42,33 +42,34 @@ Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 ### Articles
 
 "Counting on _The Norton Anthology of American Literature_" \hfill _forthcoming_ \
-_PMLA_. Co-authored with J.D. Porter
+Co-authored with J.D. Porter \
+_PMLA_
 
 ["A Meaning Apart from its Indistinguishable Words"](https://doi.org/10.5325/nathhawtrevi.48.1.0082) \hfill 2022 \
-_The Nathaniel Hawthorne Review_, Volume 48, Number 1
+_The Nathaniel Hawthorne Review_
 
 [“Hamlin Garland’s ‘Problem of Individual Life’”](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
-_Nineteenth-Century Literature_, Volume 76, Issue 3
+_Nineteenth-Century Literature_
 
 [“The Novel as Data”](https://doi.org/10.1017/9781316659694.013) \hfill 2018 \
 Co-authored with Mark Algee-Hewitt and Hannah Walser\
 _The Cambridge Companion to the Novel_
 
-[“Organizing Corpora at the Stanford Literary Lab."](https://nbn-resolving.org/urn:nbn:de:bsz:mh39-62617) \hfill 2017 \
-Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, Hannah Walser\
+[“Organizing Corpora at the Stanford Literary Lab"](https://nbn-resolving.org/urn:nbn:de:bsz:mh39-62617) \hfill 2017 \
+Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, and Hannah Walser\
 _Proceedings of the Workshop on Challenges in the Management of Large Corpora \
 and Big Data and Natural Language Processing_
 
-### Reviews
+### Review
 
-[Andrew Piper, _Enumerations_](https://doi.org/10.1353/sdn.2020.0026) \hfill 2020 \
-_Studies in the Novel_, Volume 52, Number 2
+["_Enumerations: Data and Literary Study_ by Andrew Piper"](https://doi.org/10.1353/sdn.2020.0026) \hfill 2020 \
+_Studies in the Novel_
 
 ## Awards
 
 University of Virginia College Fellows Development Grant \hfill 2022
 
-Mellon Foundation Dissertation Fellowship \hfill 2020-2021
+Stanford Humanities Center Mellon Foundation Dissertation Fellowship \hfill 2020-2021
 
 City University of New York-Stanford Exchange Fellow \hfill 2018-2019
 
@@ -76,51 +77,12 @@ G.J. Pigott Scholars Program Fellow \hfill 2017-2018
 
 Stanford University Department of English Excellence in Teaching Award \hfill 2017
 
-## Teaching
-
-### Instructor
-
-Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2022-2023 \
-University of Virginia
-
-Empirical and Scientific Engagement 1520: From Language to Data \hfill 2021-2022 \
-University of Virginia
-
-Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2021-2022 \
-University of Virginia
-
-Undergraduate Summer Research Program \hfill 2019-2020 \
-Stanford University Center for Spatial and Textual Analysis
-
-English 184E: Literary Text Mining \hfill 2019-2020 \
-Stanford University
-
-World Humanities 101: "What it is like to be alive" \hfill 2018-2019 \
-The City College of New York
-
-English 162W: Writing Intensive Seminar in English, "Average Americans" \hfill 2017-2018 \
-Stanford University
-
-### Assistant
-
-English 184E: Literary Text Mining with Ryan Heuser \hfill 2018-2019 \
-Stanford University
-
-English 396L: Pedagogy with Paula Moya \hfill 2017-2018 \
-Stanford University
-
-English 161: Narrative and Narrative Theory with Paula Moya and J.D. Porter \hfill 2015-2016 \
-Stanford University
-
-English 100C: Literary History III (1850-1950) with Franco Moretti \hfill 2014-2015 \
-Stanford University
-
 ## Presentations
 
 ### Conference Papers and Invited Talks
 
 "On Scholarly Podcasting" \hfill 2022 \
-CESTA. Stanford, CA.
+Center for Spatial and Textual Analysis. Stanford, CA.
 
 "Counting on _The Norton Anthology of American Literature_" \hfill 2022 \
 DH Unbound. ACH & CSDH|SCHN.
@@ -132,7 +94,7 @@ University of Virginia. Charlottesville, VA.
 Universitatea Lucian Blaga. Sibiu, Romania.
 
 "Introduction to Computational Text Analysis in Python" \hfill 2021 \
-CESTA. Stanford, CA.
+Center for Spatial and Textual Analysis. Stanford, CA.
 
 "New Histories of Quantitative and Computational Methods" \hfill 2021 \
 MLA 2021. Toronto.
@@ -144,7 +106,7 @@ C19 2020. University Park, PA.
 DH 2020. Ottawa, Canada.
 
 "Introduction to Computational Text Analysis in Python" \hfill 2020 \
-CESTA. Stanford, CA.
+Center for Spatial and Textual Analysis. Stanford, CA.
 
 Presider, "Models of Enlightenment Knowledge" \hfill 2020 \
 MLA 2020. Seattle, WA.
@@ -221,6 +183,48 @@ Future of Publication Workshop. Stanford, CA.
 
 "Reading the Norton Anthologies: Databases, Canons, and Careers" \hfill 2016
 
+\newpage
+
+## Teaching
+
+Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2022-2023 \
+University of Virginia
+
+Empirical and Scientific Engagement 1520: From Language to Data \hfill 2021-2022 \
+University of Virginia
+
+Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2021-2022 \
+University of Virginia
+
+Undergraduate Summer Research Program \hfill 2019-2020 \
+Stanford University \
+Center for Spatial and Textual Analysis
+
+English 184E: Literary Text Mining \hfill 2019-2020 \
+Stanford University
+
+English 184E: Literary Text Mining \hfill 2018-2019 \
+Instructor of record: Ryan Heuser \
+Stanford University
+
+World Humanities 101: "What it is like to be alive" \hfill 2018-2019 \
+The City College of New York
+
+English 396L: Pedagogy \hfill 2017-2018 \
+Instructor of record: Paula Moya \
+Stanford University
+
+English 162W: Writing Intensive Seminar in English, "Average Americans" \hfill 2017-2018 \
+Stanford University
+
+English 161: Narrative and Narrative Theory \hfill 2015-2016 \
+Instructors of record: Paula Moya and J.D. Porter \
+Stanford University
+
+English 100C: Literary History III (1850-1950) \hfill 2014-2015 \
+Instructor of record: Franco Moretti \
+Stanford University
+
 ## Public Humanities
 
 ### Roles
@@ -228,7 +232,7 @@ Future of Publication Workshop. Stanford, CA.
 "The Stuff of Fame: Material and Printed Constructions of Renown in America" \hfill 2019- \
 Lead data scientist, Stanford Literary Lab and Smithsonian Institution
 
-Editor, [_Café_](https://novel.stanford.edu/csn-cafe), The Stanford Center for the Study of the Novel's podcast \hfill 2019-2021
+Editor, [_Café_](https://novel.stanford.edu/csn-cafe), the podcast of the Stanford Center for the Study of the Novel \hfill 2019-2021
 
 Presenter, Academic Data Privacy and Security Workshops \hfill 2017-2021
 
@@ -276,7 +280,7 @@ _The Humanities at Stanford_
 
 [Rita Felski on the 2019 Ian Watt Lecture](https://web.archive.org/web/20220429093144/https://novel.stanford.edu/csn-cafe/2021/7/23/rita-felski-on-her-2019-ian-watt-lecture-5319) \hfill 2019
 
-## Research Collaborations
+## Research Projects
 
 "Typicality" \hfill 2018\
 With Mark Algee-Hewitt\
