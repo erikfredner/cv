@@ -1,5 +1,5 @@
 ---
-fontfamily: ebgaramond #garamond-libre CormorantGaramond ebgaramond-maths librecaslon times
+fontfamily: ebgaramond
 geometry: margin=1in
 urlcolor: NavyBlue
 ---
@@ -19,18 +19,17 @@ Lecturer in the College of Arts and Sciences
 ## Education
 
 Stanford University \hfill 2014-2021 \
-Ph.D. in English \
+Ph.D. English \
 Graduate Certificate in Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
 University of Oxford \hfill 2010-2011\
-St Peter's College \
 Visiting Student of English
 
-Harvard College \hfill 2008-2012\
-A.B. _magna cum laude_ in English
+Harvard University \hfill 2008-2012\
+A.B. English _magna cum laude_
 
 ## Writing
 
