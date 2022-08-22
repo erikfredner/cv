@@ -1,7 +1,5 @@
 # CV
 
-I use this markdown file to generate my [CV](https://fredner.org/files/cv.pdf).
-
 ## Requirements
 
 - [pandoc](https://pandoc.org)
