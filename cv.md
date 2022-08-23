@@ -33,36 +33,31 @@ A.B. English _magna cum laude_
 
 ## Writing
 
-### Articles
-
 Counting on _The Norton Anthology of American Literature_ \hfill _forthcoming_ \
 Co-authored with J.D. Porter \
 _PMLA_
 
 [A Meaning Apart from its Indistinguishable Words](https://doi.org/10.5325/nathhawtrevi.48.1.0082) \hfill 2022 \
-_The Nathaniel Hawthorne Review_
+_The Nathaniel Hawthorne Review_ 48 (1): 82–98
 
 [Hamlin Garland’s ‘Problem of Individual Life’](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
-_Nineteenth-Century Literature_
+_Nineteenth-Century Literature_ 76 (3): 354–383
+
+[Averaging Americans: Literature, Statistics, and Inequality](https://searchworks.stanford.edu/view/13875730) \hfill 2021\
+Stanford University Ph.D. dissertation \
+Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
+
+[_Enumerations: Data and Literary Study_ by Andrew Piper (review)](https://doi.org/10.1353/sdn.2020.0026) \hfill 2020 \
+_Studies in the Novel_ 52 (2): 220-222
 
 [The Novel as Data](https://doi.org/10.1017/9781316659694.013) \hfill 2018 \
 Co-authored with Mark Algee-Hewitt and Hannah Walser\
-_The Cambridge Companion to the Novel_
+_The Cambridge Companion to the Novel_: 189-215
 
 [Organizing Corpora at the Stanford Literary Lab](https://nbn-resolving.org/urn:nbn:de:bsz:mh39-62617) \hfill 2017 \
 Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, and Hannah Walser\
 _Proceedings of the Workshop on Challenges in the Management of Large Corpora \
-and Big Data and Natural Language Processing_
-
-### Dissertation
-
-[Averaging Americans: Literature, Statistics, and Inequality](https://searchworks.stanford.edu/view/13875730) \hfill 2021\
-Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
-
-### Review
-
-[_Enumerations: Data and Literary Study_ by Andrew Piper](https://doi.org/10.1353/sdn.2020.0026) \hfill 2020 \
-_Studies in the Novel_
+and Big Data and Natural Language Processing_: 25-29
 
 ## Awards
 
@@ -81,64 +76,64 @@ Stanford University Department of English Excellence in Teaching Award \hfill 20
 ### Conference Papers and Invited Talks
 
 On Scholarly Podcasting \hfill 2022 \
-Center for Spatial and Textual Analysis. Stanford, CA.
+Center for Spatial and Textual Analysis. Stanford, California.
 
 Counting on _The Norton Anthology of American Literature_ \hfill 2022 \
 DH Unbound. ACH & CSDH|SCHN.
 
 Counting on Literature \hfill 2021 \
-University of Virginia. Charlottesville, VA.
+University of Virginia. Charlottesville, Virginia.
 
 Length & Weight \hfill 2021 \
 Universitatea Lucian Blaga. Sibiu, Romania.
 
 Introduction to Computational Text Analysis in Python \hfill 2021 \
-Center for Spatial and Textual Analysis. Stanford, CA.
+Center for Spatial and Textual Analysis. Stanford, California.
 
 New Histories of Quantitative and Computational Methods \hfill 2021 \
-MLA 2021. Toronto.
+MLA 2021. Toronto, Canada.
 
 Citizenship at Scale \hfill 2020 \
-C19 2020. University Park, PA.
+C19 2020. University Park, Pennsylvania.
 
 Typicality in the US Novel \hfill 2020 \
 DH 2020. Ottawa, Canada.
 
 Introduction to Computational Text Analysis in Python \hfill 2020 \
-Center for Spatial and Textual Analysis. Stanford, CA.
+Center for Spatial and Textual Analysis. Stanford, California.
 
 Presider, Models of Enlightenment Knowledge \hfill 2020 \
-MLA 2020. Seattle, WA.
+MLA 2020. Seattle, Washington.
 
 Modeling Hawthorne's Concept of the Nation \hfill 2020 \
-MLA 2020. Seattle, WA.
+MLA 2020. Seattle, Washington.
 
 Microgenres\hfill 2019 \
 DH 2019. Utrecht, Netherlands.
 
 The Statistical Imaginations of Hamlin Garland and Henry James\hfill 2018 \
-Graduate Colloquium. Stanford, CA.
+Graduate Colloquium. Stanford, California.
 
 Average, American: Reformism and Statistics in _Jason Edwards_ \hfill 2017 \
-Consortium on the Novel. Stanford, CA.
+Consortium on the Novel. Stanford, California.
 
 The Type of the Average \hfill 2017 \
-Working Group on the Novel. Stanford, CA.
+Working Group on the Novel. Stanford, California.
 
 Reading the Norton Anthologies \hfill 2017 \
 DH 2017. Montréal, Canada.
 
 Reading Norton Anthologies \hfill 2016 \
-SyncDH. Santa Barbara, CA.
+SyncDH. Santa Barbara, California.
 
 Standing Underneath: Melville, Confidence, Testimony \hfill 2016 \
-Berkeley-Stanford Conference. Berkeley, CA.
+Berkeley-Stanford Conference. Berkeley, California.
 
 Fallible and Unreliable Narration in _The Sound and The Fury_ \hfill 2015 \
-Narrative and Narrative Theory. Stanford, CA.
+Narrative and Narrative Theory. Stanford, California.
 
 Another Castle: The Stolen Princess Narrative in Literature and Videogames \hfill 2015 \
-Infinite Possibilities. Stanford, CA.
+Infinite Possibilities. Stanford, California.
 
 Virality \hfill 2015 \
 DH 2015. Sydney, Australia.
@@ -147,16 +142,16 @@ Suspense… Language, Narrative, Affect \hfill 2015 \
 DH 2015. Sydney, Australia.
 
 Current Projects of the Literary Lab \hfill 2015 \
-SyncDH. Santa Barbara, CA.
+SyncDH. Santa Barbara, California.
 
 'Two Blocks Joined by a Corridor:' Time in _To The Lighthouse_ \hfill 2015 \
-Literary History. Stanford, CA.
+Literary History. Stanford, California.
 
 'Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:' cummings’s _Tom_ \hfill 2014 \
-Berkeley-Stanford Conference. Stanford, CA.
+Berkeley-Stanford Conference. Stanford, California.
 
 On the Stanford Literary Lab’s Pamphlet Series \hfill 2014 \
-Future of Publication Workshop. Stanford, CA.
+Future of Publication Workshop. Stanford, California.
 
 ### At the Stanford Literary Lab
 
@@ -181,8 +176,6 @@ Synchronic and Diachronic Suspense \hfill 2017
 How Many Novels Have Been Published in English? \hfill 2017
 
 Reading the Norton Anthologies: Databases, Canons, and Careers \hfill 2016
-
-\newpage
 
 ## Teaching
 
@@ -259,7 +252,7 @@ _The Humanities at Stanford_
 [Stanford scholar questions whether statues appropriate way to commemorate Mandela](https://web.archive.org/web/20220611230152/https://news.stanford.edu/pr/2014/pr-mandela-statue-parker-120314.html) \hfill 2014 \
 _The Humanities at Stanford_
 
-### Podcasts
+### Podcast Episodes
 
 [Andrea Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative](https://web.archive.org/web/20220429010015/https://novel.stanford.edu/csn-cafe/2021/7/23/crime-narratives-with-andrea-goulet-michelle-robinson-and-hctor-hoyos-43021-je87a) \hfill 2021
 
@@ -279,7 +272,7 @@ _The Humanities at Stanford_
 
 [Rita Felski on the 2019 Ian Watt Lecture](https://web.archive.org/web/20220429093144/https://novel.stanford.edu/csn-cafe/2021/7/23/rita-felski-on-her-2019-ian-watt-lecture-5319) \hfill 2019
 
-## Research Project
+## Research Projects
 
 Typicality \hfill 2018\
 Collaborator: Mark Algee-Hewitt\
@@ -301,13 +294,17 @@ Stanford Literary Lab
 
 ## Conferences Organized
 
-Findings: Is computation changing the study of literature? at Stanford \hfill 2017
+Findings: Is computation changing the study of literature? \hfill 2017 \
+Stanford University
 
-Literature: A history of the word at Stanford \hfill 2016
+Literature: A history of the word \hfill 2016 \
+Stanford University
 
-Making & Breaking: The Berkeley-Stanford Conference at UC Berkeley \hfill 2015
+Making & Breaking: The Berkeley-Stanford Conference \hfill 2015 \
+University of California, Berkeley
 
-Micromégas: The Objects of the Digital Humanities at Stanford \hfill 2015
+Micromégas: The Objects of the Digital Humanities \hfill 2015 \
+Stanford University
 
 ## Service
 
