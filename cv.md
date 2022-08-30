@@ -1,10 +1,12 @@
 ---
 fontfamily: ebgaramond
+fontfamilyoptions: lining
 geometry: margin=1in
+papersize: letter
 urlcolor: NavyBlue
 ---
 
-\hfill \today
+\hfill _\today_
 
 # Erik Fredner
 
