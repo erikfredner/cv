@@ -1,12 +1,12 @@
 ---
 fontfamily: ebgaramond
-fontfamilyoptions: lining
+#fontfamilyoptions: lining
 geometry: margin=1in
 papersize: letter
 urlcolor: NavyBlue
 ---
 
-\hfill _\today_
+\hfill \today
 
 # Erik Fredner
 
@@ -54,7 +54,7 @@ _Studies in the Novel_ 52 (2): 220-222
 
 [The Novel as Data](https://doi.org/10.1017/9781316659694.013) \hfill 2018 \
 Co-authored with Mark Algee-Hewitt and Hannah Walser\
-_The Cambridge Companion to the Novel_: 189-215
+_The Cambridge Companion to the Novel_, ed. Eric Bulson: 189-215
 
 [Organizing Corpora at the Stanford Literary Lab](https://nbn-resolving.org/urn:nbn:de:bsz:mh39-62617) \hfill 2017 \
 Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, and Hannah Walser\
