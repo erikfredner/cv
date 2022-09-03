@@ -1,6 +1,5 @@
 ---
 fontfamily: ebgaramond
-#fontfamilyoptions: lining
 geometry: margin=1in
 papersize: letter
 urlcolor: NavyBlue
@@ -35,7 +34,7 @@ A.B. English _magna cum laude_
 
 ## Writing
 
-Counting on _The Norton Anthology of American Literature_ \hfill _forthcoming_ \
+Counting on _The Norton Anthology of American Literature_ \hfill forthcoming \
 Co-authored with J.D. Porter \
 _PMLA_
 
@@ -72,112 +71,6 @@ City University of New York-Stanford Exchange Fellow \hfill 2018-2019
 G.J. Pigott Scholars Program Fellow \hfill 2017-2018
 
 Stanford University Department of English Excellence in Teaching Award \hfill 2017
-
-## Presentations
-
-### Conference Papers and Invited Talks
-
-On Scholarly Podcasting \hfill 2022 \
-Center for Spatial and Textual Analysis. Stanford, California.
-
-Counting on _The Norton Anthology of American Literature_ \hfill 2022 \
-DH Unbound. ACH & CSDH|SCHN.
-
-Counting on Literature \hfill 2021 \
-University of Virginia. Charlottesville, Virginia.
-
-Length & Weight \hfill 2021 \
-Universitatea Lucian Blaga. Sibiu, Romania.
-
-Introduction to Computational Text Analysis in Python \hfill 2021 \
-Center for Spatial and Textual Analysis. Stanford, California.
-
-New Histories of Quantitative and Computational Methods \hfill 2021 \
-MLA 2021. Toronto, Canada.
-
-Citizenship at Scale \hfill 2020 \
-C19 2020. University Park, Pennsylvania.
-
-Typicality in the US Novel \hfill 2020 \
-DH 2020. Ottawa, Canada.
-
-Introduction to Computational Text Analysis in Python \hfill 2020 \
-Center for Spatial and Textual Analysis. Stanford, California.
-
-Presider, Models of Enlightenment Knowledge \hfill 2020 \
-MLA 2020. Seattle, Washington.
-
-Modeling Hawthorne's Concept of the Nation \hfill 2020 \
-MLA 2020. Seattle, Washington.
-
-Microgenres\hfill 2019 \
-DH 2019. Utrecht, Netherlands.
-
-The Statistical Imaginations of Hamlin Garland and Henry James\hfill 2018 \
-Graduate Colloquium. Stanford, California.
-
-Average, American: Reformism and Statistics in _Jason Edwards_ \hfill 2017 \
-Consortium on the Novel. Stanford, California.
-
-The Type of the Average \hfill 2017 \
-Working Group on the Novel. Stanford, California.
-
-Reading the Norton Anthologies \hfill 2017 \
-DH 2017. Montréal, Canada.
-
-Reading Norton Anthologies \hfill 2016 \
-SyncDH. Santa Barbara, California.
-
-Standing Underneath: Melville, Confidence, Testimony \hfill 2016 \
-Berkeley-Stanford Conference. Berkeley, California.
-
-Fallible and Unreliable Narration in _The Sound and The Fury_ \hfill 2015 \
-Narrative and Narrative Theory. Stanford, California.
-
-Another Castle: The Stolen Princess Narrative in Literature and Videogames \hfill 2015 \
-Infinite Possibilities. Stanford, California.
-
-Virality \hfill 2015 \
-DH 2015. Sydney, Australia.
-
-Suspense… Language, Narrative, Affect \hfill 2015 \
-DH 2015. Sydney, Australia.
-
-Current Projects of the Literary Lab \hfill 2015 \
-SyncDH. Santa Barbara, California.
-
-'Two Blocks Joined by a Corridor:' Time in _To The Lighthouse_ \hfill 2015 \
-Literary History. Stanford, California.
-
-'Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:' cummings’s _Tom_ \hfill 2014 \
-Berkeley-Stanford Conference. Stanford, California.
-
-On the Stanford Literary Lab’s Pamphlet Series \hfill 2014 \
-Future of Publication Workshop. Stanford, California.
-
-### At the Stanford Literary Lab
-
-Celebrities \hfill 2020
-
-Antebellum & Postbellum \hfill 2020
-
-_n_ Types of Typicality \hfill 2018
-
-Norton Anthologies: Database, Canon, Career \hfill 2018
-
-Typicality \hfill 2018
-
-Security in _Foreign Affairs_ \hfill 2017
-
-Microgenres \hfill 2017
-
-Distant Reading with the _Oxford English Dictionary_ \hfill 2017
-
-Synchronic and Diachronic Suspense \hfill 2017
-
-How Many Novels Have Been Published in English? \hfill 2017
-
-Reading the Norton Anthologies: Databases, Canons, and Careers \hfill 2016
 
 ## Teaching
 
@@ -218,6 +111,119 @@ Stanford University
 English 100C: Literary History III (1850-1950) \hfill 2014-2015 \
 Instructor of record: Franco Moretti \
 Stanford University
+
+## Presentations
+
+On Scholarly Podcasting \hfill 2022 \
+Center for Spatial and Textual Analysis. Stanford, California.
+
+Counting on _The Norton Anthology of American Literature_ \hfill 2022 \
+DH Unbound. ACH & CSDH|SCHN.
+
+Counting on Literature \hfill 2021 \
+University of Virginia. Charlottesville, Virginia.
+
+Length & Weight \hfill 2021 \
+Universitatea Lucian Blaga. Sibiu, Romania.
+
+Introduction to Computational Text Analysis in Python \hfill 2021 \
+Center for Spatial and Textual Analysis. Stanford, California.
+
+New Histories of Quantitative and Computational Methods \hfill 2021 \
+MLA 2021. Toronto, Canada.
+
+Citizenship at Scale \hfill 2020 \
+C19 2020. University Park, Pennsylvania.
+
+Antebellum & Postbellum \hfill 2020 \
+Stanford Literary Lab. Stanford, California.
+
+Typicality in the US Novel \hfill 2020 \
+DH 2020. Ottawa, Canada.
+
+Celebrities \hfill 2020 \
+Stanford Literary Lab. Stanford, California.
+
+Introduction to Computational Text Analysis in Python \hfill 2020 \
+Center for Spatial and Textual Analysis. Stanford, California.
+
+Presider, Models of Enlightenment Knowledge \hfill 2020 \
+MLA 2020. Seattle, Washington.
+
+Modeling Hawthorne's Concept of the Nation \hfill 2020 \
+MLA 2020. Seattle, Washington.
+
+Microgenres\hfill 2019 \
+DH 2019. Utrecht, Netherlands.
+
+_n_ Types of Typicality \hfill 2018 \
+Stanford Literary Lab. Stanford, California.
+
+Norton Anthologies: Database, Canon, Career \hfill 2018 \
+Stanford Literary Lab. Stanford, California.
+
+The Statistical Imaginations of Hamlin Garland and Henry James\hfill 2018 \
+Graduate Colloquium. Stanford, California.
+
+Typicality \hfill 2018 \
+Stanford Literary Lab. Stanford, California.
+
+Distant Reading with the _Oxford English Dictionary_ \hfill 2017 \
+Stanford Literary Lab. Stanford, California.
+
+Average, American: Reformism and Statistics in _Jason Edwards_ \hfill 2017 \
+Consortium on the Novel. Stanford, California.
+
+The Type of the Average \hfill 2017 \
+Working Group on the Novel. Stanford, California.
+
+Microgenres \hfill 2017 \
+Stanford Literary Lab. Stanford, California.
+
+Reading the Norton Anthologies \hfill 2017 \
+DH 2017. Montréal, Canada.
+
+Security in _Foreign Affairs_ \hfill 2017 \
+Stanford Literary Lab. Stanford, California.
+
+Synchronic and Diachronic Suspense \hfill 2017 \
+Stanford Literary Lab. Stanford, California.
+
+How Many Novels Have Been Published in English? \hfill 2017 \
+Stanford Literary Lab. Stanford, California.
+
+Reading Norton Anthologies \hfill 2016 \
+SyncDH. Santa Barbara, California.
+
+Reading the Norton Anthologies: Databases, Canons, and Careers \hfill 2016 \
+Stanford Literary Lab. Stanford, California.
+
+Standing Underneath: Melville, Confidence, Testimony \hfill 2016 \
+Berkeley-Stanford Conference. Berkeley, California.
+
+Fallible and Unreliable Narration in _The Sound and The Fury_ \hfill 2015 \
+Narrative and Narrative Theory. Stanford, California.
+
+Another Castle: The Stolen Princess Narrative in Literature and Videogames \hfill 2015 \
+Infinite Possibilities. Stanford, California.
+
+Virality \hfill 2015 \
+DH 2015. Sydney, Australia.
+
+Suspense… Language, Narrative, Affect \hfill 2015 \
+DH 2015. Sydney, Australia.
+
+Current Projects of the Literary Lab \hfill 2015 \
+SyncDH. Santa Barbara, California.
+
+'Two Blocks Joined by a Corridor:' Time in _To The Lighthouse_ \hfill 2015 \
+Literary History III. Stanford, California.
+
+'Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:' cummings’s _Tom_ \hfill 2014 \
+Berkeley-Stanford Conference. Stanford, California.
+
+On the Stanford Literary Lab’s Pamphlet Series \hfill 2014 \
+Future of Publication Workshop. Stanford, California.
 
 ## Public Humanities
 
