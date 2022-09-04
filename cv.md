@@ -1,5 +1,7 @@
 ---
+documentclass: extarticle
 fontfamily: ebgaramond
+fontsize: 11pt
 geometry: margin=1in
 papersize: letter
 urlcolor: NavyBlue
@@ -240,7 +242,7 @@ Contributor, [_Techne_](https://litlab.stanford.edu/techne/) \hfill 2016-
 
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
-### Public Writing
+### Writing
 
 [Typicality in US Literature](https://web.archive.org/web/20220430165427/https://litlab.stanford.edu/typicality-in-the-u-s-novel/) \hfill 2020 \
 _Techne_
@@ -260,7 +262,7 @@ _The Humanities at Stanford_
 [Stanford scholar questions whether statues appropriate way to commemorate Mandela](https://web.archive.org/web/20220611230152/https://news.stanford.edu/pr/2014/pr-mandela-statue-parker-120314.html) \hfill 2014 \
 _The Humanities at Stanford_
 
-### Podcast Episodes
+### Podcasts
 
 [Andrea Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative](https://web.archive.org/web/20220429010015/https://novel.stanford.edu/csn-cafe/2021/7/23/crime-narratives-with-andrea-goulet-michelle-robinson-and-hctor-hoyos-43021-je87a) \hfill 2021
 
