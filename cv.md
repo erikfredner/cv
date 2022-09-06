@@ -42,7 +42,7 @@ _PMLA_
 [A Meaning Apart from its Indistinguishable Words](https://doi.org/10.5325/nathhawtrevi.48.1.0082) \hfill 2022 \
 _The Nathaniel Hawthorne Review_ 48 (1): 82–98
 
-[Hamlin Garland’s ‘Problem of Individual Life’](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
+[Hamlin Garland’s 'Problem of Individual Life'](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
 _Nineteenth-Century Literature_ 76 (3): 354–383
 
 [Averaging Americans: Literature, Statistics, and Inequality](https://searchworks.stanford.edu/view/13875730) \hfill 2021\
@@ -333,13 +333,13 @@ Coordinator, Stanford Literary Lab \hfill 2014-2019
 
 ## Affiliations
 
-Modern Language Association \hfill 2014-
-
-Alliance of Digital Humanities Organizations \hfill 2014-
+The Association for Computers and the Humanities \hfill 2020-
 
 C19: The Society of Nineteenth-Century Americanists \hfill 2019-
 
-The Association for Computers and the Humanities \hfill 2020-
+Alliance of Digital Humanities Organizations \hfill 2014-
+
+Modern Language Association \hfill 2014-
 
 ## Data Analysis
 
