@@ -1,13 +1,12 @@
 ---
-documentclass: extarticle
 fontfamily: ebgaramond
-fontsize: 11pt
+fontsize: 12pt
 geometry: margin=1in
 papersize: letter
 urlcolor: NavyBlue
 ---
 
-\hfill \today
+\hfill _\today_
 
 # Erik Fredner
 
@@ -36,7 +35,7 @@ A.B. English _magna cum laude_
 
 ## Writing
 
-Counting on _The Norton Anthology of American Literature_ \hfill forthcoming \
+Counting on _The Norton Anthology of American Literature_ \hfill _forthcoming_ \
 Co-authored with J.D. Porter \
 _PMLA_
 
@@ -318,17 +317,19 @@ Stanford University
 
 ## Service
 
-Virtual instruction transition consultant for Stanford English Department \hfill 2020
+Reviewer, *Digital Scholarship in the Humanities* \hfill 2022-
 
-Reviewer for Alliance of Digital Humanities Organizations Conference \hfill 2016-
+Consultant, Stanford English Department virtual instruction transition  \hfill 2020
 
-Liaison for Berkeley-Stanford English Graduate Student Councils \hfill 2015-2019
+Reviewer, Alliance of Digital Humanities Organizations Conference \hfill 2016-
 
-American Literature Examiner for Practice Qualifying Exams \hfill 2015-2018
+Liaison, Berkeley-Stanford English Graduate Student Councils \hfill 2015-2019
 
-Webmaster for Stanford Literary Lab \hfill 2018-2020
+Examiner, American Literature Practice Qualifying Exams \hfill 2015-2018
 
-Coordinator for Stanford Literary Lab \hfill 2014-2019
+Webmaster, Stanford Literary Lab \hfill 2018-2020
+
+Coordinator, Stanford Literary Lab \hfill 2014-2019
 
 ## Affiliations
 
@@ -347,6 +348,8 @@ The Association for Computers and the Humanities \hfill 2020-
 - Tableau
 - TeX & pandoc
 - XML & TEI
+
+\newpage
 
 ## References
 
