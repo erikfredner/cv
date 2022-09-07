@@ -349,30 +349,6 @@ Modern Language Association \hfill 2014-
 - TeX & pandoc
 - XML & TEI
 
-\newpage
+\vfill
 
-## References
-
-Gavin Jones\
-Stanford University\
-`grjones@stanford.edu`
-
-Mark Algee-Hewitt\
-Stanford University\
-`malgeehe@stanford.edu`
-
-Mark McGurl\
-Stanford University\
-`mcgurl@stanford.edu`
-
-Paula Moya\
-Stanford University\
-`pmoya@stanford.edu`
-
-Jim Coan\
-University of Virginia\
-`jac3zt@virginia.edu`
-
-Janet Spittler\
-University of Virginia\
-`jes9cu@virginia.edu`
+_References available upon request._
