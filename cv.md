@@ -230,8 +230,8 @@ Future of Publication Workshop. Stanford, California.
 
 ### Roles
 
-The Stuff of Fame: Material and Printed Constructions of Renown in America \hfill 2019- \
-Lead data scientist, Stanford Literary Lab and Smithsonian Institution
+Lead data analyst, "The Stuff of Fame: Material and Printed Constructions of Renown in America" \hfill 2019- \
+Stanford Literary Lab and Smithsonian Institution
 
 Editor, [_Café_](https://novel.stanford.edu/csn-cafe), the podcast of the Stanford Center for the Study of the Novel \hfill 2019-2021
 
@@ -260,6 +260,8 @@ _The Humanities at Stanford_
 
 [Stanford scholar questions whether statues appropriate way to commemorate Mandela](https://web.archive.org/web/20220611230152/https://news.stanford.edu/pr/2014/pr-mandela-statue-parker-120314.html) \hfill 2014 \
 _The Humanities at Stanford_
+
+\newpage
 
 ### Podcasts
 
@@ -314,6 +316,8 @@ University of California, Berkeley
 
 Micromégas: The Objects of the Digital Humanities \hfill 2015 \
 Stanford University
+
+\newpage
 
 ## Service
 
