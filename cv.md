@@ -21,17 +21,17 @@ Lecturer in the College of Arts and Sciences
 ## Education
 
 Stanford University \hfill 2014-2021 \
-Ph.D. English \
+Ph.D., English \
 Graduate Certificate in Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
 University of Oxford \hfill 2010-2011\
-Visiting Student of English
+Visiting Student, English
 
 Harvard University \hfill 2008-2012\
-A.B. English _magna cum laude_
+A.B., English _magna cum laude_
 
 ## Writing
 
@@ -85,8 +85,7 @@ Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2021-2022 \
 University of Virginia
 
 Undergraduate Summer Research Program \hfill 2019-2020 \
-Stanford University \
-Center for Spatial and Textual Analysis
+Stanford University Center for Spatial and Textual Analysis
 
 English 184E: Literary Text Mining \hfill 2019-2020 \
 Stanford University
@@ -230,14 +229,14 @@ Future of Publication Workshop. Stanford, California.
 
 ### Roles
 
-Lead data analyst, "The Stuff of Fame: Material and Printed Constructions of Renown in America" \hfill 2019- \
-Stanford Literary Lab and Smithsonian Institution
+Lead data analyst, "The Stuff of Fame," discourses of celebrity in the US \hfill 2019- \
+Stanford Literary Lab & Smithsonian Institution
 
 Editor, [_Café_](https://novel.stanford.edu/csn-cafe), the podcast of the Stanford Center for the Study of the Novel \hfill 2019-2021
 
-Presenter, Academic Data Privacy and Security Workshops \hfill 2017-2021
+Presenter, Data privacy and security workshops for academia \hfill 2017-2021
 
-Contributor, [_Techne_](https://litlab.stanford.edu/techne/) \hfill 2016-
+Contributor, [_Techne_](https://litlab.stanford.edu/techne/), reflections on digital humanities methodologies \hfill 2016-
 
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
@@ -285,6 +284,10 @@ _The Humanities at Stanford_
 
 ## Research Projects
 
+Quantifying the _MLA International Bibliography_ \hfill 2021-\
+Collaborator: Mark Algee-Hewitt\
+University of Virginia & Stanford Literary Lab
+
 Typicality \hfill 2018\
 Collaborator: Mark Algee-Hewitt\
 Stanford Literary Lab
@@ -317,21 +320,19 @@ University of California, Berkeley
 Micromégas: The Objects of the Digital Humanities \hfill 2015 \
 Stanford University
 
-\newpage
-
 ## Service
 
 Reviewer, *Digital Scholarship in the Humanities* \hfill 2022-
 
 Consultant, Stanford English Department virtual instruction transition  \hfill 2020
 
+Webmaster, Stanford Literary Lab \hfill 2017-2020
+
 Reviewer, Alliance of Digital Humanities Organizations Conference \hfill 2016-
 
 Liaison, Berkeley-Stanford English Graduate Student Councils \hfill 2015-2019
 
 Examiner, American Literature Practice Qualifying Exams \hfill 2015-2018
-
-Webmaster, Stanford Literary Lab \hfill 2018-2020
 
 Coordinator, Stanford Literary Lab \hfill 2014-2019
 
