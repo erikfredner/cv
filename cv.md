@@ -21,7 +21,7 @@ Lecturer in the College of Arts and Sciences
 ## Education
 
 Stanford University \hfill 2014-2021 \
-Ph.D., English \
+Ph.D. English \
 Graduate Certificate in Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
@@ -31,7 +31,7 @@ University of Oxford \hfill 2010-2011\
 Visiting Student, English
 
 Harvard University \hfill 2008-2012\
-A.B., English _magna cum laude_
+A.B. English _magna cum laude_
 
 ## Writing
 
@@ -42,7 +42,7 @@ _PMLA_
 [A Meaning Apart from its Indistinguishable Words](https://doi.org/10.5325/nathhawtrevi.48.1.0082) \hfill 2022 \
 _The Nathaniel Hawthorne Review_ 48 (1): 82–98
 
-[Hamlin Garland’s 'Problem of Individual Life'](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
+[Hamlin Garland’s "Problem of Individual Life"](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
 _Nineteenth-Century Literature_ 76 (3): 354–383
 
 [Averaging Americans: Literature, Statistics, and Inequality](https://searchworks.stanford.edu/view/13875730) \hfill 2021\
@@ -216,10 +216,10 @@ DH 2015. Sydney, Australia.
 Current Projects of the Literary Lab \hfill 2015 \
 SyncDH. Santa Barbara, California.
 
-'Two Blocks Joined by a Corridor:' Time in _To The Lighthouse_ \hfill 2015 \
+"Two Blocks Joined by a Corridor:" Time in _To The Lighthouse_ \hfill 2015 \
 Literary History III. Stanford, California.
 
-'Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:' cummings’s _Tom_ \hfill 2014 \
+"Inveigling _Uncle Tom’s Cabin_ to Become a Ballet:" cummings’s _Tom_ \hfill 2014 \
 Berkeley-Stanford Conference. Stanford, California.
 
 On the Stanford Literary Lab’s Pamphlet Series \hfill 2014 \
@@ -240,7 +240,7 @@ Contributor, [_Techne_](https://litlab.stanford.edu/techne/), reflections on dig
 
 Writer, Ph.D. Journalist Project at the Stanford Humanities Center \hfill 2014-2016
 
-### Writing
+### Articles
 
 [Typicality in US Literature](https://web.archive.org/web/20220430165427/https://litlab.stanford.edu/typicality-in-the-u-s-novel/) \hfill 2020 \
 _Techne_
@@ -254,7 +254,7 @@ _Techne_
 [Eavan Boland interrogates identity and nationhood in new collection](https://web.archive.org/web/20210810123746/https://news.stanford.edu/news/2015/february/boland-country-book-022615.html) \hfill 2015 \
 _The Humanities at Stanford_
 
-[Stanford literary scholar: White whales and the 'Melville Effect'](https://web.archive.org/web/20210810125202/https://news.stanford.edu/news/2015/may/melville-scholar-boone-051115.html) \hfill 2015 \
+[Stanford literary scholar: White whales and the "Melville Effect"](https://web.archive.org/web/20210810125202/https://news.stanford.edu/news/2015/may/melville-scholar-boone-051115.html) \hfill 2015 \
 _The Humanities at Stanford_
 
 [Stanford scholar questions whether statues appropriate way to commemorate Mandela](https://web.archive.org/web/20220611230152/https://news.stanford.edu/pr/2014/pr-mandela-statue-parker-120314.html) \hfill 2014 \
@@ -322,7 +322,7 @@ Stanford University
 
 ## Service
 
-Reviewer, *Digital Scholarship in the Humanities* \hfill 2022-
+Reviewer, _Digital Scholarship in the Humanities_ \hfill 2022-
 
 Consultant, Stanford English Department virtual instruction transition  \hfill 2020
 
@@ -346,14 +346,15 @@ Alliance of Digital Humanities Organizations \hfill 2014-
 
 Modern Language Association \hfill 2014-
 
-## Data Analysis
+## Technical
 
 - Python
 - R
 - Tableau
 - TeX & pandoc
+- HTML & webdev
 - XML & TEI
 
 \vfill
 
-_References available upon request._
+\hfill _References available upon request._
