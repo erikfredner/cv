@@ -355,6 +355,6 @@ Modern Language Association \hfill 2014-
 - HTML & webdev
 - XML & TEI
 
-\vfill
+## References
 
-\hfill _References available upon request._
+_Available upon request._
