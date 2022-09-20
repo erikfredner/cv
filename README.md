@@ -1,6 +1,6 @@
 # CV
 
-You can see [the typeset CV](/cv.pdf) here.
+You can see [the typeset CV here](/cv.pdf).
 
 ## Requirements
 
