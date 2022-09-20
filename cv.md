@@ -6,11 +6,9 @@ papersize: letter
 urlcolor: NavyBlue
 ---
 
-\hfill _\today_
-
 # Erik Fredner
 
-[fredner@virginia.edu](mailto:fredner@virginia.edu)\ \ ·\ \ [fredner.org](https://fredner.org)
+[fredner@virginia.edu](mailto:fredner@virginia.edu)\ \ ·\ \ [fredner.org](https://fredner.org) \hfill \today
 
 ## Employment
 
@@ -260,8 +258,6 @@ _The Humanities at Stanford_
 [Stanford scholar questions whether statues appropriate way to commemorate Mandela](https://web.archive.org/web/20220611230152/https://news.stanford.edu/pr/2014/pr-mandela-statue-parker-120314.html) \hfill 2014 \
 _The Humanities at Stanford_
 
-\newpage
-
 ### Podcasts
 
 [Andrea Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative](https://web.archive.org/web/20220429010015/https://novel.stanford.edu/csn-cafe/2021/7/23/crime-narratives-with-andrea-goulet-michelle-robinson-and-hctor-hoyos-43021-je87a) \hfill 2021
@@ -357,4 +353,4 @@ Modern Language Association \hfill 2014-
 
 ## References
 
-_Available upon request._
+Available upon request.
