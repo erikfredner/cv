@@ -1,5 +1,7 @@
 # CV
 
+You can see [the typeset CV](/cv.pdf) here.
+
 ## Requirements
 
 - [pandoc](https://pandoc.org)
