@@ -8,7 +8,7 @@ urlcolor: NavyBlue
 
 # Erik Fredner
 
-[fredner@virginia.edu](mailto:fredner@virginia.edu)\ \ ·\ \ [fredner.org](https://fredner.org) \hfill \today
+[fredner@virginia.edu](mailto:fredner@virginia.edu)\ \ ·\ \ [fredner.org](https://fredner.org)\ \ ·\ \ [ORCID](https://orcid.org/0000-0002-2993-4961) \hfill \today
 
 ## Employment
 
@@ -43,7 +43,7 @@ _The Nathaniel Hawthorne Review_ 48 (1): 82–98
 [Hamlin Garland’s "Problem of Individual Life"](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
 _Nineteenth-Century Literature_ 76 (3): 354–383
 
-[Averaging Americans: Literature, Statistics, and Inequality](https://searchworks.stanford.edu/view/13875730) \hfill 2021\
+[Averaging Americans: Literature, Statistics, and Inequality](https://purl.stanford.edu/rp802rv5947) \hfill 2021\
 Stanford University Ph.D. dissertation \
 Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
 
@@ -353,4 +353,4 @@ Modern Language Association \hfill 2014-
 
 ## References
 
-Available upon request.
+Provided upon request.
