@@ -1,5 +1,7 @@
 # CV
 
+You can see [the typeset CV here](https://fredner.org/files/cv.pdf).
+
 ## Requirements
 
 - [pandoc](https://pandoc.org)
