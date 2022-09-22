@@ -1,6 +1,6 @@
 # CV
 
-You can see [the typeset CV here](https://fredner.org/files/cv.pdf).
+You can see the typeset CV on [my website](https://fredner.org/files/cv.pdf).
 
 ## Requirements
 
