@@ -19,8 +19,8 @@ Lecturer in the College of Arts and Sciences
 ## Education
 
 Stanford University \hfill 2014-2021 \
-Ph.D. English \
-Graduate Certificate in Digital Humanities
+Ph.D., English \
+Graduate Certificate Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
@@ -29,7 +29,7 @@ University of Oxford \hfill 2010-2011\
 Visiting Student, English
 
 Harvard University \hfill 2008-2012\
-A.B. English _magna cum laude_
+A.B., English _magna cum laude_
 
 ## Writing
 
@@ -72,6 +72,9 @@ G.J. Pigott Scholars Program Fellow \hfill 2017-2018
 Stanford University Department of English Excellence in Teaching Award \hfill 2017
 
 ## Teaching
+
+Empirical and Scientific Engagement 1520: From Language to Data \hfill 2022-2023 \
+University of Virginia
 
 Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2022-2023 \
 University of Virginia
