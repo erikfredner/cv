@@ -226,6 +226,30 @@ Berkeley-Stanford Conference. Stanford, California.
 On the Stanford Literary Lab’s Pamphlet Series \hfill 2014 \
 Future of Publication Workshop. Stanford, California.
 
+## Research Projects
+
+Quantifying the _MLA International Bibliography_ \hfill 2021\
+Collaborator: Mark Algee-Hewitt\
+University of Virginia & Stanford Literary Lab
+
+Typicality \hfill 2018\
+Collaborator: Mark Algee-Hewitt\
+Stanford Literary Lab
+
+Microgenres \hfill 2017\
+Collaborators: Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
+Alexander Manshel, Nichole Nomura, J.D. Porter, Hannah Walser \
+Stanford Literary Lab
+
+Security \hfill 2015\
+Collaborators: Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
+Stanford Literary Lab
+
+Suspense \hfill 2014\
+Collaborators: Mark Algee-Hewitt, Abigail Droge, Tasha Eccles, Morgan Day Frank, \
+J.D. Porter, Andrew Shephard, Hannah Walser\
+Stanford Literary Lab
+
 ## Public Humanities
 
 ### Roles
@@ -280,30 +304,6 @@ _The Humanities at Stanford_
 [Stephen Best, Mario Telò, and Kris Cohen on _None Like Us_](https://web.archive.org/web/20220429093211/https://novel.stanford.edu/csn-cafe/2021/7/23/books-at-the-center-stephen-best-mario-tel-and-kris-cohen-on-none-like-us-101019) \hfill 2020
 
 [Rita Felski on the 2019 Ian Watt Lecture](https://web.archive.org/web/20220429093144/https://novel.stanford.edu/csn-cafe/2021/7/23/rita-felski-on-her-2019-ian-watt-lecture-5319) \hfill 2019
-
-## Research Projects
-
-Quantifying the _MLA International Bibliography_ \hfill 2021-\
-Collaborator: Mark Algee-Hewitt\
-University of Virginia & Stanford Literary Lab
-
-Typicality \hfill 2018\
-Collaborator: Mark Algee-Hewitt\
-Stanford Literary Lab
-
-Microgenres \hfill 2017\
-Collaborators: Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
-Alexander Manshel, Nichole Nomura, J.D. Porter, Hannah Walser \
-Stanford Literary Lab
-
-Security \hfill 2015\
-Collaborators: Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
-Stanford Literary Lab
-
-Suspense \hfill 2014\
-Collaborators: Mark Algee-Hewitt, Abigail Droge, Tasha Eccles, Morgan Day Frank, \
-J.D. Porter, Andrew Shephard, Hannah Walser\
-Stanford Literary Lab
 
 ## Conferences Organized
 
