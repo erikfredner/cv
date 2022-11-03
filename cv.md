@@ -26,6 +26,7 @@ Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
 
 University of Oxford \hfill 2010-2011\
+St Peter's College \
 Visiting Student, English
 
 Harvard University \hfill 2008-2012\
@@ -63,15 +64,24 @@ and Big Data and Natural Language Processing_: 25-29
 
 ## Awards
 
-University of Virginia College Fellows Development Grant \hfill 2022
+Collaborative Research Grant \hfill _pending_ \
+Co-director, "Counting on Anthologies" \
+National Endowment for the Humanities
 
-Stanford Humanities Center Mellon Foundation Dissertation Fellowship \hfill 2020-2021
+College Fellows Development Grant \hfill 2022 \
+University of Virginia
 
-City University of New York-Stanford Exchange Fellow \hfill 2018-2019
+Mellon Foundation Dissertation Fellowship \hfill 2020-2021 \
+Stanford Humanities Center
 
-G.J. Pigott Scholars Program Fellow \hfill 2017-2018
+CUNY-Stanford Exchange Fellow \hfill 2018-2019 \
+The City College of the City University of New York
 
-Stanford University Department of English Excellence in Teaching Award \hfill 2017
+G.J. Pigott Scholar \hfill 2017-2018 \
+Stanford University
+
+Excellence in Teaching Award \hfill 2017 \
+Stanford University Department of English
 
 ## Teaching
 
