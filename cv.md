@@ -20,7 +20,7 @@ Lecturer in the College of Arts and Sciences
 
 Stanford University \hfill 2014-2021 \
 Ph.D., English \
-Graduate Certificate Digital Humanities
+Graduate Certificate in the Digital Humanities
 
 Harvard Graduate School of Education \hfill 2011-2012\
 Undergraduate Teacher Education Program
@@ -36,7 +36,7 @@ A.B., English _magna cum laude_
 
 Counting on _The Norton Anthology of American Literature_ \hfill _forthcoming_ \
 Co-authored with J.D. Porter \
-_PMLA_
+_Publications of the Modern Language Association of America_
 
 [A Meaning Apart from its Indistinguishable Words](https://doi.org/10.5325/nathhawtrevi.48.1.0082) \hfill 2022 \
 _The Nathaniel Hawthorne Review_ 48 (1): 82–98
@@ -365,7 +365,3 @@ Modern Language Association \hfill 2014-
 - TeX
 - HTML & CSS
 - XML & TEI
-
-## References
-
-Provided upon request.
