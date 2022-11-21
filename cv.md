@@ -1,5 +1,5 @@
 ---
-fontfamily: ebgaramond
+fontfamily: times
 fontsize: 12pt
 geometry: margin=1in
 papersize: letter
@@ -8,7 +8,7 @@ urlcolor: NavyBlue
 
 # Erik Fredner
 
-[fredner@virginia.edu](mailto:fredner@virginia.edu)\ \ ·\ \ [fredner.org](https://fredner.org)\ \ ·\ \ [ORCID](https://orcid.org/0000-0002-2993-4961) \hfill \today
+[fredner@virginia.edu](mailto:fredner@virginia.edu)\ \ ·\ \ <https://fredner.org>\ \ ·\ \ [ORCID](https://orcid.org/0000-0002-2993-4961) \hfill \today
 
 ## Employment
 
@@ -36,31 +36,35 @@ A.B., English _magna cum laude_
 
 Counting on _The Norton Anthology of American Literature_ \hfill _forthcoming_ \
 Co-authored with J.D. Porter \
-_Publications of the Modern Language Association of America_
+_PMLA / Publications of the Modern Language Association of America_
 
-[A Meaning Apart from its Indistinguishable Words](https://doi.org/10.5325/nathhawtrevi.48.1.0082) \hfill 2022 \
-_The Nathaniel Hawthorne Review_ 48 (1): 82–98
+A Meaning Apart from its Indistinguishable Words \hfill 2022 \
+_The Nathaniel Hawthorne Review_ 48 (1): 82–98\
+<https://doi.org/10.5325/nathhawtrevi.48.1.0082>
 
-[Hamlin Garland’s "Problem of Individual Life"](https://doi.org/10.1525/ncl.2021.76.3.354) \hfill 2021 \
-_Nineteenth-Century Literature_ 76 (3): 354–383
+Hamlin Garland’s "Problem of Individual Life" \hfill 2021 \
+_Nineteenth-Century Literature_ 76 (3): 354–383 \
+<https://doi.org/10.1525/ncl.2021.76.3.354>
 
-[Averaging Americans: Literature, Statistics, and Inequality](https://purl.stanford.edu/rp802rv5947) \hfill 2021\
+Averaging Americans: Literature, Statistics, and Inequality \hfill 2021\
 Stanford University Ph.D. dissertation \
-Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya
+Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya\
+<https://purl.stanford.edu/rp802rv5947>
 
-[_Enumerations: Data and Literary Study_ by Andrew Piper (review)](https://doi.org/10.1353/sdn.2020.0026) \hfill 2020 \
-_Studies in the Novel_ 52 (2): 220-222
+_Enumerations: Data and Literary Study_ by Andrew Piper (review) \hfill 2020 \
+_Studies in the Novel_ 52 (2): 220-222 \
+<https://doi.org/10.1353/sdn.2020.0026>
 
-[The Novel as Data](https://doi.org/10.1017/9781316659694.013) \hfill 2018 \
+The Novel as Data \hfill 2018 \
 Co-authored with Mark Algee-Hewitt and Hannah Walser\
-_The Cambridge Companion to the Novel_, ed. Eric Bulson: 189-215
+_The Cambridge Companion to the Novel_, ed. Eric Bulson: 189-215\
+<https://doi.org/10.1017/9781316659694.013>
 
-\newpage
-
-[Organizing Corpora at the Stanford Literary Lab](https://nbn-resolving.org/urn:nbn:de:bsz:mh39-62617) \hfill 2017 \
+Organizing Corpora at the Stanford Literary Lab \hfill 2017 \
 Co-authored with David McClure, Mark Algee-Hewitt, Steele Douris, and Hannah Walser\
 _Proceedings of the Workshop on Challenges in the Management of Large Corpora \
-and Big Data and Natural Language Processing_: 25-29
+and Big Data and Natural Language Processing_: 25-29 \
+<https://nbn-resolving.org/urn:nbn:de:bsz:mh39-62617>
 
 ## Awards
 
@@ -359,9 +363,4 @@ Modern Language Association \hfill 2014-
 
 ## Technical
 
-- Python
-- R
-- Tableau
-- TeX
-- HTML & CSS
-- XML & TEI
+Python\ \ ·\ \ R\ \ ·\ \ Tableau\ \ ·\ \ TeX\ \ ·\ \ HTML\ \ ·\ \ CSS\ \ ·\ \ XML\ \ ·\ \ TEI
