@@ -1,5 +1,5 @@
 ---
-fontfamily: times
+fontfamily: ebgaramond
 fontsize: 12pt
 geometry: margin=1in
 papersize: letter
@@ -36,7 +36,7 @@ A.B., English _magna cum laude_
 
 Counting on _The Norton Anthology of American Literature_ \hfill _forthcoming_ \
 Co-authored with J.D. Porter \
-_PMLA / Publications of the Modern Language Association of America_
+_PMLA_ (_Publications of the Modern Language Association of America_)
 
 A Meaning Apart from its Indistinguishable Words \hfill 2022 \
 _The Nathaniel Hawthorne Review_ 48 (1): 82–98\
@@ -242,29 +242,33 @@ Berkeley-Stanford Conference. Stanford, California.
 On the Stanford Literary Lab’s Pamphlet Series \hfill 2014 \
 Future of Publication Workshop. Stanford, California.
 
-## Research Projects
+## Research Collaborations
+
+Counting on Anthologies \hfill 2022\
+with Alison Booth and J.D. Porter\
+University of Virginia Scholars' Lab and University of Pennsylvania Price Lab
 
 Quantifying the _MLA International Bibliography_ \hfill 2021\
-Collaborator: Mark Algee-Hewitt\
-University of Virginia & Stanford Literary Lab
+with Mark Algee-Hewitt\
+University of Virginia and Stanford University Literary Lab
 
 Typicality \hfill 2018\
-Collaborator: Mark Algee-Hewitt\
-Stanford Literary Lab
+with Mark Algee-Hewitt\
+Stanford University Literary Lab
 
 Microgenres \hfill 2017\
-Collaborators: Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
+with Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
 Alexander Manshel, Nichole Nomura, J.D. Porter, Hannah Walser \
-Stanford Literary Lab
+Stanford University Literary Lab
 
 Security \hfill 2015\
-Collaborators: Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
-Stanford Literary Lab
+with Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
+Stanford University Literary Lab
 
 Suspense \hfill 2014\
-Collaborators: Mark Algee-Hewitt, Abigail Droge, Tasha Eccles, Morgan Day Frank, \
+with Mark Algee-Hewitt, Abigail Droge, Tasha Eccles, Morgan Day Frank, \
 J.D. Porter, Andrew Shephard, Hannah Walser\
-Stanford Literary Lab
+Stanford University Literary Lab
 
 ## Public Humanities
 
