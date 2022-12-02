@@ -250,25 +250,25 @@ University of Virginia Scholars' Lab and University of Pennsylvania Price Lab
 
 Quantifying the _MLA International Bibliography_ \hfill 2021\
 with Mark Algee-Hewitt\
-University of Virginia and Stanford University Literary Lab
+University of Virginia and Stanford Literary Lab
 
 Typicality \hfill 2018\
 with Mark Algee-Hewitt\
-Stanford University Literary Lab
+Stanford Literary Lab
 
 Microgenres \hfill 2017\
 with Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
 Alexander Manshel, Nichole Nomura, J.D. Porter, Hannah Walser \
-Stanford University Literary Lab
+Stanford Literary Lab
 
 Security \hfill 2015\
 with Mark Algee-Hewitt, Whitney McIntosh, Stephen Stedman\
-Stanford University Literary Lab
+Stanford Literary Lab
 
 Suspense \hfill 2014\
 with Mark Algee-Hewitt, Abigail Droge, Tasha Eccles, Morgan Day Frank, \
 J.D. Porter, Andrew Shephard, Hannah Walser\
-Stanford University Literary Lab
+Stanford Literary Lab
 
 ## Public Humanities
 
