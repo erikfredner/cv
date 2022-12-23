@@ -4,13 +4,19 @@ fontsize: 12pt
 geometry: margin=1in
 papersize: letter
 urlcolor: NavyBlue
+header-includes: 
+- \usepackage[margins=raggedright]{floatrow}
 ---
 
 # Erik Fredner
 
-- [fredner@virginia.edu](mailto:fredner@virginia.edu) \hfill \today
-- <https://fredner.org>
-- [ORCID: 0000-0002-2993-4961](https://orcid.org/0000-0002-2993-4961) 
+-----       ---------
+email       [fredner@virginia.edu](mailto:fredner@virginia.edu) 
+website     <https://fredner.org>
+ORCID       [0000-0002-2993-4961](https://orcid.org/0000-0002-2993-4961) 
+updated     \today
+------      ----------
+
 
 ## Employment
 
@@ -52,8 +58,6 @@ Averaging Americans: Literature, Statistics, and Inequality \hfill 2021\
 \	Stanford University Ph.D. dissertation \
 \	Committee: Gavin Jones, Mark Algee-Hewitt, Mark McGurl, Paula Moya\
 \	<https://purl.stanford.edu/rp802rv5947>
-
-\newpage
 
 _Enumerations: Data and Literary Study_ by Andrew Piper (review) \hfill 2020 \
 \	_Studies in the Novel_ 52 (2): 220-222 \
@@ -259,8 +263,6 @@ Quantifying the _MLA International Bibliography_ \hfill 2021\
 Typicality \hfill 2018\
 \	with Mark Algee-Hewitt\
 \	Stanford Literary Lab
-
-\newpage
 
 Microgenres \hfill 2017\
 \	with Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser,\
