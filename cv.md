@@ -8,9 +8,9 @@ urlcolor: NavyBlue
 
 # Erik Fredner
 
-[fredner@virginia.edu](mailto:fredner@virginia.edu) \hfill \today \
-<https://fredner.org>\
-[ORCID: 0000-0002-2993-4961](https://orcid.org/0000-0002-2993-4961) 
+- [fredner@virginia.edu](mailto:fredner@virginia.edu) \hfill \today
+- <https://fredner.org>
+- [ORCID: 0000-0002-2993-4961](https://orcid.org/0000-0002-2993-4961) 
 
 ## Employment
 
@@ -286,10 +286,10 @@ Lead data analyst, "The Stuff of Fame," discourses of celebrity in the US \hfill
 Editor, [_Café_](https://novel.stanford.edu/csn-cafe) podcast \hfill 2019-2021 \
 \	Stanford Center for the Study of the Novel
 
-Presenter, Data privacy and security workshops hfill 2017-2021\
+Presenter, Data privacy and security workshops \hfill 2017-2021\
 \	Stanford University Department of English
 
-Contributor, [_Techne_](https://litlab.stanford.edu/techne/) \hfill 2016-
+Contributor, [_Techne_](https://litlab.stanford.edu/techne/) \hfill 2016-\
 \	Stanford Literary Lab
 
 Writer, Ph.D. Journalist Project \hfill 2014-2016 \
@@ -316,6 +316,11 @@ Writer, Ph.D. Journalist Project \hfill 2014-2016 \
 \	_The Humanities at Stanford_
 
 ### Podcast Episodes
+
+*Unless otherwise noted, episodes appeared on the Stanford Center for the Study of the Novel podcast, *Café*.*
+
+[Matriculation: The Academic Transition to College](https://virginiaaudio.org/#/symposia/) \hfill 2022\
+\   Brown Residential College at the University of Virginia *Symposia*
 
 [Andrea Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative](https://web.archive.org/web/20220429010015/https://novel.stanford.edu/csn-cafe/2021/7/23/crime-narratives-with-andrea-goulet-michelle-robinson-and-hctor-hoyos-43021-je87a) \hfill 2021
 
