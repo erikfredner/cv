@@ -4,19 +4,18 @@ fontsize: 12pt
 geometry: margin=1in
 papersize: letter
 urlcolor: NavyBlue
-header-includes: 
+header-includes:
 - \usepackage[margins=raggedright]{floatrow}
 ---
 
 # Erik Fredner
 
------       ---------
-email       [fredner@virginia.edu](mailto:fredner@virginia.edu) 
-website     <https://fredner.org>
-ORCID       [0000-0002-2993-4961](https://orcid.org/0000-0002-2993-4961) 
-updated     \today
-------      ----------
-
+-----                     ---------
+[email]{.smallcaps}       [fredner@virginia.edu](mailto:fredner@virginia.edu) 
+[orcid]{.smallcaps}       [0000-0002-2993-4961](https://orcid.org/0000-0002-2993-4961) 
+[site]{.smallcaps}        [fredner.org](https://fredner.org)
+[updated]{.smallcaps}     [\today](https://github.com/erikfredner/cv)
+------                    ----------
 
 ## Employment
 
