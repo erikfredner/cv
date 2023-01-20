@@ -1,0 +1,585 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  12pt,
+  letterpaper,
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage[]{ebgaramond}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\usepackage[margins=raggedright]{floatrow}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={NavyBlue},
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\hypertarget{erik-fredner}{%
+\section{Erik Fredner}\label{erik-fredner}}
+
+\begin{longtable}[]{@{}ll@{}}
+\endhead
+\endlastfoot
+\textsc{email} &
+\href{mailto:fredner@virginia.edu}{\nolinkurl{fredner@virginia.edu}} \\
+\textsc{orcid} &
+\href{https://orcid.org/0000-0002-2993-4961}{0000-0002-2993-4961} \\
+\textsc{site} & \href{https://fredner.org}{fredner.org} \\
+\textsc{updated} & \href{https://github.com/erikfredner/cv}{\today} \\
+\end{longtable}
+
+\hypertarget{employment}{%
+\subsection{Employment}\label{employment}}
+
+University of Virginia \hfill 2021-\\
+\hspace*{0.333em} Postdoctoral Research Associate\\
+\hspace*{0.333em} Lecturer in the College of Arts and Sciences
+
+\hypertarget{education}{%
+\subsection{Education}\label{education}}
+
+Stanford University \hfill 2014-2021\\
+\hspace*{0.333em} Ph.D., English\\
+\hspace*{0.333em} Graduate Certificate in the Digital Humanities
+
+Harvard Graduate School of Education \hfill 2011-2012\\
+\hspace*{0.333em} Undergraduate Teacher Education Program
+
+University of Oxford \hfill 2010-2011\\
+\hspace*{0.333em} St Peter's College\\
+\hspace*{0.333em} Visiting Student, English
+
+Harvard University \hfill 2008-2012\\
+\hspace*{0.333em} A.B., English \emph{magna cum laude}
+
+\hypertarget{writing}{%
+\subsection{Writing}\label{writing}}
+\bigskip
+\begin{CSLReferences}{1}{0}
+
+\leavevmode\vadjust pre{\hypertarget{ref-frednerCountingNortonAnthologyforthcoming}{}}%
+Erik Fredner and J. D. Porter. {``Counting on {\emph{The Norton
+Anthology of American Literature}}.''} \emph{PMLA},
+\emph{forthcoming}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-frednerMeaningApartIts2022}{}}%
+Erik Fredner. {``A {Meaning Apart} from {Its Indistinguishable
+Words}.''} \emph{Nathaniel Hawthorne Review} 48, no. 1 (2022): 82--98.
+\url{https://doi.org/10.5325/nathhawtrevi.48.1.0082}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-frednerAveragingAmericansLiterature2021}{}}%
+Erik Fredner. {``Averaging {Americans}: {Literature}, {Statistics}, and
+{Inequality}.''} PhD thesis, Stanford University, 2021.
+\url{https://purl.stanford.edu/rp802rv5947}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-frednerEnumerationsDataLiterary2020}{}}%
+Erik Fredner. {``Enumerations: {Data} and {Literary Study} by {Andrew
+Piper}.''} \emph{Studies in the Novel} 52, no. 2 (2020): 220--22.
+\url{https://doi.org/10.1353/sdn.2020.0026}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-frednerHamlinGarlandProblem2021}{}}%
+Erik Fredner. {``Hamlin {Garland}'s {`{Problem} of {Individual Life}'}.''}
+\emph{Nineteenth-Century Literature} 76, no. 3 (2021): 354--83.
+\url{https://doi.org/10.1525/ncl.2021.76.3.354}.
+
+\leavevmode\vadjust pre{\hypertarget{ref-algee-hewittNovelData2018}{}}%
+Mark Algee-Hewitt, Erik Fredner, and Hannah Walser. {``The {Novel} as
+{Data}.''} In \emph{The {Cambridge Companion} to the {Novel}}, edited by
+Eric Bulson, 189--216. Cambridge {Companions} to {Literature}.
+{Cambridge}: {Cambridge University Press}, 2018.
+\url{https://doi.org/10.1017/9781316659694.013}.
+
+\newpage
+
+\leavevmode\vadjust pre{\hypertarget{ref-mcclureOrganizingCorporaStanford2017}{}}%
+David McClure, Mark Algee-Hewitt, Steele Douris, Erik Fredner, and
+Hannah Walser. {``Organizing Corpora at the {Stanford Literary Lab}.
+{Balancing} Simplicity and Flexibility in Metadata Management.''} In
+\emph{Proceedings of the {Workshop} on {Challenges} in the {Management}
+of {Large Corpora} and {Big Data} and {Natural Language Processing}},
+25--29. {Birmingham}: {Institut für Deutsche Sprache}, 2017.
+\url{https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/6261}.
+
+\end{CSLReferences}
+
+\hypertarget{awards}{%
+\subsection{Awards}\label{awards}}
+
+Collaborative Research Grant, Scholarly Digital Project
+\hfill \emph{pending}\\
+\hspace*{0.333em} Co-director, ``Counting on Anthologies''\\
+\hspace*{0.333em} National Endowment for the Humanities
+
+College Fellows Development Grant \hfill 2022\\
+\hspace*{0.333em} University of Virginia
+
+Mellon Foundation Dissertation Fellowship \hfill 2020-2021\\
+\hspace*{0.333em} Stanford Humanities Center
+
+CUNY-Stanford Exchange Fellow \hfill 2018-2019\\
+\hspace*{0.333em} The City College of the City University of New York
+
+G.J. Pigott Scholar \hfill 2017-2018\\
+\hspace*{0.333em} Stanford University
+
+Excellence in Teaching Award \hfill 2017\\
+\hspace*{0.333em} Stanford University Department of English
+
+\hypertarget{teaching}{%
+\subsection{Teaching}\label{teaching}}
+
+Empirical and Scientific Engagement 1520: From Language to Data
+\hfill 2022-2023\\
+\hspace*{0.333em} University of Virginia
+
+Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2022-2023\\
+\hspace*{0.333em} University of Virginia
+
+Empirical and Scientific Engagement 1520: From Language to Data
+\hfill 2021-2022\\
+\hspace*{0.333em} University of Virginia
+
+Engaging Aesthetics 1510: Punching Up: US Satire \hfill 2021-2022\\
+\hspace*{0.333em} University of Virginia
+
+Undergraduate Summer Research Program \hfill 2019-2020\\
+\hspace*{0.333em} Stanford University Center for Spatial and Textual
+Analysis
+
+English 184E: Literary Text Mining \hfill 2019-2020\\
+\hspace*{0.333em} Stanford University
+
+English 184E: Literary Text Mining \hfill 2018-2019\\
+\hspace*{0.333em} Instructor of record: Ryan Heuser\\
+\hspace*{0.333em} Stanford University
+
+World Humanities 101: What it is like to be alive \hfill 2018-2019\\
+\hspace*{0.333em} The City College of New York
+
+English 396L: Pedagogy \hfill 2017-2018\\
+\hspace*{0.333em} Instructor of record: Paula Moya\\
+\hspace*{0.333em} Stanford University
+
+English 162W: Writing Intensive Seminar in English, Average Americans
+\hfill 2017-2018\\
+\hspace*{0.333em} Stanford University
+
+English 161: Narrative and Narrative Theory \hfill 2015-2016\\
+\hspace*{0.333em} Instructors of record: Paula Moya and J.D. Porter\\
+\hspace*{0.333em} Stanford University
+
+English 100C: Literary History III (1850-1950) \hfill 2014-2015\\
+\hspace*{0.333em} Instructor of record: Franco Moretti\\
+\hspace*{0.333em} Stanford University
+
+\hypertarget{presentations}{%
+\subsection{Presentations}\label{presentations}}
+
+On Scholarly Podcasting \hfill 2022\\
+\hspace*{0.333em} Center for Spatial and Textual Analysis. Stanford,
+California.
+
+Counting on \emph{The Norton Anthology of American Literature}
+\hfill 2022\\
+\hspace*{0.333em} DH Unbound. ACH \& CSDH\textbar SCHN.
+
+Counting on Literature \hfill 2021\\
+\hspace*{0.333em} University of Virginia. Charlottesville, Virginia.
+
+Length \& Weight \hfill 2021\\
+\hspace*{0.333em} Universitatea Lucian Blaga. Sibiu, Romania.
+
+Introduction to Computational Text Analysis in Python \hfill 2021\\
+\hspace*{0.333em} Center for Spatial and Textual Analysis. Stanford,
+California.
+
+New Histories of Quantitative and Computational Methods \hfill 2021\\
+\hspace*{0.333em} MLA 2021. Toronto, Canada.
+
+Citizenship at Scale \hfill 2020\\
+\hspace*{0.333em} C19 2020. University Park, Pennsylvania.
+
+Antebellum \& Postbellum \hfill 2020\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Typicality in the US Novel \hfill 2020\\
+\hspace*{0.333em} DH 2020. Ottawa, Canada.
+
+Celebrities \hfill 2020\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Introduction to Computational Text Analysis in Python \hfill 2020\\
+\hspace*{0.333em} Center for Spatial and Textual Analysis. Stanford,
+California.
+
+Presider, Models of Enlightenment Knowledge \hfill 2020\\
+\hspace*{0.333em} MLA 2020. Seattle, Washington.
+
+Modeling Hawthorne's Concept of the Nation \hfill 2020\\
+\hspace*{0.333em} MLA 2020. Seattle, Washington.
+
+Microgenres\hfill 2019\\
+\hspace*{0.333em} DH 2019. Utrecht, Netherlands.
+
+\emph{n} Types of Typicality \hfill 2018\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Norton Anthologies: Database, Canon, Career \hfill 2018\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+The Statistical Imaginations of Hamlin Garland and Henry
+James\hfill 2018\\
+\hspace*{0.333em} Graduate Colloquium. Stanford, California.
+
+Typicality \hfill 2018\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Distant Reading with the \emph{Oxford English Dictionary} \hfill 2017\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Average, American: Reformism and Statistics in \emph{Jason Edwards}
+\hfill 2017\\
+\hspace*{0.333em} Consortium on the Novel. Stanford, California.
+
+The Type of the Average \hfill 2017\\
+\hspace*{0.333em} Working Group on the Novel. Stanford, California.
+
+Microgenres \hfill 2017\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Reading the Norton Anthologies \hfill 2017\\
+\hspace*{0.333em} DH 2017. Montréal, Canada.
+
+Security in \emph{Foreign Affairs} \hfill 2017\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Synchronic and Diachronic Suspense \hfill 2017\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+How Many Novels Have Been Published in English? \hfill 2017\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Reading Norton Anthologies \hfill 2016\\
+\hspace*{0.333em} SyncDH. Santa Barbara, California.
+
+Reading the Norton Anthologies: Databases, Canons, and Careers
+\hfill 2016\\
+\hspace*{0.333em} Stanford Literary Lab. Stanford, California.
+
+Standing Underneath: Melville, Confidence, Testimony \hfill 2016\\
+\hspace*{0.333em} Berkeley-Stanford Conference. Berkeley, California.
+
+Fallible and Unreliable Narration in \emph{The Sound and The Fury}
+\hfill 2015\\
+\hspace*{0.333em} Narrative and Narrative Theory. Stanford, California.
+
+Another Castle: The Stolen Princess Narrative in Literature and
+Videogames \hfill 2015\\
+\hspace*{0.333em} Infinite Possibilities. Stanford, California.
+
+Virality \hfill 2015\\
+\hspace*{0.333em} DH 2015. Sydney, Australia.
+
+Suspense\ldots{} Language, Narrative, Affect \hfill 2015\\
+\hspace*{0.333em} DH 2015. Sydney, Australia.
+
+Current Projects of the Literary Lab \hfill 2015\\
+\hspace*{0.333em} SyncDH. Santa Barbara, California.
+
+``Two Blocks Joined by a Corridor:'' Time in \emph{To The Lighthouse}
+\hfill 2015\\
+\hspace*{0.333em} Literary History III. Stanford, California.
+
+``Inveigling \emph{Uncle Tom's Cabin} to Become a Ballet:'' cummings's
+\emph{Tom} \hfill 2014\\
+\hspace*{0.333em} Berkeley-Stanford Conference. Stanford, California.
+
+On the Stanford Literary Lab's Pamphlet Series \hfill 2014\\
+\hspace*{0.333em} Future of Publication Workshop. Stanford, California.
+
+\hypertarget{research-collaborations}{%
+\subsection{Research Collaborations}\label{research-collaborations}}
+
+Counting on Anthologies \hfill 2022\\
+\hspace*{0.333em} with Alison Booth and J.D. Porter\\
+\hspace*{0.333em} University of Virginia Scholars' Lab and University of
+Pennsylvania Price Lab
+
+Quantifying the \emph{MLA International Bibliography} \hfill 2021\\
+\hspace*{0.333em} with Mark Algee-Hewitt\\
+\hspace*{0.333em} University of Virginia and Stanford Literary Lab
+
+Typicality \hfill 2018\\
+\hspace*{0.333em} with Mark Algee-Hewitt\\
+\hspace*{0.333em} Stanford Literary Lab
+
+Microgenres \hfill 2017\\
+\hspace*{0.333em} with Mark Algee-Hewitt, Michaela Bronstein, Abigail
+Droge, Ryan Heuser,\\
+\hspace*{0.333em} Alexander Manshel, Nichole Nomura, J.D. Porter, Hannah
+Walser\\
+\hspace*{0.333em} Stanford Literary Lab
+
+Security \hfill 2015\\
+\hspace*{0.333em} with Mark Algee-Hewitt, Whitney McIntosh, Stephen
+Stedman\\
+\hspace*{0.333em} Stanford Literary Lab
+
+Suspense \hfill 2014\\
+\hspace*{0.333em} with Mark Algee-Hewitt, Abigail Droge, Tasha Eccles,
+Morgan Day Frank,\\
+\hspace*{0.333em} J.D. Porter, Andrew Shephard, Hannah Walser\\
+\hspace*{0.333em} Stanford Literary Lab
+
+\hypertarget{public-humanities}{%
+\subsection{Public Humanities}\label{public-humanities}}
+
+\hypertarget{roles}{%
+\subsubsection{Roles}\label{roles}}
+
+Lead data analyst, ``The Stuff of Fame,'' discourses of celebrity in the
+US \hfill 2019-\\
+\hspace*{0.333em} Stanford Literary Lab \& Smithsonian Institution
+
+Editor, \href{https://novel.stanford.edu/csn-cafe}{\emph{Café}} podcast
+\hfill 2019-2021\\
+\hspace*{0.333em} Stanford Center for the Study of the Novel
+
+Presenter, Data privacy and security workshops \hfill 2017-2021\\
+\hspace*{0.333em} Stanford University Department of English
+
+Contributor, \href{https://litlab.stanford.edu/techne/}{\emph{Techne}}
+\hfill 2016-\\
+\hspace*{0.333em} Stanford Literary Lab
+
+Writer, Ph.D.~Journalist Project \hfill 2014-2016\\
+\hspace*{0.333em} Stanford Humanities Center
+
+\hypertarget{articles}{%
+\subsubsection{Articles}\label{articles}}
+
+\href{https://web.archive.org/web/20220430165427/https://litlab.stanford.edu/typicality-in-the-u-s-novel/}{Typicality
+in US Literature} \hfill 2020\\
+\hspace*{0.333em} \emph{Techne}
+
+\href{https://web.archive.org/web/20220430054802/https://litlab.stanford.edu/finding-needles-in-34-million-haystacks/}{Finding
+needles in 34 million haystacks} \hfill 2019\\
+\hspace*{0.333em} \emph{Techne}
+
+\href{https://web.archive.org/web/20220323072937/https://litlab.stanford.edu/how-many-novels-have-been-published-in-english-an-attempt/}{How
+many novels have been published in English? An Attempt} \hfill 2017\\
+\hspace*{0.333em} \emph{Techne}
+
+\href{https://web.archive.org/web/20210810123746/https://news.stanford.edu/news/2015/february/boland-country-book-022615.html}{Eavan
+Boland interrogates identity and nationhood in new collection}
+\hfill 2015\\
+\hspace*{0.333em} \emph{The Humanities at Stanford}
+
+\href{https://web.archive.org/web/20210810125202/https://news.stanford.edu/news/2015/may/melville-scholar-boone-051115.html}{Stanford
+literary scholar: White whales and the ``Melville Effect''}
+\hfill 2015\\
+\hspace*{0.333em} \emph{The Humanities at Stanford}
+
+\href{https://web.archive.org/web/20220611230152/https://news.stanford.edu/pr/2014/pr-mandela-statue-parker-120314.html}{Stanford
+scholar questions whether statues appropriate way to commemorate
+Mandela} \hfill 2014\\
+\hspace*{0.333em} \emph{The Humanities at Stanford}
+
+\hypertarget{podcast-episodes}{%
+\subsubsection{Podcast Episodes}\label{podcast-episodes}}
+
+\emph{Unless otherwise noted, episodes appeared on the Stanford Center
+for the Study of the Novel podcast, }Café\emph{.}
+
+\href{https://virginiaaudio.org/\#/symposia/}{Matriculation: The
+Academic Transition to College} \hfill 2022\\
+\hspace*{0.333em} Brown Residential College at the University of
+Virginia \emph{Symposia}
+
+\href{https://web.archive.org/web/20220429010015/https://novel.stanford.edu/csn-cafe/2021/7/23/crime-narratives-with-andrea-goulet-michelle-robinson-and-hctor-hoyos-43021-je87a}{Andrea
+Goulet, Michelle Robinson, and Héctor Hoyos on crime narrative}
+\hfill 2021
+
+\href{https://web.archive.org/web/20220429093420/https://novel.stanford.edu/csn-cafe/2021/7/23/nicholas-paige-technologies-of-the-novel-2821}{Nicholas
+Paige on \emph{Technologies of the Novel}} \hfill 2021
+
+\href{https://web.archive.org/web/20220429093353/https://novel.stanford.edu/csn-cafe/2021/7/23/books-at-the-center-dorothy-hale-the-novel-and-the-new-ethics-11521}{Dorothy
+Hale, Nancy Ruttenburg, and Alex Woloch on \emph{The Novel and the New
+Ethics}} \hfill 2021
+
+\href{https://web.archive.org/web/20220429093326/https://novel.stanford.edu/csn-cafe/2021/7/23/sharon-marcus-on-her-ian-watt-lecture-103020}{Sharon
+Marcus on the 2020 Ian Watt Lecture} \hfill 2020
+
+\href{https://web.archive.org/web/20220429010109/https://novel.stanford.edu/csn-cafe/2021/7/23/wai-chee-dimock-john-plotz-and-colin-milburn-on-the-literature-of-planetary-futures-52319}{Wai
+Chee Dimock, John Plotz, and Colin Milburn on planetary futures}
+\hfill 2020
+
+\href{https://web.archive.org/web/20220429010041/https://novel.stanford.edu/csn-cafe/2021/7/23/ato-quayson-john-kerrigan-and-richard-halpern-on-postcolonial-tragedy-91519}{Ato
+Quayson, John Kerrigan, and Richard Halpern on postcolonial tragedy}
+\hfill 2020
+
+\href{https://web.archive.org/web/20220429093237/https://novel.stanford.edu/csn-cafe/2021/7/23/fashion-stories-emily-apter-rhonda-garelick-and-anne-higonnet-on-the-cultural-history-of-clothing-1920}{Emily
+Apter, Rhonda Garelick, and Anne Higonnet on fashion stories}
+\hfill 2020
+
+\href{https://web.archive.org/web/20220429093211/https://novel.stanford.edu/csn-cafe/2021/7/23/books-at-the-center-stephen-best-mario-tel-and-kris-cohen-on-none-like-us-101019}{Stephen
+Best, Mario Telò, and Kris Cohen on \emph{None Like Us}} \hfill 2020
+
+\href{https://web.archive.org/web/20220429093144/https://novel.stanford.edu/csn-cafe/2021/7/23/rita-felski-on-her-2019-ian-watt-lecture-5319}{Rita
+Felski on the 2019 Ian Watt Lecture} \hfill 2019
+
+\hypertarget{conferences-organized}{%
+\subsection{Conferences Organized}\label{conferences-organized}}
+
+Findings: Is computation changing the study of literature? \hfill 2017\\
+\hspace*{0.333em} Stanford University
+
+Literature: A history of the word \hfill 2016\\
+\hspace*{0.333em} Stanford University
+
+Making \& Breaking: The Berkeley-Stanford Conference \hfill 2015\\
+\hspace*{0.333em} University of California, Berkeley
+
+Micromégas: The Objects of the Digital Humanities \hfill 2015\\
+\hspace*{0.333em} Stanford University
+
+\hypertarget{service}{%
+\subsection{Service}\label{service}}
+
+Reviewer, \emph{Digital Scholarship in the Humanities} \hfill 2022-
+
+Consultant, Stanford University Department of English virtual
+instruction transition \hfill 2020
+
+Webmaster, Stanford Literary Lab \hfill 2017-2020
+
+Reviewer, Alliance of Digital Humanities Organizations Conference
+\hfill 2016-
+
+Liaison, Berkeley-Stanford English Graduate Student Councils
+\hfill 2015-2019
+
+Examiner, American Literature Practice Qualifying Exams \hfill 2015-2018
+
+Coordinator, Stanford Literary Lab \hfill 2014-2019
+
+\hypertarget{affiliations}{%
+\subsection{Affiliations}\label{affiliations}}
+
+The Association for Computers and the Humanities \hfill 2020-
+
+C19: The Society of Nineteenth-Century Americanists \hfill 2019-
+
+Alliance of Digital Humanities Organizations \hfill 2014-
+
+Modern Language Association \hfill 2014-
+
+\hypertarget{technical}{%
+\subsection{Technical}\label{technical}}
+
+\begin{itemize}
+\tightlist
+\item
+  Python
+\item
+  R
+\item
+  Tableau
+\item
+  pandoc
+\item
+  TeX
+\item
+  HTML
+\item
+  CSS
+\item
+  XML
+\item
+  TEI
+\end{itemize}
+
+\end{document}

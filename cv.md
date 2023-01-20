@@ -6,7 +6,16 @@ papersize: letter
 urlcolor: NavyBlue
 header-includes:
 - \usepackage[margins=raggedright]{floatrow}
+bibliography: /Users/erik/book/references.bib
+csl: /Users/erik/Zotero/styles/chicago-fullnote-bibliography.csl
+nocite: |
+    @frednerCountingNortonAnthologyforthcoming, @frednerMeaningApartIts2022, @frednerHamlinGarlandProblem2021, @frednerAveragingAmericansLiterature2021, @frednerEnumerationsDataLiterary2020, @algee-hewittNovelData2018,
+    @mcclureOrganizingCorporaStanford2017
 ---
+
+# TEST REFS
+::: {#refs}
+:::
 
 # Erik Fredner
 
@@ -386,6 +395,7 @@ Modern Language Association \hfill 2014-
 - Python
 - R
 - Tableau
+- pandoc
 - TeX
 - HTML
 - CSS
