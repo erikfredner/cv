@@ -24,7 +24,9 @@
 
 % select default typefaces
 \usepackage{ebgaramond} % document's serif typeface
-\usepackage{tgheros}    % document's sans serif typeface
+\usepackage{montserrat} % document's sans serif typeface
+%\usepackage{FiraSans}
+%\usepackage{tgheros}    
 
 % how far to tab for list items with left-aligned date: different fonts need different widths
 \newcommand{\listtabwidth}{1.7cm}
@@ -107,9 +109,11 @@
 \begin{minipage}[t]{0.295\textwidth}
 	% contact info details, right-aligned
 	\flushright{}
-	\href{mailto:erik.fredner@richmond.edu}{erik.fredner@richmond.edu} \\
+	\today \\
 	\href{https://fredner.org}{https://fredner.org} \\
-	\href{https://orcid.org/0000-0002-2993-4961}{orcid: 0000-0002-2993-4961}
+	\href{mailto:erik.fredner@richmond.edu}{erik.fredner@richmond.edu}
+
+	%\href{https://orcid.org/0000-0002-2993-4961}{orcid: 0000-0002-2993-4961}
 \end{minipage}
 
 \section*{Education}
@@ -361,6 +365,7 @@ Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that referen
 \section*{Service}
 
 \begin{tablist}
+	\item[2024--] \tab{}Reviewer, \emph{PMLA/Publications of the Modern Language Association of America}
 	\item[2024--] \tab{}Generative Artificial Intelligence Committee, University of Richmond, Department of English
 	\item[2024--] \tab{}Reviewer, National Endowment for the Humanities—Office of Digital Humanities
 	\item[2023--] \tab{}Invited Referee, European Research Council
@@ -406,9 +411,4 @@ Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that referen
 
 Spanish (intermediate); French (reading)
 
-% display today's date as Month Year after a vertical space below the end of the text
-\vfill
-\begin{center}
-	\today
-\end{center}
 \end{document}
