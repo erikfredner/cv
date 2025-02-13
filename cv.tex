@@ -25,24 +25,20 @@
 % select default typefaces
 \usepackage{ebgaramond} % document's serif typeface
 \usepackage{raleway}
-%\usepackage[book]{FiraSans}
-%\usepackage{atkinson}
-%\usepackage{helvet} % document's sans serif typeface
-%\usepackage{montserrat} 
 
 % how far to tab for list items with left-aligned date: different fonts need different widths
 \newcommand{\listtabwidth}{1.7cm}
 
 % define font to use as document's title
-\newcommand{\namefont}[1]{{\sffamily\bfseries\Huge{#1}}}
+\newcommand{\namefont}[1]{{\Huge{#1}}}
 
 % set section heading fonts and before/after spacing
 \SetTracking{encoding=*, family=\sfdefault}{30} % increase sans serif headings tracking
-\titleformat{\section}{\lsstyle\sffamily\small\bfseries\uppercase}{}{}{}{}
+\titleformat{\section}{\color{gray}\lsstyle\sffamily\small\bfseries\MakeUppercase}{}{}{}{}
 \titlespacing{\section}{0pt}{30pt plus 4pt minus 4pt}{8pt plus 2pt minus 2pt}
 
 % set subsection heading fonts and before/after spacing
-\titleformat{\subsection}{\lsstyle\sffamily\footnotesize\bfseries}{}{}{}{}
+\titleformat{\subsection}{\color{gray}\lsstyle\sffamily\footnotesize\bfseries}{}{}{}{}
 \titlespacing{\subsection}{0pt}{16pt plus 4pt minus 4pt}{4pt plus 2pt minus 2pt}
 
 % set page margins (assumes letter paper)
@@ -84,7 +80,7 @@
 % define hyperlink appearance and metadata for pdf properties
 \hypersetup{
     colorlinks  = true,
-    urlcolor    = blue,
+    urlcolor    = Blue,
     citecolor   = black,
     linkcolor   = black,
     pdfauthor   = {\myname},
@@ -122,13 +118,13 @@
 
 \begin{tablist}
 	\item[Ph.D.] \tab{}Stanford University\\
-	English \& Graduate Certificate in Digital Humanities (2021)
+	English \& Graduate Certificate in Digital Humanities, 2021
 	\item[A.B.]  \tab{}Harvard University\\
-	English \textit{magna cum laude} (2012)
+	English \textit{magna cum laude}, 2012
 	\item[] \tab{}Harvard Graduate School of Education\\
-	Undergraduate Teacher Education Program (2012)
+	Undergraduate Teacher Education Program, 2012
 	\item[] \tab{}University of Oxford\\
-	St Peter's College, Visiting Student of English (2011)
+	St Peter's College, Visiting Student of English, 2011
 \end{tablist}
 
 \section*{Appointments}
