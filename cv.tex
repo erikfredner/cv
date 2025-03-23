@@ -1,4 +1,4 @@
-%!TeX program = pdflatex
+%!TeX program = xelatex
 % Erik Fredner's Curriculum Vitae
 
 \documentclass[12pt,letterpaper]{report}
@@ -18,27 +18,30 @@
 \usepackage{changepage} % to indent in-progress descriptions
 \usepackage{multicol}
 
-
 % what is your name?
 \newcommand{\myname}{Erik Fredner}
 
 % select default typefaces
-\usepackage{ebgaramond} % document's serif typeface
-\usepackage{raleway}
+\usepackage{fontspec}
+\setmainfont{Helvetica Neue}%{Atkinson Hyperlegible Next}
+\setmonofont{Fira Code}%{Atkinson Hyperlegible Mono}
 
 % how far to tab for list items with left-aligned date: different fonts need different widths
-\newcommand{\listtabwidth}{1.7cm}
+\newcommand{\listtabwidth}{2cm}
 
 % define font to use as document's title
-\newcommand{\namefont}[1]{{\Huge{#1}}}
+\newcommand{\namefont}[1]{{\bfseries\Huge{#1}}}
+
+% define table labels
+\newcommand{\tablelabel}[1]{{\color{gray}{#1}}}
 
 % set section heading fonts and before/after spacing
-\SetTracking{encoding=*, family=\sfdefault}{30} % increase sans serif headings tracking
-\titleformat{\section}{\color{gray}\lsstyle\sffamily\small\bfseries\MakeUppercase}{}{}{}{}
-\titlespacing{\section}{0pt}{30pt plus 4pt minus 4pt}{8pt plus 2pt minus 2pt}
+\SetTracking{encoding=*}{30} % increase sans serif headings tracking
+\titleformat{\section}{\bfseries\large}{}{}{}{}
+\titlespacing{\section}{0pt}{20pt plus 4pt minus 4pt}{8pt plus 2pt minus 2pt}
 
 % set subsection heading fonts and before/after spacing
-\titleformat{\subsection}{\color{gray}\lsstyle\sffamily\footnotesize\bfseries}{}{}{}{}
+\titleformat{\subsection}{\bfseries}{}{}{}{}
 \titlespacing{\subsection}{0pt}{16pt plus 4pt minus 4pt}{4pt plus 2pt minus 2pt}
 
 % set page margins (assumes letter paper)
@@ -74,13 +77,10 @@
     parsep=\listitemspace,
     font=\normalfont}
 
-% print only the month and year when using \today
-\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
-
 % define hyperlink appearance and metadata for pdf properties
 \hypersetup{
     colorlinks  = true,
-    urlcolor    = Blue,
+    urlcolor    = blue,
     citecolor   = black,
     linkcolor   = black,
     pdfauthor   = {\myname},
@@ -96,23 +96,14 @@
 % display your name as the document title
 \namefont{\myname}
 
-% affiliation and contact info blocks
-\vspace{1em}
-\begin{minipage}[t]{0.700\textwidth}
-	% current primary affiliation, left-aligned
-	University of Richmond\\
-	Department of English\\
-	Visiting Assistant Professor of Data Science
-\end{minipage}
-\begin{minipage}[t]{0.295\textwidth}
-	% contact info details, right-aligned
-	\flushright{}
-	\today \\
-	\href{https://fredner.org}{https://fredner.org} \\
-	\href{mailto:erik.fredner@richmond.edu}{erik.fredner@richmond.edu}
+\vspace{20pt plus 4pt minus 4pt}
 
-	%\href{https://orcid.org/0000-0002-2993-4961}{orcid: 0000-0002-2993-4961}
-\end{minipage}
+\begin{tabular}{l l}
+	\tablelabel{affiliation} & \href{https://english.richmond.edu/faculty/efredner/}{University of Richmond} \\
+	\tablelabel{email}       & \href{mailto:erik.fredner@richmond.edu}{erik.fredner@richmond.edu}            \\
+	\tablelabel{website}     & \href{https://fredner.org}{https://fredner.org}                               \\
+	\tablelabel{updated}     & \today                                                                        \\
+\end{tabular}
 
 \section*{Education}
 
@@ -130,10 +121,15 @@
 \section*{Appointments}
 
 \begin{tablist}
-	\item[2024--]   \tab{}University of Richmond\\
-	Department of English, Visiting Assistant Professor of Data Science
+	\item[2025--]   \tab{}Oregon State University\\
+	School of Writing, Literature, and Film\\
+	Assistant Professor of Digital Humanities and Literature
+	\item[2024--25]   \tab{}University of Richmond\\
+	Department of English\\
+	Visiting Assistant Professor of Data Science \& Statistics
 	\item[2021--24] \tab{}University of Virginia\\
-	College of Arts and Sciences, Postdoctoral Research Associate \& Lecturer
+	College of Arts and Sciences\\
+	Postdoctoral Research Associate \& Lecturer
 \end{tablist}
 
 \section*{Publications}
@@ -162,7 +158,7 @@
 \subsection*{Dataset}
 
 \begin{tablist}
-	\item[\emph{forthc.}] \tab{}Erik Fredner. \enquote{Moving the Capital of US Literature from Boston to New York: Evidence from 11 Million Library of Congress Catalog Records.} \emph{The Nineteenth-Century Data Collective}, ed. Meredith Martin and Megan Ward. Princeton University Libraries.
+	\item[2025] \tab{}Erik Fredner. \enquote{Moving the Capital of US Literature from Boston to New York: Evidence from 11 Million Library of Congress Catalog Records.} \emph{The Nineteenth-Century Data Collective}, ed. Meredith Martin and Megan Ward. Princeton University Libraries.
 \end{tablist}
 
 \subsection*{Dissertation}
@@ -180,7 +176,7 @@
 
 \smallskip
 
-A computational literary history arguing that the increasing centrality of statistical thinking differentiates US fiction published after the Civil War. 85,000 words.
+\tabto{2em} A computational literary history arguing that the increasing centrality of statistical thinking differentiates US fiction published after the Civil War. 80,000 words.
 
 \subsection*{Essays}
 
@@ -188,7 +184,7 @@ A computational literary history arguing that the increasing centrality of stati
 
 \smallskip
 
-Co-authored with J.D. Porter. Preliminarily accepted for \textit{Cultures of Scale: Disciplines, Data, and Labor}, ed. Joshua Ortiz Baco, Jim Casey, Benjamin Charles Germain Lee, and Sarah H. Salter. \textit{Debates in Digital Humanities}, series ed. Matthew K. Gold and Lauren F. Klein. University of Minnesota Press. 6,000 words.
+\tabto{2em} Co-authored with J.D. Porter. Preliminarily accepted for \textit{Cultures of Scale: Disciplines, Data, and Labor}, ed. Joshua Ortiz Baco, Jim Casey, Benjamin Charles Germain Lee, and Sarah H. Salter. \textit{Debates in Digital Humanities}, series ed. Matthew K. Gold and Lauren F. Klein. University of Minnesota Press. 6,000 words.
 
 \bigskip
 
@@ -196,7 +192,7 @@ Co-authored with J.D. Porter. Preliminarily accepted for \textit{Cultures of Sca
 
 \smallskip
 
-Preliminarily accepted for a special issue of \textit{MFS: Modern Fiction Studies} on "Cultural AI" edited by Richard Jean So and Aarthi Vadde. 7,000 words.
+\tabto{2em} Preliminarily accepted for a special issue of \textit{MFS: Modern Fiction Studies} on "Cultural AI" edited by Richard Jean So and Aarthi Vadde. 7,000 words.
 
 \bigskip
 
@@ -204,7 +200,7 @@ Preliminarily accepted for a special issue of \textit{MFS: Modern Fiction Studie
 
 \smallskip
 
-Revise and resubmit. Analyzes US Census Bureau statistics showing a significant decline in reading for pleasure in the US from 1982 to 2023. 10,000 words.
+\tabto{2em} Revise and resubmit. Analyzes US Census Bureau statistics showing a significant decline in reading for pleasure in the US from 1982 to 2023. 10,000 words.
 
 \bigskip
 
@@ -212,7 +208,7 @@ Revise and resubmit. Analyzes US Census Bureau statistics showing a significant 
 
 \smallskip
 
-Co-authored with Mark Algee-Hewitt. First large-scale analysis of about 900,000 records from \textit{The MLA International Bibliography} describing research on literatures in English. 10,000 words.
+\tabto{2em} Co-authored with Mark Algee-Hewitt. First large-scale analysis of about 900,000 records from \textit{The MLA International Bibliography} describing research on literatures in English. 10,000 words.
 
 \bigskip
 
@@ -220,7 +216,7 @@ Co-authored with Mark Algee-Hewitt. First large-scale analysis of about 900,000 
 
 \smallskip
 
-Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that reference literature. Uses the dollar value of those questions to measure the subjective rarity of what they test. 5,000 words.
+\tabto{2em} Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that reference literature. Uses the dollar value of those questions to measure the subjective rarity of what they test. 5,000 words.
 
 \section*{Awards}
 
@@ -235,31 +231,13 @@ Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that referen
 	\item[2017] \tab{}Excellence in Teaching Award, Stanford University, Department of English
 \end{tablist}
 
-\section*{Teaching}
-
-\begin{tablist}
-	\item[2025] \tab{}\href{https://fredner.org/teaching}{Data Science and Statistics 389: \enquote{Advanced Data Science,}} University of Richmond
-	\item[2024] \tab{}\href{https://fredner.org/teaching}{Data Science and Statistics 289: \enquote{Introduction to Data Science,}} University of Richmond
-	\item[2024] \tab{}\href{https://fredner.org/teaching}{\enquote{Text Classification with Large Language Models,}} The Text Analysis Pedagogy Institute
-	\item[2021--24] \tab{}\href{https://fredner.org/teaching}{Empirical and Scientific Engagement 1520: \enquote{From Language to Data,}} University of Virginia
-	\item[2021--24] \tab{}\href{https://fredner.org/teaching}{Engaging Aesthetics 1510: \enquote{Punching Up: US Satire,}} University of Virginia
-	\item[2020] \tab{}Summer Research Program, Stanford Center for Spatial and Textual Analysis
-	\item[2018--20] \tab{}\href{https://fredner.org/teaching}{English 184E: \enquote{Literary Text Mining,}} Stanford University \\
-	Instructor of record (2018): Ryan Heuser
-	\item[2018--19] \tab{}\href{https://fredner.org/teaching}{World Humanities 101: \enquote{\enquote{What it is like to be alive,}}} The City College of New York
-	\item[2017--18] \tab{}English 396L: Pedagogy, Stanford University \\
-	Instructor of record: Paula Moya
-	\item[2017--18] \tab{}\href{https://fredner.org/teaching}{English 162W: \enquote{Average Americans:} Writing Intensive Seminar in English,} Stanford University
-	\item[2015--16] \tab{}English 161: \enquote{Narrative and Narrative Theory,} Stanford University \\
-	Instructors of record: Paula Moya and J.D. Porter
-	\item[2014--15] \tab{}English 100C: \enquote{Literary History III (1850-1950),} Stanford University \\
-	Instructor of record: Franco Moretti
-\end{tablist}
-
 
 \section*{Presentations}
 
 \begin{tablist}
+	\item[2025] \tab{}\enquote{The Literary Canon on \emph{Jeopardy!}, 1984-2024,} Alliance of Digital Humanities Organizations, Universidade NOVA de Lisboa
+	\item[2025] \tab{}\enquote{The \enquote{Already Implicit} Canon of African American Literature in 2025: Data from Anthologies of African American Literature} Digital Americanists Panel, The American Literature Association, Boston, Massachusetts
+	\item[2025] \tab{}\enquote{Imprint Geographies of US Literature Since 1945,} Stanford Literary Lab
 	\item[2024] \tab{}\href{https://fredner.org/reading}{\enquote{The Ends of Reading,}} Faculty and Staff Symposium, University of Richmond
 	\item[2024] \tab{}\href{https://docs.google.com/presentation/d/1l9RF4TAfG1vhc70sQD6SnQdnvPGKdysiGc0saopwz_U/edit?usp=sharing}{\enquote{\emph{The MLA International Bibliography}'s History of English-Language Literary Studies,}} Alliance of Digital Humanities Organizations, George Mason University
 	\item[2024] \tab{}\href{https://docs.google.com/presentation/d/1kxUCWK4iz4En_G63ZDqExkxh6nzd3Qp0PB6DmuwebyU/edit?usp=sharing}{\enquote{Anthologies as Databases,}} Digital Americanists Panel, The American Literature Association, Chicago, Illinois
@@ -314,7 +292,7 @@ Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that referen
 \end{tablist}
 
 
-\section*{Research Collaborations}
+\section*{Collaborations}
 
 \begin{tablist}
 	\item[2022--] \tab{}\enquote{Counting on Anthologies of African American Literature,} with J.D. Porter (University of Pennsylvania); Arthur Knight and Alexander Nwala (College of William \& Mary)
@@ -323,6 +301,31 @@ Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that referen
 	\item[2017] \tab{}\enquote{Microgenres,} with Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Ryan Heuser, Alexander Manshel, Nichole Nomura, J.D. Porter, and Hannah Walser (Stanford Literary Lab)
 	\item[2015] \tab{}\enquote{Security,} with Mark Algee-Hewitt, Whitney McIntosh, and Stephen Stedman (Stanford Literary Lab)
 	\item[2014] \tab{}\enquote{Suspense,} with Mark Algee-Hewitt, Abigail Droge, Tasha Eccles, Morgan Day Frank, J.D. Porter, Andrew Shephard, and Hannah Walser (Stanford Literary Lab)
+\end{tablist}
+
+\section*{Teaching}
+
+\subsection*{As instructor of record}
+
+\begin{tablist}
+	\item[2024--25] \tab{}\href{https://fredner.org/teaching}{Data Science and Statistics 389: \enquote{Advanced Data Science,}} University of Richmond
+	\item[2024--25] \tab{}\href{https://fredner.org/teaching}{Data Science and Statistics 289: \enquote{Introduction to Data Science,}} University of Richmond
+	\item[2024] \tab{}\href{https://fredner.org/teaching}{\enquote{Text Classification with Large Language Models,}} The Text Analysis Pedagogy Institute
+	\item[2021--24] \tab{}\href{https://fredner.org/teaching}{Empirical and Scientific Engagement 1520: \enquote{From Language to Data,}} University of Virginia
+	\item[2021--24] \tab{}\href{https://fredner.org/teaching}{Engaging Aesthetics 1510: \enquote{Punching Up: US Satire,}} University of Virginia
+	\item[2020] \tab{}Summer Research Program, Stanford Center for Spatial and Textual Analysis
+	\item[2018--19] \tab{}\href{https://fredner.org/teaching}{English 184E: \enquote{Literary Text Mining,}} Stanford University \\
+	\item[2018--19] \tab{}\href{https://fredner.org/teaching}{World Humanities 101: \enquote{\enquote{What it is like to be alive,}}} The City College of New York
+	\item[2017--18] \tab{}\href{https://fredner.org/teaching}{English 162W: \enquote{Average Americans:} Writing Intensive Seminar in English,} Stanford University
+\end{tablist}
+
+\subsection*{As teaching assistant}
+
+\begin{tablist}
+	\item[2018--19] \tab{}\href{https://fredner.org/teaching}{English 184E: \enquote{Literary Text Mining,}} Stanford University. Instructor of record: Ryan Heuser.
+	\item[2017--18] \tab{}English 396L: Pedagogy, Stanford University. Instructor of record: Paula Moya.
+	\item[2015--16] \tab{}English 161: \enquote{Narrative and Narrative Theory,} Stanford University. Instructors of record: Paula Moya and J.D. Porter.
+	\item[2014--15] \tab{}English 100C: \enquote{Literary History III (1850-1950),} Stanford University. Instructor of record: Franco Moretti.
 \end{tablist}
 
 \section*{Public Humanities}
@@ -406,16 +409,20 @@ Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that referen
 
 \section*{Technical}
 
-\begin{itemize}
-	\item Programming: Python, R, Jupyter, RStudio, \texttt{zsh}, \texttt{git}
-	\item Scientific Publishing: \texttt{pandoc}, Quarto, Markdown, \LaTeX{}, Django, HTML
-	\item Databases: \texttt{postgres}, DBeaver, SQL
-	\item Data Visualization: \texttt{matplotlib}, \texttt{ggplot}, Tableau
-	\item Natural Language Processing: \texttt{nltk}, \texttt{spaCy}, \texttt{stanza}, Ollama, OpenAI API
-\end{itemize}
+\begin{tabular}{l l}
+	\tablelabel{programming}                 & Python, R, \texttt{tidyverse}, Jupyter, RStudio, \texttt{zsh}, \texttt{git} \\
+	\tablelabel{scientific publishing}       & \texttt{pandoc}, Quarto, Markdown, \LaTeX{}, Django, HTML                   \\
+	\tablelabel{databases}                   & \texttt{postgres}, DBeaver, SQL                                             \\
+	\tablelabel{data visualization}          & \texttt{matplotlib}, \texttt{ggplot}, Tableau                               \\
+	\tablelabel{natural language processing} & \texttt{nltk}, \texttt{spaCy}, \texttt{stanza}, Ollama, OpenAI API          \\
+\end{tabular}
 
 \section*{Languages}
 
-Spanish (intermediate); French (reading)
+Spanish (intermediate); French (reading); Chinese (2 semesters)
+
+\section*{References}
+
+Available upon request.
 
 \end{document}
