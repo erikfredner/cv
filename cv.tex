@@ -3,7 +3,7 @@
 
 \documentclass[12pt,letterpaper]{report}
 
-\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) for accented characters as single glyph
+%\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) for accented characters as single glyph
 \usepackage[strict,autostyle]{csquotes} % smart and nestable quote marks
 \usepackage[USenglish]{babel} % regionalize hyphens, quote marks, etc automatically
 \usepackage{microtype}% improve text appearance with kerning, etc
@@ -30,7 +30,7 @@
 \newcommand{\listtabwidth}{2cm}
 
 % define font to use as document's title
-\newcommand{\namefont}[1]{{\Huge{#1}}}
+\newcommand{\namefont}[1]{{\scshape\Huge{#1}}}
 
 % define table labels
 \newcommand{\tablelabel}[1]{{\color{gray}{#1}}}
@@ -99,23 +99,25 @@
 \vspace{20pt plus 4pt minus 4pt}
 
 \begin{tabular}{l l}
-	\tablelabel{affiliation} & \href{https://english.richmond.edu/faculty/efredner/}{University of Richmond} \\
-	\tablelabel{email}       & \href{mailto:erik.fredner@richmond.edu}{erik.fredner@richmond.edu}            \\
-	\tablelabel{website}     & \href{https://fredner.org}{https://fredner.org}                               \\
-	\tablelabel{updated}     & \today                                                                        \\
+	\tablelabel{affiliation} & Oregon State University                                                  \\
+	\tablelabel{email}       & \href{mailto:erik.fredner@oregonstate.edu}{erik.fredner@oregonstate.edu} \\
+	\tablelabel{website}     & \href{https://fredner.org}{https://fredner.org}                          \\
+	\tablelabel{updated}     & \today                                                                   \\
 \end{tabular}
 
 \section*{Education}
 
 \begin{tablist}
 	\item[2014--21] \tab{}Stanford University\\
-	Ph.D., English; Graduate Certificate in Digital Humanities
+	Ph.D., English\\
+	Graduate Certificate in Digital Humanities
 	\item[2008--12]  \tab{}Harvard University\\
 	A.B., English \textit{magna cum laude}
 	\item[2011--12] \tab{}Harvard Graduate School of Education\\
 	Undergraduate Teacher Education Program
 	\item[2010--11] \tab{}University of Oxford\\
-	St Peter's College; Visiting Student of English
+	St Peter's College\\
+	Visiting Student of English
 \end{tablist}
 
 \section*{Appointments}
@@ -138,8 +140,8 @@
 
 \begin{tablist}
 	\item[2024] \tab{}Erik Fredner and J.D. Porter. \enquote{Counting on \textit{The Norton Anthology of American Literature}.} \textit{PMLA/Publications of the Modern Language Association of America}, 139(1): 50--65. \href{https://doi.org/10.1632/S0030812923001189}{doi:10.1632/S0030812923001189}
-	\item[2022] \tab{}Erik Fredner. \enquote{A Meaning Apart from Its Indistinguishable Words.} \textit{Nathaniel Hawthorne Review}, 48(1): 82--98. \href{https://doi.org/10.5325/nathhawtrevi.48.1.0082}{doi:10.5325/nathhawtrevi.48.1.0082}
-	\item[2021] \tab{}Erik Fredner. \enquote{Hamlin Garland's \enquote{Problem of Individual Life.}} \textit{Nineteenth-Century Literature}, 76(3): 354--383. \href{https://doi.org/10.1525/ncl.2021.76.3.354}{doi:10.1525/ncl.2021.76.3.354}
+	\item[2022] \tab{}\enquote{A Meaning Apart from Its Indistinguishable Words.} \textit{Nathaniel Hawthorne Review}, 48(1): 82--98. \href{https://doi.org/10.5325/nathhawtrevi.48.1.0082}{doi:10.5325/nathhawtrevi.48.1.0082}
+	\item[2021] \tab{}\enquote{Hamlin Garland's \enquote{Problem of Individual Life.}} \textit{Nineteenth-Century Literature}, 76(3): 354--383. \href{https://doi.org/10.1525/ncl.2021.76.3.354}{doi:10.1525/ncl.2021.76.3.354}
 	\item[2017] \tab{}David McClure, Mark Algee-Hewitt, Steele Douris, Erik Fredner, and Hannah Walser. \enquote{Organizing Corpora at the Stanford Literary Lab: Balancing Simplicity and Flexibility in Metadata Management.} \textit{Proceedings of the Workshop on Challenges in the Management of Large Corpora}, 25--29. \href{https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/6261}{doi:10.5281/zenodo.1137914}
 \end{tablist}
 
@@ -149,16 +151,16 @@
 	\item[2018] \tab{}Mark Algee-Hewitt, Erik Fredner, and Hannah Walser. \enquote{The Novel as Data.} In \textit{The Cambridge Companion to the Novel}, ed. Eric Bulson, 189--216. Cambridge University Press. \href{https://doi.org/10.1017/9781316659694.013}{doi:10.1017/9781316659694.013}
 \end{tablist}
 
-\subsection*{Review}
-
-\begin{tablist}
-	\item[2020] \tab{}Erik Fredner. \enquote{\emph{Enumerations: Data and Literary Study} by Andrew Piper.} \textit{Studies in the Novel}, 52(2): 220--222. \href{https://doi.org/10.1353/sdn.2020.0026}{doi:10.1353/sdn.2020.0026}
-\end{tablist}
-
 \subsection*{Dataset}
 
 \begin{tablist}
-	\item[2025] \tab{}Erik Fredner. \enquote{Moving the Capital of US Literature from Boston to New York: Evidence from 11 Million Library of Congress Catalog Records.} \emph{The Nineteenth-Century Data Collective}, ed. Meredith Martin and Megan Ward. Princeton University Libraries.
+	\item[2025] \tab{}\enquote{Moving the Capital of US Literature from Boston to New York: Evidence from 11 Million Library of Congress Catalog Records.} \emph{The Nineteenth-Century Data Collective}, ed. Meredith Martin and Megan Ward. Princeton University Libraries. \href{https://doi.org/10.34770/xcgb-zn76}{doi:10.34770/xcgb-zn76}
+\end{tablist}
+
+\subsection*{Review}
+
+\begin{tablist}
+	\item[2020] \tab{}\enquote{\emph{Enumerations: Data and Literary Study} by Andrew Piper.} \textit{Studies in the Novel}, 52(2): 220--222. \href{https://doi.org/10.1353/sdn.2020.0026}{doi:10.1353/sdn.2020.0026}
 \end{tablist}
 
 \subsection*{Dissertation}
@@ -219,6 +221,14 @@
 
 \tabto{2em} Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that reference literature. Uses the dollar value of those questions to measure the subjective rarity of what they test. 5,000 words.
 
+\bigskip
+
+\enquote{Leaving New York? Imprint Geographies of US Literature since 1945}
+
+\smallskip
+
+\tabto{2em} Co-authored with Luca Messarra. Using Library of Congress catalog records, this essay demonstrates that most works of American literature were only published in New York City between 1947 and 1964. The essay studies technological explanations for this counterintuitive literary historical pattern, especially the rise of offset lithography. 8,000 words.
+
 \section*{Awards}
 
 \begin{tablist}
@@ -237,8 +247,8 @@
 
 \begin{tablist}
 	\item[2025] \tab{}\enquote{The Literary Canon on \emph{Jeopardy!}, 1984-2024,} Alliance of Digital Humanities Organizations, Universidade NOVA de Lisboa
-	\item[2025] \tab{}\enquote{The \enquote{Already Implicit} Canon of African American Literature in 2025: Data from Anthologies of African American Literature} Digital Americanists Panel, The American Literature Association, Boston, Massachusetts
-	\item[2025] \tab{}\enquote{Imprint Geographies of US Literature Since 1945,} Stanford Literary Lab
+	\item[2025] \tab{}\href{https://docs.google.com/presentation/d/1c1X7_zyKkjxVqbuqmaMsGpWm5r97p9xdhqk0EVOzB-o/edit?usp=sharing}{\enquote{The \enquote{Already Implicit} Canon: Data from Anthologies of African American Literature,}} Digital Americanists Panel, The American Literature Association, Boston, Massachusetts
+	\item[2025] \tab{}\href{https://docs.google.com/presentation/d/15yNejLLfCzIx5XXUeD_KRjnP8dYNx1J4Snds-yeDd_k/edit?usp=sharing}{\enquote{Leaving New York? Imprint Geographies of US Literature since 1945,}} Stanford Literary Lab
 	\item[2024] \tab{}\href{https://fredner.org/reading}{\enquote{The Ends of Reading,}} Faculty and Staff Symposium, University of Richmond
 	\item[2024] \tab{}\href{https://docs.google.com/presentation/d/1l9RF4TAfG1vhc70sQD6SnQdnvPGKdysiGc0saopwz_U/edit?usp=sharing}{\enquote{\emph{The MLA International Bibliography}'s History of English-Language Literary Studies,}} Alliance of Digital Humanities Organizations, George Mason University
 	\item[2024] \tab{}\href{https://docs.google.com/presentation/d/1kxUCWK4iz4En_G63ZDqExkxh6nzd3Qp0PB6DmuwebyU/edit?usp=sharing}{\enquote{Anthologies as Databases,}} Digital Americanists Panel, The American Literature Association, Chicago, Illinois
@@ -375,6 +385,7 @@
 \section*{Service}
 
 \begin{tablist}
+	\item[2025--] \tab{}Reviewer, \emph{Humanities}
 	\item[2025--] \tab{}Reviewer, \emph{Post45 Data Collective}
 	\item[2024--] \tab{}Reviewer, \emph{PMLA/Publications of the Modern Language Association of America}
 	\item[2024--25] \tab{}Generative Artificial Intelligence Committee, University of Richmond, Department of English
