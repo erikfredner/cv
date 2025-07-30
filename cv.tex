@@ -3,7 +3,7 @@
 
 \documentclass[12pt,letterpaper]{report}
 
-%\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) for accented characters as single glyph
+\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) for accented characters as single glyph
 \usepackage[strict,autostyle]{csquotes} % smart and nestable quote marks
 \usepackage[USenglish]{babel} % regionalize hyphens, quote marks, etc automatically
 \usepackage{microtype}% improve text appearance with kerning, etc
@@ -17,6 +17,7 @@
 \usepackage[dvipsnames]{xcolor} % Load xcolor with extended color names
 \usepackage{changepage} % to indent in-progress descriptions
 \usepackage{multicol}
+\usepackage{calc}
 
 % what is your name?
 \newcommand{\myname}{Erik Fredner}
@@ -29,19 +30,16 @@
 % how far to tab for list items with left-aligned date: different fonts need different widths
 \newcommand{\listtabwidth}{2cm}
 
-% define font to use as document's title
-\newcommand{\namefont}[1]{{\scshape\Huge{#1}}}
-
 % define table labels
 \newcommand{\tablelabel}[1]{{\color{gray}{#1}}}
 
 % set section heading fonts and before/after spacing
 \SetTracking{encoding=*}{30} % increase sans serif headings tracking
-\titleformat{\section}{\large\scshape}{}{}{}{}
+\titleformat{\section}{\Large\color{gray}}{}{}{}{}
 %\titlespacing{\section}{0pt}{20pt plus 4pt minus 4pt}{8pt plus 2pt minus 2pt}
 
 % set subsection heading fonts and before/after spacing
-\titleformat{\subsection}{\scshape}{}{}{}{}
+\titleformat{\subsection}{\large\color{gray}}{}{}{}{}
 %\titlespacing{\subsection}{0pt}{16pt plus 4pt minus 4pt}{4pt plus 2pt minus 2pt}
 
 % set page margins (assumes letter paper)
@@ -59,12 +57,8 @@
 \newcommand{\listitemspace}{0.25em}
 
 % make unordered lists without bullets and use compact spacing
-\renewenvironment{itemize}
-{\begin{list}{}{\setlength{\leftmargin}{0em}
-                \setlength{\parskip}{0em}
-                \setlength{\itemsep}{\listitemspace}
-                \setlength{\parsep}{\listitemspace}}}
-{\end{list}}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{label=, leftmargin=*, itemsep=\listitemspace, parsep=\listitemspace, parskip=0em}
 
 % make tabbed lists so content is left-aligned next to years
 \TabPositions{\listtabwidth}
@@ -94,15 +88,14 @@
 \raggedright{}
 
 % display your name as the document title
-\namefont{\myname}
+{\huge\myname}
 
 \vspace{20pt plus 4pt minus 4pt}
 
 \begin{tabular}{l l}
-	\tablelabel{affiliation} & Oregon State University                                                  \\
-	\tablelabel{email}       & \href{mailto:erik.fredner@oregonstate.edu}{erik.fredner@oregonstate.edu} \\
-	\tablelabel{website}     & \href{https://fredner.org}{https://fredner.org}                          \\
-	\tablelabel{updated}     & \today                                                                   \\
+	\tablelabel{email}   & \href{mailto:erik.fredner@oregonstate.edu}{erik.fredner@oregonstate.edu} \\
+	\tablelabel{website} & \href{https://fredner.org}{https://fredner.org}                          \\
+	\tablelabel{updated} & \today                                                                   \\
 \end{tabular}
 
 \section*{Education}
@@ -132,6 +125,9 @@
 	\item[2021--24] \tab{}University of Virginia\\
 	College of Arts and Sciences\\
 	Postdoctoral Research Associate and Lecturer
+	\item[2018--19]	\tab{}The City College of New York\\
+	Department of English\\
+	Graduate Teaching Fellow
 \end{tablist}
 
 \section*{Publications}
@@ -179,7 +175,7 @@
 
 \smallskip
 
-\tabto{2em} A computational literary history arguing that the increasing centrality of statistical thinking differentiates US fiction published after the Civil War. 80,000 words.
+\tabto{2em} A computational literary history arguing that the increasing centrality of statistical thinking differentiates US fiction published after the Civil War.
 
 \subsection*{Essays}
 
@@ -187,7 +183,7 @@
 
 \smallskip
 
-\tabto{2em} Co-authored with J.D. Porter. Preliminarily accepted for \textit{Cultures of Scale: Disciplines, Data, and Labor}, ed. Joshua Ortiz Baco, Jim Casey, Benjamin Charles Germain Lee, and Sarah H. Salter. \textit{Debates in Digital Humanities}, series ed. Matthew K. Gold and Lauren F. Klein. University of Minnesota Press. 6,000 words.
+\tabto{2em} Co-authored with J.D. Porter. Preliminarily accepted for \textit{Cultures of Scale: Disciplines, Data, and Labor}, ed. Joshua Ortiz Baco, Jim Casey, Benjamin Charles Germain Lee, and Sarah H. Salter. \textit{Debates in Digital Humanities}, series ed. Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
 \bigskip
 
@@ -195,7 +191,7 @@
 
 \smallskip
 
-\tabto{2em} Preliminarily accepted for a special issue of \textit{MFS: Modern Fiction Studies} on "Cultural AI" edited by Richard Jean So and Aarthi Vadde. 7,000 words.
+\tabto{2em} Preliminarily accepted for a special issue of \textit{MFS: Modern Fiction Studies} on "Cultural AI" edited by Richard Jean So and Aarthi Vadde.
 
 \bigskip
 
@@ -203,15 +199,15 @@
 
 \smallskip
 
-\tabto{2em} Revise and resubmit. Analyzes US Census Bureau statistics showing a significant decline in reading for pleasure in the US from 1982 to 2023. 10,000 words.
+\tabto{2em} Analyzes US Census Bureau statistics showing a significant decline in reading for pleasure in the US from 1982 to 2023. (Under review.)
 
 \bigskip
 
-\enquote{\emph{The MLA International Bibliography}'s English-Language Literary History, 1981-2023}
+\enquote{Leaving New York? Locations of US Literary Publishing Since 1945}
 
 \smallskip
 
-\tabto{2em} Co-authored with Mark Algee-Hewitt. First large-scale analysis of about 900,000 records from \textit{The MLA International Bibliography} describing research on literatures in English. 10,000 words.
+\tabto{2em} Co-authored with Luca Messarra. Using Library of Congress catalog records, this essay demonstrates that most works of American literature were only published in New York City between 1947 and 1964. The essay studies technological explanations for this counterintuitive literary historical pattern, especially the rise of offset lithography. (Under review.)
 
 \bigskip
 
@@ -219,15 +215,15 @@
 
 \smallskip
 
-\tabto{2em} Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that reference literature. Uses the dollar value of those questions to measure the subjective rarity of what they test. 5,000 words.
+\tabto{2em} Identifies approximately 70,000 questions asked on \emph{Jeopardy!} that reference literature. Uses the dollar value of those questions to measure the subjective rarity of what they test.
 
 \bigskip
 
-\enquote{Leaving New York? Imprint Geographies of US Literature since 1945}
+\enquote{\emph{The MLA International Bibliography}'s English-Language Literary History, 1981-2023}
 
 \smallskip
 
-\tabto{2em} Co-authored with Luca Messarra. Using Library of Congress catalog records, this essay demonstrates that most works of American literature were only published in New York City between 1947 and 1964. The essay studies technological explanations for this counterintuitive literary historical pattern, especially the rise of offset lithography. 8,000 words.
+\tabto{2em} Co-authored with Mark Algee-Hewitt. First large-scale analysis of about 900,000 records from \textit{The MLA International Bibliography} describing research on literatures in English.
 
 \section*{Awards}
 
