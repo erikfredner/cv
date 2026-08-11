@@ -1,43 +1,51 @@
 \documentclass[12pt, letterpaper]{article}
 
-% Font and Encoding
+%--- FONTS ---
+% pdfLaTeX + ebgaramond, so every dependency ships with TeX Live and the
+% document builds anywhere. Don't switch to fontspec/system fonts.
 \usepackage[T1]{fontenc}
 \usepackage{ebgaramond}
 
-% Geometry and Layout
+%--- LAYOUT ---
 \usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
 \usepackage{titlesec}
 
-% URL Handling
-\usepackage{xurl} 
-\usepackage{xcolor}
+% Section headings: body font, followed by a rule.
+\titleformat{\section}{}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{12pt}{6pt}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+
+%--- LINKS ---
+\usepackage{xurl}
 \usepackage[hidelinks]{hyperref}
 \hypersetup{
     breaklinks=true,
     pdfauthor={Erik Fredner},
-    pdftitle={CV}
+    pdftitle={Erik Fredner CV}
 }
-% URLs set in the body font, not monospace
+% URLs set in the body font, not monospace. Side effect: oldstyle figures in
+% DOIs, and \url kerning gaps around 'f'. \urlstyle{tt} reverts both.
 \urlstyle{same}
 
-% Section formatting
-\titleformat{\section}
-    {}
-    {}
-    {0em}
-    {}[\titlerule]
-\titlespacing{\section}{0pt}{12pt}{6pt}
+%--- MACROS ---
+% Every CV item is an \entry. Wrapped lines hang-indent 1.5em.
+\newcommand{\entry}[1]{\hangindent=1.5em\hangafter=1 #1\par}
 
-% List formatting
-\newcommand{\pubentry}[1]{\hangindent=1.5em\hangafter=1 #1\par}
+% Sections whose entries fit on one line (Appointments, Education, Awards,
+% Teaching) set tight. Without this, \parskip between entries adds ~45pt
+% overall and spills Teaching onto a third page.
+\newenvironment{tight}{\setlength{\parskip}{0pt}}{}
 
-% Paragraph settings
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{3pt}
+\newcommand{\doi}[1]{\url{https://doi.org/#1}}
 
 \begin{document}
 
 %--- HEADER ---
+% \textperiodcentered{} rather than $\cdot$: math mode would set the dot in
+% Computer Modern. The {} keeps the following space.
 \begin{center}
     {\Large{Erik Fredner}} \\
     {\color{gray} \footnotesize \href{https://fredner.org}{fredner.org} \textperiodcentered{} \href{mailto:erik.fredner@oregonstate.edu}{erik.fredner@oregonstate.edu} \textperiodcentered{} \today}
@@ -45,65 +53,74 @@
 
 %--- APPOINTMENTS ---
 \section{Appointments}
-Assistant Professor of Digital Humanities and Literature, Oregon State University, 2025--. \\
-Visiting Assistant Professor of Data Science and Statistics, University of Richmond, 2024--25. \\
-Postdoctoral Research Associate and Lecturer, University of Virginia, 2021--24.
+\begin{tight}
+\entry{Assistant Professor of Digital Humanities and Literature, Oregon State University, 2025--.}
+\entry{Visiting Assistant Professor of Data Science and Statistics, University of Richmond, 2024--25.}
+\entry{Postdoctoral Research Associate and Lecturer, University of Virginia, 2021--24.}
+\end{tight}
 
 %--- EDUCATION ---
 \section{Education}
-Ph.D., English, Graduate Certificate in Digital Humanities, Stanford University, 2021. \\
-A.B., English, \textit{magna cum laude}, Harvard University, 2012. \\
-Undergraduate Teacher Education Program, Harvard Graduate School of Education, 2012. \\
-Visiting Student of English, St Peter's College, University of Oxford, 2011.
+\begin{tight}
+\entry{Ph.D., English, Graduate Certificate in Digital Humanities, Stanford University, 2021.}
+\entry{A.B., English, \textit{magna cum laude}, Harvard University, 2012.}
+\entry{Undergraduate Teacher Education Program, Harvard Graduate School of Education, 2012.}
+\entry{Visiting Student of English, St Peter's College, University of Oxford, 2011.}
+\end{tight}
 
-%--- PUBLICATIONS (CHRONOLOGICAL) ---
+%--- PUBLICATIONS ---
 \section{Selected Publications}
-\pubentry{Erik Fredner, ``Reading with Large Language Models,'' \textit{MFS Modern Fiction Studies} special issue on ``Cultural AI,'' forthcoming.}
-\pubentry{Erik Fredner and J.D. Porter, ``Anthologies at Scale: Reading, Fast and Slow,'' \textit{Cultures of Scale}, \textit{Debates in the Digital Humanities} series, forthcoming.}
-\pubentry{Erik Fredner and Luca Messarra, ``Leaving New York: The Dispersion of Twentieth Century US Literary Publishing,'' forthcoming. \url{https://doi.org/10.1093/alh/ajag058}}
-\pubentry{Erik Fredner, ``The Ends of Reading,'' \textit{American Literature}, forthcoming. \url{https://doi.org/10.1215/00029831-12720407}}
-\pubentry{Erik Fredner, ``Moving the Capital of US Literature from Boston to New York,'' \textit{The Nineteenth-Century Data Collective}, 2025. \url{https://doi.org/10.34770/xcgb-zn76}}
-\pubentry{Erik Fredner and J. D. Porter, ``Counting on \textit{The Norton Anthology of American Literature},'' \textit{PMLA} 139.1: 50--65, 2024. \url{https://doi.org/10.1632/S0030812923001189}}
-\pubentry{Erik Fredner, ``A Meaning Apart from Its Indistinguishable Words,'' \textit{Nathaniel Hawthorne Review} 48.1: 82--98, 2022. \url{https://doi.org/10.5325/nathhawtrevi.48.1.0082}}
-\pubentry{Erik Fredner, ``Hamlin Garland's `Problem of Individual Life,'\,'' \textit{Nineteenth-Century Literature} 76.3: 354--383, 2021. \url{https://doi.org/10.1525/ncl.2021.76.3.354}}
-\pubentry{Erik Fredner, ``Averaging Americans: Literature, Statistics, and Inequality,'' doctoral dissertation, Stanford University, 2021. \url{https://purl.stanford.edu/rp802rv5947}}
-\pubentry{David McClure, Mark Algee-Hewitt, et al., ``Organizing Corpora at the Stanford Literary Lab,'' \textit{CMLC}: 25--29, 2019. \url{https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/6261}}
-\pubentry{Mark Algee-Hewitt, Erik Fredner, Hannah Walser, ``The Novel as Data,'' in \textit{The Cambridge Companion to the Novel}, 189--216, 2018. \url{https://doi.org/10.1017/9781316659694.013}}
+\entry{Erik Fredner, ``Reading with Large Language Models,'' \textit{MFS Modern Fiction Studies} special issue on ``Cultural AI,'' forthcoming.}
+\entry{Erik Fredner and J.D. Porter, ``Anthologies at Scale: Reading, Fast and Slow,'' \textit{Cultures of Scale}, \textit{Debates in the Digital Humanities} series, forthcoming.}
+\entry{Erik Fredner and Luca Messarra, ``Leaving New York: The Dispersion of Twentieth Century US Literary Publishing,'' forthcoming. \doi{10.1093/alh/ajag058}}
+\entry{Erik Fredner, ``The Ends of Reading,'' \textit{American Literature}, forthcoming. \doi{10.1215/00029831-12720407}}
+\entry{Erik Fredner, ``Moving the Capital of US Literature from Boston to New York,'' \textit{The Nineteenth-Century Data Collective}, 2025. \doi{10.34770/xcgb-zn76}}
+\entry{Erik Fredner and J.D. Porter, ``Counting on \textit{The Norton Anthology of American Literature},'' \textit{PMLA} 139.1: 50--65, 2024. \doi{10.1632/S0030812923001189}}
+\entry{Erik Fredner, ``A Meaning Apart from Its Indistinguishable Words,'' \textit{Nathaniel Hawthorne Review} 48.1: 82--98, 2022. \doi{10.5325/nathhawtrevi.48.1.0082}}
+\entry{Erik Fredner, ``Hamlin Garland's `Problem of Individual Life,'\,'' \textit{Nineteenth-Century Literature} 76.3: 354--383, 2021. \doi{10.1525/ncl.2021.76.3.354}}
+\entry{Erik Fredner, ``Averaging Americans: Literature, Statistics, and Inequality,'' doctoral dissertation, Stanford University, 2021. \url{https://purl.stanford.edu/rp802rv5947}}
+\entry{David McClure, Mark Algee-Hewitt, et al., ``Organizing Corpora at the Stanford Literary Lab,'' \textit{CMLC}: 25--29, 2019. \url{https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/6261}}
+\entry{Mark Algee-Hewitt, Erik Fredner, Hannah Walser, ``The Novel as Data,'' in \textit{The Cambridge Companion to the Novel}, 189--216, 2018. \doi{10.1017/9781316659694.013}}
 
 %--- WIP ---
 \section{Works in Progress}
-\pubentry{Erik Fredner, J.D. Porter, and Arthur Knight, ``The Implicit Canon Across Anthologies of African American Literature,'' in preparation.}
-\pubentry{Erik Fredner, ``The Literary Canon on \textit{Jeopardy!},'' in preparation.}
-\pubentry{Erik Fredner and Mark Algee-Hewitt, ``The Literary Canon According to \textit{The MLA International Bibliography},'' in preparation.}
-\pubentry{Erik Fredner, \textit{Averaging Americans: Why US Literature Started Thinking Statistically}, in preparation.}
+\entry{Erik Fredner, J.D. Porter, and Arthur Knight, ``The Implicit Canon Across Anthologies of African American Literature,'' in preparation.}
+\entry{Erik Fredner, ``The Literary Canon on \textit{Jeopardy!},'' in preparation.}
+\entry{Erik Fredner and Mark Algee-Hewitt, ``The Literary Canon According to \textit{The MLA International Bibliography},'' in preparation.}
+\entry{Erik Fredner, \textit{Averaging Americans: Why US Literature Started Thinking Statistically}, in preparation.}
 
 %--- AWARDS ---
 \section{Selected Awards}
-Faculty Research Fellowship, Oregon State University Center for the Humanities, 2026--27. \\
-Critical AI Literacy Summer Teaching Fellowship, Oregon State University, 2026. \\
-College Fellows Development Grant (\textit{Jeopardy!}), University of Virginia, 2024. \\
-College Fellows Development Grant (\textit{MLA Bibliography}), University of Virginia, 2022. \\
-Mellon Foundation Dissertation Fellowship, Stanford Humanities Center, 2020--21. \\
-Exchange Fellow, Stanford University--City College of New York, 2018--19.
+\begin{tight}
+\entry{Faculty Research Fellowship, Oregon State University Center for the Humanities, 2026--27.}
+\entry{Critical AI Literacy Summer Teaching Fellowship, Oregon State University, 2026.}
+\entry{College Fellows Development Grant (\textit{Jeopardy!}), University of Virginia, 2024.}
+\entry{College Fellows Development Grant (\textit{MLA Bibliography}), University of Virginia, 2022.}
+\entry{Mellon Foundation Dissertation Fellowship, Stanford Humanities Center, 2020--21.}
+\entry{Exchange Fellow, Stanford University--City College of New York, 2018--19.}
+\end{tight}
 
+%--- PRESENTATIONS ---
 \section{Selected Presentations}
-\pubentry{Erik Fredner, ``Canons within canons? Anthology selections of US literature across series,'' Symposium: ``Mapping the Canon: Quantitative Approaches to Literary History'', Technische Universität Darmstadt, 2026.}
-\pubentry{Erik Fredner, ``The Literary Canon on \textit{Jeopardy!}, 1984--2024,'' Alliance of Digital Humanities Organizations, Universidade NOVA de Lisboa, 2025.}
-\pubentry{Erik Fredner, J.D. Porter, and Arthur Knight, ``The `Already Implicit' Canon: Data from Anthologies of African American Literature,'' Digital Americanists Panel, American Literature Association, 2025.}
-\pubentry{Erik Fredner and Luca Messarra, ``Leaving New York? Imprint Geographies of US Literature Since 1945,'' Stanford Literary Lab, 2025.}
-\pubentry{Erik Fredner, ``The Ends of Reading,'' Faculty and Staff Symposium, University of Richmond, 2024.}
-\pubentry{Erik Fredner and Mark Algee-Hewitt, ``\textit{The MLA International Bibliography}'s History of English-Language Literary Studies,'' Alliance of Digital Humanities Organizations, George Mason University, 2024.}
-\pubentry{Erik Fredner and J.D. Porter, ``Anthologies as Databases,'' Digital Americanists Panel, American Literature Association, 2024.}
-\pubentry{Erik Fredner, ``The Ends of Reading: Reading Statistics and the Overestimation of Literary Studies' Aim,'' Reader Studies in the Digital Age Symposium, Price Lab for Digital Humanities at the University of Pennsylvania, 2024.}
-\pubentry{Erik Fredner, ``Challenging Nineteenth-Century Data Legacies,'' Mellon Sawyer Seminar, Stanford Center for Spatial and Textual Analysis, 2024.}
+\entry{Erik Fredner, ``Canons within canons? Anthology selections of US literature across series,'' Symposium: ``Mapping the Canon: Quantitative Approaches to Literary History'', Technische Universität Darmstadt, 2026.}
+\entry{Erik Fredner, ``The Literary Canon on \textit{Jeopardy!}, 1984--2024,'' Alliance of Digital Humanities Organizations, Universidade NOVA de Lisboa, 2025.}
+\entry{Erik Fredner, J.D. Porter, and Arthur Knight, ``The `Already Implicit' Canon: Data from Anthologies of African American Literature,'' Digital Americanists Panel, American Literature Association, 2025.}
+\entry{Erik Fredner and Luca Messarra, ``Leaving New York? Imprint Geographies of US Literature Since 1945,'' Stanford Literary Lab, 2025.}
+\entry{Erik Fredner, ``The Ends of Reading,'' Faculty and Staff Symposium, University of Richmond, 2024.}
+\entry{Erik Fredner and Mark Algee-Hewitt, ``\textit{The MLA International Bibliography}'s History of English-Language Literary Studies,'' Alliance of Digital Humanities Organizations, George Mason University, 2024.}
+\entry{Erik Fredner and J.D. Porter, ``Anthologies as Databases,'' Digital Americanists Panel, American Literature Association, 2024.}
+\entry{Erik Fredner, ``The Ends of Reading: Reading Statistics and the Overestimation of Literary Studies' Aim,'' Reader Studies in the Digital Age Symposium, Price Lab for Digital Humanities at the University of Pennsylvania, 2024.}
+\entry{Erik Fredner, ``Challenging Nineteenth-Century Data Legacies,'' Mellon Sawyer Seminar, Stanford Center for Spatial and Textual Analysis, 2024.}
 
 %--- TEACHING ---
 \section{Selected Teaching}
-``Introduction to Digital Humanities,'' Oregon State University, 2026--27. \\
-``Introduction to Science Fiction and Fantasy,'' Oregon State University, 2026--27. \\
-``Introduction to Fiction,'' Oregon State University, 2025--26. \\
-``Advanced Data Science,'' University of Richmond, 2024--25. \\
-``Introduction to Data Science,'' University of Richmond, 2024--25. \\
-``From Language to Data,'' University of Virginia, 2021--24.
+\begin{tight}
+\entry{``Introduction to Digital Humanities,'' Oregon State University, 2026--27.}
+\entry{``Introduction to Science Fiction and Fantasy,'' Oregon State University, 2026--27.}
+\entry{``Introduction to Fiction,'' Oregon State University, 2025--26.}
+\entry{``Advanced Data Science,'' University of Richmond, 2024--25.}
+\entry{``Introduction to Data Science,'' University of Richmond, 2024--25.}
+\entry{``From Language to Data,'' University of Virginia, 2021--24.}
+\end{tight}
 
 \end{document}
