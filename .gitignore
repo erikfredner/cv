@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# except
+!cv.tex
+!README.md
+!CLAUDE.md
+!.gitignore
