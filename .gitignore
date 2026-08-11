@@ -6,3 +6,8 @@
 !README.md
 !CLAUDE.md
 !.gitignore
+!build.sh
+!docs/
+!docs/cv.pdf
+!docs/index.html
+!docs/.nojekyll
