@@ -10,9 +10,22 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{xcolor}
 \usepackage{titlesec}
+\usepackage{tikz}
 
-% Section headings: body font, followed by a rule.
-\titleformat{\section}{}{}{0em}{}[\titlerule]
+% Section headings: body font, followed by a rule that fades black to white
+% left to right. \titlerule can't do a gradient, so the rule is a tikz shading
+% the width of the text block. (tikz ships with TeX Live; no new dependency
+% beyond the usual distribution.)
+% The \par/\nointerlineskip wrapper matters: \titlerule drops a bare \hrule on
+% the vertical list, but a tikzpicture forces horizontal mode, and the extra
+% \baselineskip per section spills the CV onto a third page.
+\newcommand{\faderule}{%
+    \par\nointerlineskip
+    \vbox{\hbox{\tikz{\shade[left color=black, right color=white]
+        (0,0) rectangle (\linewidth,0.4pt);}}}%
+    \nointerlineskip
+}
+\titleformat{\section}{}{}{0em}{}[\faderule]
 \titlespacing{\section}{0pt}{12pt}{6pt}
 
 \setlength{\parindent}{0pt}
